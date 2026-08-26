@@ -7,6 +7,7 @@ import {
   ToolCard,
   ToolButton,
 } from "@/components/sites/tool-browser-qq-com/shared/ToolPageShell";
+import { imgSrc } from "@/lib/img-path";
 
 const DESCRIPTION = "在线录屏，支持录制指定浏览器标签页、指定窗口以及整个屏幕";
 
@@ -328,7 +329,7 @@ export default function Page() {
               }}
             >
               <Image
-                src="/sites/tool-browser-qq-com/screen_record/record.png"
+                src={imgSrc("/sites/tool-browser-qq-com/screen_record/record.png")}
                 alt=""
                 width={35}
                 height={35}
@@ -441,7 +442,7 @@ export default function Page() {
           <div className="mt-[16px] flex gap-[20px]">
             <div className="flex-1 rounded-[10px] bg-white p-[12px]">
               <Image
-                src="/sites/tool-browser-qq-com/screen_record/tutorial1.png"
+                src={imgSrc("/sites/tool-browser-qq-com/screen_record/tutorial1.png")}
                 alt="操作指引示意图"
                 width={600}
                 height={400}

@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { CATEGORIES, IMAGES } from "./data";
 import { cn } from "@/lib/utils";
+import { imgSrc } from "@/lib/img-path";
 
 // Left fixed sidebar: logo + category nav.
 // On the live site this is `position: fixed; width: 240px; background #F6F7FA`.
@@ -19,7 +20,7 @@ export function LeftNav({ activeHref = "/" }: { activeHref?: string }) {
         className="mt-10 flex items-center pb-[30px] pl-[30px] no-underline"
       >
         <Image
-          src={IMAGES.logo}
+          src={imgSrc(IMAGES.logo)}
           alt="FoxHelper"
           width={30}
           height={30}

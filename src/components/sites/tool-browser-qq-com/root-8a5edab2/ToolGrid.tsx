@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import type { ToolItem } from "../shared/data";
 import { TOOLS } from "../shared/data";
+import { imgSrc } from "@/lib/img-path";
 
 // The 160-card tool grid. Live: display:grid; grid-template-columns: 390px 390px 390px;
 // container margin 0 30px 30px 0. Each .tool-item (a): 360x100, margin 30px 30px 0 0,
@@ -30,7 +31,7 @@ function ToolCard({ tool }: { tool: ToolItem }) {
     <>
       {/* icon */}
       <Image
-        src={tool.icon}
+        src={imgSrc(tool.icon)}
         alt={tool.name}
         width={60}
         height={60}

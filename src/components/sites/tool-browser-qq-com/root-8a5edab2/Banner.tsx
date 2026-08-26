@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { BANNER_PANELS, IMAGES } from "../shared/data";
 import { MoreArrowIcon } from "../shared/icons";
+import { imgSrc } from "@/lib/img-path";
 
 // Two featured panels side by side: 最新工具 / 最热工具.
 // Live: .banner-container margin 0 30px, flex; each .banner-item-new 555x277, margin 0 15px,
@@ -35,7 +36,7 @@ function Panel({
           更多工具
           <span className="ml-[4px] flex items-center">
             <Image
-              src={IMAGES.moreArrow}
+              src={imgSrc(IMAGES.moreArrow)}
               alt=""
               width={12}
               height={12}
@@ -54,7 +55,7 @@ function Panel({
             className="mr-[20px] block h-[200px] w-[158px] no-underline"
           >
             <Image
-              src={c.icon}
+              src={imgSrc(c.icon)}
               alt={c.alt}
               width={100}
               height={100}

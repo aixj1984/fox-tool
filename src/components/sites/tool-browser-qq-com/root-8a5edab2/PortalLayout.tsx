@@ -52,6 +52,7 @@ function FilteredToolGrid({ tools }: { tools: ToolItem[] }) {
 
 import Link from "next/link";
 import Image from "next/image";
+import { imgSrc } from "@/lib/img-path";
 
 function ToolCardWrapper({ tool }: { tool: ToolItem }) {
   const isExternal = tool.href.startsWith("http");
@@ -60,7 +61,7 @@ function ToolCardWrapper({ tool }: { tool: ToolItem }) {
   const inner = (
     <>
       <Image
-        src={tool.icon}
+        src={imgSrc(tool.icon)}
         alt={tool.name}
         width={60}
         height={60}
