@@ -1,0 +1,5 @@
+[     423ms] [LOG] ENV [false, false, false] @ https://static.res.qq.com/qbtool/js/pchome.cfc73aa9.js:2
+[     541ms] [LOG] QBVipBeacon report data pageModule 27 actType ep actModule  aid undefined status undefined pay_status undefined {extinfo1: {"sysid":"2"}, extinfo2: , extinfo3: , extinfo4: , extinfo5: } reportKey tool_card_pc_page_floating @ https://static.res.qq.com/qbtool/js/pchome.cfc73aa9.js:2
+[  204734ms] [LOG] QBVipBeacon report data pageModule 28 actType ep actModule  aid undefined status undefined pay_status undefined {extinfo1: {"sysid":"2"}, extinfo2: , extinfo3: , extinfo4: , extinfo5: } reportKey tool_card_pc_page_floating @ https://static.res.qq.com/qbtool/js/pchome.cfc73aa9.js:2
+[  624324ms] [LOG] ENV [false, false, false] @ https://static.res.qq.com/qbtool/js/pchome.cfc73aa9.js:2
+[  624465ms] [LOG] QBVipBeacon report data pageModule 27 actType ep actModule  aid undefined status undefined pay_status undefined {extinfo1: {"sysid":"2"}, extinfo2: , extinfo3: , extinfo4: , extinfo5: } reportKey tool_card_pc_page_floating @ https://static.res.qq.com/qbtool/js/pchome.cfc73aa9.js:2

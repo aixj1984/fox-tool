@@ -1,0 +1,86 @@
+- generic [active] [ref=f6e1]:
+  - generic [ref=f6e2]:
+    - complementary "工具分类导航" [ref=f6e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f6e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f6e5]
+        - generic [ref=f6e6]:
+          - generic [ref=f6e7]: 帮小忙
+          - generic [ref=f6e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f6e9]:
+        - list [ref=f6e10]:
+          - listitem [ref=f6e11]:
+            - link "全部" [ref=f6e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f6e14]:
+            - link "图片工具" [ref=f6e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f6e17]:
+            - link "PDF转换工具" [ref=f6e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f6e20]:
+            - link "数据换算工具" [ref=f6e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f6e23]:
+            - link "生活娱乐工具" [ref=f6e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f6e26]:
+            - link "教育工具" [ref=f6e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f6e29]:
+            - link "文本工具" [ref=f6e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f6e32]:
+            - link "文档转换工具" [ref=f6e33] [cursor=pointer]:
+              - /url: /category/doc
+          - listitem [ref=f6e35]:
+            - link "开发工具" [ref=f6e36] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f6e38]:
+            - link "视频工具" [ref=f6e39] [cursor=pointer]:
+              - /url: /category/video
+          - listitem [ref=f6e41]:
+            - link "浏览器插件" [ref=f6e42] [cursor=pointer]:
+              - /url: /category/pc_plugin
+    - main [ref=f6e45]:
+      - generic [ref=f6e46]:
+        - generic [ref=f6e49]:
+          - img "搜索按钮" [ref=f6e50]
+          - textbox "搜索工具" [ref=f6e51]
+          - generic:
+            - text: 工具箱已累计帮助了
+            - generic: "0"
+            - text: 人次
+        - button "分享" [ref=f6e53] [cursor=pointer]
+        - generic [ref=f6e60]: QQ浏览器 · 工具权益卡
+      - generic [ref=f6e62]:
+        - link "在线录屏 在线录屏 在线录屏，支持录制指定浏览器标签页、指定窗口以及整个屏幕 new" [ref=f6e63] [cursor=pointer]:
+          - /url: /screen_record
+          - img "在线录屏" [ref=f6e64]
+          - generic [ref=f6e65]:
+            - generic [ref=f6e66]: 在线录屏
+            - generic [ref=f6e67]: 在线录屏，支持录制指定浏览器标签页、指定窗口以及整个屏幕
+          - generic [ref=f6e68]: new
+        - link "视频转gif 视频转gif 视频转GIF是一款实用的在线工具，专为将视频文件转换为GIF动画而设计。通过这款工具，您可以轻松将视频中的精彩片段提取并转换为GIF格式，便于在社交媒体、聊天应用和其他平台上分享和使用。" [ref=f6e69] [cursor=pointer]:
+          - /url: /video_2_gif
+          - img "视频转gif" [ref=f6e70]
+          - generic [ref=f6e71]:
+            - generic [ref=f6e72]: 视频转gif
+            - generic [ref=f6e73]: 视频转GIF是一款实用的在线工具，专为将视频文件转换为GIF动画而设计。通过这款工具，您可以轻松将视频中的精彩片段提取并转换为GIF格式，便于在社交媒体、聊天应用和其他平台上分享和使用。
+      - generic [ref=f6e76]:
+        - generic [ref=f6e77]:
+          - generic [ref=f6e78]: 轻松办公，工具助你一臂之力
+          - generic [ref=f6e79]:
+            - link "隐私政策" [ref=f6e80] [cursor=pointer]:
+              - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+            - link "数据处理规则及免责声明" [ref=f6e81] [cursor=pointer]:
+              - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+          - generic [ref=f6e82]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
+        - img "二维码" [ref=f6e84]
+  - button "Open Next.js Dev Tools" [ref=f6e90] [cursor=pointer]:
+    - generic [ref=f6e93]:
+      - text: Compiling
+      - generic [ref=f6e94]:
+        - generic [ref=f6e95]: .
+        - generic [ref=f6e96]: .
+        - generic [ref=f6e97]: .

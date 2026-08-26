@@ -1,0 +1,166 @@
+- generic [ref=f13e1]:
+  - generic [ref=f13e2]:
+    - complementary "工具分类导航" [ref=f13e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f13e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f13e5]
+        - generic [ref=f13e6]:
+          - generic [ref=f13e7]: 帮小忙
+          - generic [ref=f13e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f13e9]:
+        - list [ref=f13e10]:
+          - listitem [ref=f13e11]:
+            - link "全部" [ref=f13e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f13e14]:
+            - link "图片工具" [ref=f13e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f13e17]:
+            - link "PDF转换工具" [ref=f13e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f13e20]:
+            - link "数据换算工具" [ref=f13e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f13e23]:
+            - link "生活娱乐工具" [ref=f13e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f13e26]:
+            - link "教育工具" [ref=f13e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f13e29]:
+            - link "文本工具" [ref=f13e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f13e32]:
+            - link "开发工具" [ref=f13e33] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f13e35]:
+            - link "视频工具" [ref=f13e36] [cursor=pointer]:
+              - /url: /category/video
+    - main [ref=f13e39]:
+      - generic [ref=f13e41]:
+        - link "图片编辑器 图片编辑器 图片编辑器集合了多种实用的功能，包括图片裁剪、图片滤镜、图片旋转、图片翻转、图片画图、图片添加文字等。 new" [ref=f13e42] [cursor=pointer]:
+          - /url: /img_edit_canvas
+          - img "图片编辑器" [ref=f13e43]
+          - generic [ref=f13e44]:
+            - generic [ref=f13e45]: 图片编辑器
+            - generic [ref=f13e46]: 图片编辑器集合了多种实用的功能，包括图片裁剪、图片滤镜、图片旋转、图片翻转、图片画图、图片添加文字等。
+          - generic [ref=f13e47]: new
+        - link "图片转字符画 图片转字符画 图片转字符画可以将任意图片转换为由字符组成的艺术作品，适用于社交媒体分享、个性化设计和编程项目等多种场景。字符画不仅独特，还能为您的作品增添创意和趣味。 hot" [ref=f13e48] [cursor=pointer]:
+          - /url: /img_2_text
+          - img "图片转字符画" [ref=f13e49]
+          - generic [ref=f13e50]:
+            - generic [ref=f13e51]: 图片转字符画
+            - generic [ref=f13e52]: 图片转字符画可以将任意图片转换为由字符组成的艺术作品，适用于社交媒体分享、个性化设计和编程项目等多种场景。字符画不仅独特，还能为您的作品增添创意和趣味。
+          - generic [ref=f13e53]: hot
+        - link "头像挂饰 头像挂饰 您可以选择在自己的原有头像上增加心仪的挂饰或是DIY定制头像。同时也可以通过编辑头像来加上家族徽记或是写下节日问候的话语 new" [ref=f13e54] [cursor=pointer]:
+          - /url: /avatar_pendant
+          - img "头像挂饰" [ref=f13e55]
+          - generic [ref=f13e56]:
+            - generic [ref=f13e57]: 头像挂饰
+            - generic [ref=f13e58]: 您可以选择在自己的原有头像上增加心仪的挂饰或是DIY定制头像。同时也可以通过编辑头像来加上家族徽记或是写下节日问候的话语
+          - generic [ref=f13e59]: new
+        - link "GIF分解 GIF分解 GIF分解是一款实用的在线工具，专为将GIF动画分解为单帧图片而设计。通过这款工具，您可以轻松将一个GIF文件中的每一帧提取出来，保存为独立的图片文件，便于进一步编辑、分析或使用。无论是用于创意设计、动画制作，还是其他图像处理需求，GIF分" [ref=f13e60] [cursor=pointer]:
+          - /url: /gifsplitter
+          - img "GIF分解" [ref=f13e61]
+          - generic [ref=f13e62]:
+            - generic [ref=f13e63]: GIF分解
+            - generic [ref=f13e64]: GIF分解是一款实用的在线工具，专为将GIF动画分解为单帧图片而设计。通过这款工具，您可以轻松将一个GIF文件中的每一帧提取出来，保存为独立的图片文件，便于进一步编辑、分析或使用。无论是用于创意设计、动画制作，还是其他图像处理需求，GIF分
+        - link "二维码生成 二维码生成 二维码生成是一款实用的在线工具，专为将文本、URL、联系方式等信息生成二维码而设计。通过这款工具，您可以轻松创建包含各种信息的二维码，便于在社交媒体分享、名片制作、营销推广和日常生活中使用。" [ref=f13e65] [cursor=pointer]:
+          - /url: /qrcode
+          - img "二维码生成" [ref=f13e66]
+          - generic [ref=f13e67]:
+            - generic [ref=f13e68]: 二维码生成
+            - generic [ref=f13e69]: 二维码生成是一款实用的在线工具，专为将文本、URL、联系方式等信息生成二维码而设计。通过这款工具，您可以轻松创建包含各种信息的二维码，便于在社交媒体分享、名片制作、营销推广和日常生活中使用。
+        - link "九宫格切图 九宫格切图 九宫格切图可以帮助您将一张图片切割成3x3的九个小图块，非常适合在社交媒体平台上进行拼图发布，创造独特的视觉效果和吸引力。" [ref=f13e70] [cursor=pointer]:
+          - /url: /img9grid
+          - img "九宫格切图" [ref=f13e71]
+          - generic [ref=f13e72]:
+            - generic [ref=f13e73]: 九宫格切图
+            - generic [ref=f13e74]: 九宫格切图可以帮助您将一张图片切割成3x3的九个小图块，非常适合在社交媒体平台上进行拼图发布，创造独特的视觉效果和吸引力。
+        - link "证件照生成 证件照生成 证件照生成工具帮助你快速生成高质量证件照。上传照片后一键纯前端抠图，支持更换背景色、按多种尺寸导出，并提供6寸排版打印。全程在浏览器本地完成，不上传任何照片。" [ref=f13e75] [cursor=pointer]:
+          - /url: /id_photo
+          - img "证件照生成" [ref=f13e76]
+          - generic [ref=f13e77]:
+            - generic [ref=f13e78]: 证件照生成
+            - generic [ref=f13e79]: 证件照生成工具帮助你快速生成高质量证件照。上传照片后一键纯前端抠图，支持更换背景色、按多种尺寸导出，并提供6寸排版打印。全程在浏览器本地完成，不上传任何照片。
+        - link "图片格式转换 图片格式转换 图片转换是一款在线图片转换工具，可以帮助用户将图片转换为jpg、png、webp、bmp格式，这款产品操作简单方便，支持多种转换方法和效果，同时也具备了良好的兼容性和可靠性，适用于各种设备。图片转换产品的操作流程很简单，只需要选择要转换的图" [ref=f13e80] [cursor=pointer]:
+          - /url: /imgconvert
+          - img "图片格式转换" [ref=f13e81]
+          - generic [ref=f13e82]:
+            - generic [ref=f13e83]: 图片格式转换
+            - generic [ref=f13e84]: 图片转换是一款在线图片转换工具，可以帮助用户将图片转换为jpg、png、webp、bmp格式，这款产品操作简单方便，支持多种转换方法和效果，同时也具备了良好的兼容性和可靠性，适用于各种设备。图片转换产品的操作流程很简单，只需要选择要转换的图
+        - link "GIF合成 GIF合成 GIF合成器是一款多媒体制作工具，可以帮助用户将图片通过简单的步骤合成为一张高质量的GIF图。GIF合成器拥有简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。" [ref=f13e85] [cursor=pointer]:
+          - /url: /gifcreate
+          - img "GIF合成" [ref=f13e86]
+          - generic [ref=f13e87]:
+            - generic [ref=f13e88]: GIF合成
+            - generic [ref=f13e89]: GIF合成器是一款多媒体制作工具，可以帮助用户将图片通过简单的步骤合成为一张高质量的GIF图。GIF合成器拥有简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。
+        - link "二维码美化 二维码美化 二维码美化工具可以帮助您将普通的二维码进行美化处理，使其更加个性化和吸引人。通过这款工具，您可以添加颜色、图标和其他装饰元素，创建独特的二维码，便于在营销推广、社交媒体分享和品牌展示中使用。" [ref=f13e90] [cursor=pointer]:
+          - /url: /prettify_qrcode
+          - img "二维码美化" [ref=f13e91]
+          - generic [ref=f13e92]:
+            - generic [ref=f13e93]: 二维码美化
+            - generic [ref=f13e94]: 二维码美化工具可以帮助您将普通的二维码进行美化处理，使其更加个性化和吸引人。通过这款工具，您可以添加颜色、图标和其他装饰元素，创建独特的二维码，便于在营销推广、社交媒体分享和品牌展示中使用。
+        - link "二维码名片 二维码名片 二维码名片工具可以帮助您将个人或企业的名片信息生成二维码，便于快速分享和扫描。通过这款工具，您可以将姓名、职位、公司、联系方式等信息生成一个二维码，方便他人通过扫描二维码快速获取您的名片信息，提升交流效率和专业形象。" [ref=f13e95] [cursor=pointer]:
+          - /url: /visit_card
+          - img "二维码名片" [ref=f13e96]
+          - generic [ref=f13e97]:
+            - generic [ref=f13e98]: 二维码名片
+            - generic [ref=f13e99]: 二维码名片工具可以帮助您将个人或企业的名片信息生成二维码，便于快速分享和扫描。通过这款工具，您可以将姓名、职位、公司、联系方式等信息生成一个二维码，方便他人通过扫描二维码快速获取您的名片信息，提升交流效率和专业形象。
+        - link "图片黑白化 图片黑白化 通过这款工具，您可以轻松将图片中的颜色去除，生成具有经典黑白效果的图片，适用于艺术创作、照片编辑和其他图像处理需求。" [ref=f13e100] [cursor=pointer]:
+          - /url: /img_fade
+          - img "图片黑白化" [ref=f13e101]
+          - generic [ref=f13e102]:
+            - generic [ref=f13e103]: 图片黑白化
+            - generic [ref=f13e104]: 通过这款工具，您可以轻松将图片中的颜色去除，生成具有经典黑白效果的图片，适用于艺术创作、照片编辑和其他图像处理需求。
+        - link "图片像素化 图片像素化 图片像素化工具可以帮助您将图片进行像素化处理，生成具有独特视觉效果的像素风格图片。通过这款工具，您可以轻松创造出复古、艺术或游戏风格的效果，适用于创意设计、艺术创作和社交媒体分享等场景。" [ref=f13e105] [cursor=pointer]:
+          - /url: /img_pixel
+          - img "图片像素化" [ref=f13e106]
+          - generic [ref=f13e107]:
+            - generic [ref=f13e108]: 图片像素化
+            - generic [ref=f13e109]: 图片像素化工具可以帮助您将图片进行像素化处理，生成具有独特视觉效果的像素风格图片。通过这款工具，您可以轻松创造出复古、艺术或游戏风格的效果，适用于创意设计、艺术创作和社交媒体分享等场景。
+        - link "图片隐写 图片隐写 图片隐写工具可以帮助您将文本或文件隐藏在图片中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到图片中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。" [ref=f13e110] [cursor=pointer]:
+          - /url: /image_secret_msg
+          - img "图片隐写" [ref=f13e111]
+          - generic [ref=f13e112]:
+            - generic [ref=f13e113]: 图片隐写
+            - generic [ref=f13e114]: 图片隐写工具可以帮助您将文本或文件隐藏在图片中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到图片中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。
+        - link "表情包制作 表情包制作 表情包制作是一款在线的表情包制作工具，可以帮助用户制作出各种可爱、有趣的图片表情包，该软件简单好用，比如用户可以直接上传录制的图片添加上文本来增加趣味性，非常适合在平时聊天冲浪使用 new" [ref=f13e115] [cursor=pointer]:
+          - /url: /biaoqing
+          - img "表情包制作" [ref=f13e116]
+          - generic [ref=f13e117]:
+            - generic [ref=f13e118]: 表情包制作
+            - generic [ref=f13e119]: 表情包制作是一款在线的表情包制作工具，可以帮助用户制作出各种可爱、有趣的图片表情包，该软件简单好用，比如用户可以直接上传录制的图片添加上文本来增加趣味性，非常适合在平时聊天冲浪使用
+          - generic [ref=f13e120]: new
+        - link "二维码扫描 二维码扫描 扫一扫，信息即达。二维码扫描工具，快速准确读取二维码内嵌的各类数据信息。支持链接、文本、名片等多种格式，无论是支付、分享还是连接，都能提供便捷的扫描体验。 new" [ref=f13e121] [cursor=pointer]:
+          - /url: /qrcode_scan
+          - img "二维码扫描" [ref=f13e122]
+          - generic [ref=f13e123]:
+            - generic [ref=f13e124]: 二维码扫描
+            - generic [ref=f13e125]: 扫一扫，信息即达。二维码扫描工具，快速准确读取二维码内嵌的各类数据信息。支持链接、文本、名片等多种格式，无论是支付、分享还是连接，都能提供便捷的扫描体验。
+          - generic [ref=f13e126]: new
+      - generic [ref=f13e127]:
+        - paragraph [ref=f13e128]:
+          - generic [ref=f13e129]:
+            - link "关于我们" [ref=f13e130] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f13e131]:
+            - link "广告服务" [ref=f13e132] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f13e133]:
+            - link "联系我们" [ref=f13e134] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f13e135]:
+            - link "网站提交" [ref=f13e136] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - link "意见反馈" [ref=f13e138] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88
+        - paragraph [ref=f13e139]:
+          - text: © 2026 网址之家 www.bestsed.com · 广告合作：
+          - link "80246338@qq.com" [ref=f13e140] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E5%B9%BF%E5%91%8A%E5%90%88%E4%BD%9C
+  - button "Open Next.js Dev Tools" [ref=f13e146] [cursor=pointer]

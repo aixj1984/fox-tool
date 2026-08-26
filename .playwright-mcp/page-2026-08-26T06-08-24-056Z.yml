@@ -1,0 +1,107 @@
+- main [ref=f5e2]:
+  - generic [ref=f5e3]:
+    - generic [ref=f5e4]:
+      - link "帮小忙 腾讯QQ浏览器在线工具箱" [ref=f5e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f5e6]:
+          - generic [ref=f5e7]: 帮小忙
+          - generic [ref=f5e8]: 腾讯QQ浏览器在线工具箱
+      - list [ref=f5e10]:
+        - listitem [ref=f5e11]:
+          - link "全部" [ref=f5e12] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f5e15]:
+          - link "图片工具" [ref=f5e16] [cursor=pointer]:
+            - /url: /category/img
+        - listitem [ref=f5e19]:
+          - link "PDF转换工具" [ref=f5e20] [cursor=pointer]:
+            - /url: /category/pdf
+        - listitem [ref=f5e23]:
+          - link "数据换算工具" [ref=f5e24] [cursor=pointer]:
+            - /url: /category/data
+        - listitem [ref=f5e27]:
+          - link "生活娱乐工具" [ref=f5e28] [cursor=pointer]:
+            - /url: /category/life
+        - listitem [ref=f5e31]:
+          - link "教育工具" [ref=f5e32] [cursor=pointer]:
+            - /url: /category/education
+        - listitem [ref=f5e35]:
+          - link "文本工具" [ref=f5e36] [cursor=pointer]:
+            - /url: /category/text
+        - listitem [ref=f5e39]:
+          - link "文档转换工具" [ref=f5e40] [cursor=pointer]:
+            - /url: /category/doc
+        - listitem [ref=f5e43]:
+          - link "开发工具" [ref=f5e44] [cursor=pointer]:
+            - /url: /category/develop
+        - listitem [ref=f5e47]:
+          - link "视频工具" [ref=f5e48] [cursor=pointer]:
+            - /url: /category/video
+        - listitem [ref=f5e51]:
+          - link "浏览器插件" [ref=f5e52] [cursor=pointer]:
+            - /url: /category/pc_plugin
+    - generic [ref=f5e56]:
+      - link [ref=f5e58] [cursor=pointer]:
+        - /url: "javascript:window.scrollTo({ top: 0, behavior: 'smooth' })"
+      - link [ref=f5e61] [cursor=pointer]:
+        - /url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G8GZ1XGfQoypNSFz79BNmF06xOkhKt5h&authKey=6wQcUEbSlL9sHcNv4gtr7jS9Mmz03wjxUAEsLTh4KhOSECC4EpBaMe2nEW%2BZJoas&noverify=0&group_code=459317399
+      - link "共建" [ref=f5e64] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?dev=1&url=tool.browser.qq.com/
+      - link "反馈" [ref=f5e67] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?url=tool.browser.qq.com/
+    - generic [ref=f5e69]:
+      - generic [ref=f5e73]:
+        - img "搜索按钮" [ref=f5e74]
+        - textbox [ref=f5e75]
+      - generic [ref=f5e77]:
+        - link "文本转语音 文本转语音 文本转语音是一款多功能、高效率的文本转换为语音的在线工具。它可以将各种类型的文本转换为高质量的语音，包括段落、文章、电子邮件等等。文本转语音占用资源少、转换速度快，并且转换一个大段落的文本到语音，非常适合新闻报道、电话客服、在线购物等领域使用。 hot" [ref=f5e78] [cursor=pointer]:
+          - /url: /tts.html
+          - img "文本转语音" [ref=f5e79]
+          - generic [ref=f5e80]:
+            - generic [ref=f5e81]: 文本转语音
+            - generic [ref=f5e82]: 文本转语音是一款多功能、高效率的文本转换为语音的在线工具。它可以将各种类型的文本转换为高质量的语音，包括段落、文章、电子邮件等等。文本转语音占用资源少、转换速度快，并且转换一个大段落的文本到语音，非常适合新闻报道、电话客服、在线购物等领域使用。
+          - generic [ref=f5e83]: hot
+        - link "简体繁体转换 简体繁体转换 简体繁体转换是一款便捷的在线工具，专为将简体中文和繁体中文之间进行转换而设计。通过这款工具，您可以轻松将文本从简体中文转换为繁体中文，或从繁体中文转换为简体中文，满足各种语言处理、文档编辑和跨地区交流的需求。" [ref=f5e85] [cursor=pointer]:
+          - /url: /chinese.html
+          - img "简体繁体转换" [ref=f5e86]
+          - generic [ref=f5e87]:
+            - generic [ref=f5e88]: 简体繁体转换
+            - generic [ref=f5e89]: 简体繁体转换是一款便捷的在线工具，专为将简体中文和繁体中文之间进行转换而设计。通过这款工具，您可以轻松将文本从简体中文转换为繁体中文，或从繁体中文转换为简体中文，满足各种语言处理、文档编辑和跨地区交流的需求。
+        - link "文本比较 文本比较 文本比较是一款实用的在线工具，专为比较两个文本内容的差异而设计。通过这款工具，您可以轻松输入或上传两个文本，快速找出它们之间的不同之处，包括新增、删除和修改的部分，帮助您更好地进行文档校对、代码审查和内容对比。" [ref=f5e90] [cursor=pointer]:
+          - /url: /textdiff.html
+          - img "文本比较" [ref=f5e91]
+          - generic [ref=f5e92]:
+            - generic [ref=f5e93]: 文本比较
+            - generic [ref=f5e94]: 文本比较是一款实用的在线工具，专为比较两个文本内容的差异而设计。通过这款工具，您可以轻松输入或上传两个文本，快速找出它们之间的不同之处，包括新增、删除和修改的部分，帮助您更好地进行文档校对、代码审查和内容对比。
+        - link "文字转拼音 文字转拼音 文字转拼音工具可以帮助您将中文文本转换为拼音，便于学习和理解汉字的发音。无论是用于语言学习、教学辅助，还是其他需要拼音标注的场景，这款工具都能满足您的需求，帮助您轻松将汉字转换为拼音。" [ref=f5e95] [cursor=pointer]:
+          - /url: /tta.html
+          - img "文字转拼音" [ref=f5e96]
+          - generic [ref=f5e97]:
+            - generic [ref=f5e98]: 文字转拼音
+            - generic [ref=f5e99]: 文字转拼音工具可以帮助您将中文文本转换为拼音，便于学习和理解汉字的发音。无论是用于语言学习、教学辅助，还是其他需要拼音标注的场景，这款工具都能满足您的需求，帮助您轻松将汉字转换为拼音。
+        - link "火星文翻译器 火星文翻译器 火星文翻译器可以帮助您将普通文本转换为火星文，或将火星文转换回普通文本。火星文是一种网络流行的文字变形形式，通过这款工具，您可以轻松进行火星文的转换，增加文字的趣味性和个性化，适用于社交媒体、聊天和创意写作等场景。" [ref=f5e100] [cursor=pointer]:
+          - /url: /toMars.html
+          - img "火星文翻译器" [ref=f5e101]
+          - generic [ref=f5e102]:
+            - generic [ref=f5e103]: 火星文翻译器
+            - generic [ref=f5e104]: 火星文翻译器可以帮助您将普通文本转换为火星文，或将火星文转换回普通文本。火星文是一种网络流行的文字变形形式，通过这款工具，您可以轻松进行火星文的转换，增加文字的趣味性和个性化，适用于社交媒体、聊天和创意写作等场景。
+        - link "文本去重 文本去重 文本去重工具可以帮助您快速去除文本中的重复内容。通过这款工具，您可以输入或粘贴文本，工具会自动识别并删除重复的行或段落，确保文本的唯一性和整洁性，适用于数据处理、文档编辑和内容管理等场景。" [ref=f5e105] [cursor=pointer]:
+          - /url: /unique.html
+          - img "文本去重" [ref=f5e106]
+          - generic [ref=f5e107]:
+            - generic [ref=f5e108]: 文本去重
+            - generic [ref=f5e109]: 文本去重工具可以帮助您快速去除文本中的重复内容。通过这款工具，您可以输入或粘贴文本，工具会自动识别并删除重复的行或段落，确保文本的唯一性和整洁性，适用于数据处理、文档编辑和内容管理等场景。
+        - link "文字隐写 文字隐写 文字隐写工具可以帮助您将文本信息隐藏在其他文本中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到普通文本中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。" [ref=f5e110] [cursor=pointer]:
+          - /url: /text_secret_msg.html
+          - img "文字隐写" [ref=f5e111]
+          - generic [ref=f5e112]:
+            - generic [ref=f5e113]: 文字隐写
+            - generic [ref=f5e114]: 文字隐写工具可以帮助您将文本信息隐藏在其他文本中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到普通文本中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。
+      - generic [ref=f5e122]:
+        - generic [ref=f5e123]: 轻松办公，工具助你一臂之力
+        - generic [ref=f5e124]:
+          - link "隐私政策" [ref=f5e125] [cursor=pointer]:
+            - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+          - link "数据处理规则及免责声明" [ref=f5e126] [cursor=pointer]:
+            - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+        - generic [ref=f5e127]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.

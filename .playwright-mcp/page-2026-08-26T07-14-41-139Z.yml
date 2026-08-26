@@ -1,0 +1,98 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - complementary "工具分类导航" [ref=f3e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f3e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f3e5]
+        - generic [ref=f3e6]:
+          - generic [ref=f3e7]: 帮小忙
+          - generic [ref=f3e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f3e9]:
+        - list [ref=f3e10]:
+          - listitem [ref=f3e11]:
+            - link "全部" [ref=f3e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f3e14]:
+            - link "图片工具" [ref=f3e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f3e17]:
+            - link "PDF转换工具" [ref=f3e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f3e20]:
+            - link "数据换算工具" [ref=f3e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f3e23]:
+            - link "生活娱乐工具" [ref=f3e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f3e26]:
+            - link "教育工具" [ref=f3e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f3e29]:
+            - link "文本工具" [ref=f3e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f3e32]:
+            - link "文档转换工具" [ref=f3e33] [cursor=pointer]:
+              - /url: /category/doc
+          - listitem [ref=f3e35]:
+            - link "开发工具" [ref=f3e36] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f3e38]:
+            - link "视频工具" [ref=f3e39] [cursor=pointer]:
+              - /url: /category/video
+          - listitem [ref=f3e41]:
+            - link "浏览器插件" [ref=f3e42] [cursor=pointer]:
+              - /url: /category/pc_plugin
+    - main [ref=f3e45]:
+      - generic [ref=f3e46]:
+        - generic [ref=f3e47]:
+          - link "帮小忙工具箱" [ref=f3e48] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f3e49]: /
+          - generic [ref=f3e50]: 密码安全检测
+        - heading "密码安全检测" [level=1] [ref=f3e51]
+        - paragraph [ref=f3e52]: 保护您的数字安全！只需输入密码，我们的密码安全检测工具即刻为您进行全面检测。快速评估密码强度，提供改进建议，确保您的账户防护坚不可摧。安全隐私，从强密码开始。
+        - generic [ref=f3e54]:
+          - generic [ref=f3e55]:
+            - generic [ref=f3e56]: 输入密码
+            - generic [ref=f3e58]:
+              - textbox "输入要检测的密码" [ref=f3e59]
+              - button "显示" [ref=f3e60]
+            - paragraph [ref=f3e61]: 检测在浏览器本地完成，密码不会上传到任何服务器。
+          - generic [ref=f3e62]:
+            - generic [ref=f3e63]:
+              - generic [ref=f3e64]: 强度评估
+              - generic [ref=f3e65]: 输入密码后实时评估
+            - generic [ref=f3e67]:
+              - generic [ref=f3e68]:
+                - generic [ref=f3e69]: 密码长度
+                - generic [ref=f3e70]: —
+              - generic [ref=f3e71]:
+                - generic [ref=f3e72]: 字符种类
+                - generic [ref=f3e73]: —
+              - generic [ref=f3e74]:
+                - generic [ref=f3e75]: 估算熵值
+                - generic [ref=f3e76]: —
+              - generic [ref=f3e77]:
+                - generic [ref=f3e78]: 离线破解耗时
+                - generic [ref=f3e79]: —
+            - generic [ref=f3e80]:
+              - generic [ref=f3e81]: 字符组成
+              - generic [ref=f3e82]:
+                - generic [ref=f3e83]: 小写字母
+                - generic [ref=f3e85]: 大写字母
+                - generic [ref=f3e87]: 数字
+                - generic [ref=f3e89]: 符号
+          - generic [ref=f3e91]:
+            - generic [ref=f3e92]: 改进建议
+            - paragraph [ref=f3e93]: 输入密码后将给出针对性的改进建议。
+      - generic [ref=f3e96]:
+        - generic [ref=f3e97]:
+          - generic [ref=f3e98]: 轻松办公，工具助你一臂之力
+          - generic [ref=f3e99]:
+            - link "隐私政策" [ref=f3e100] [cursor=pointer]:
+              - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+            - link "数据处理规则及免责声明" [ref=f3e101] [cursor=pointer]:
+              - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+          - generic [ref=f3e102]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
+        - img "二维码" [ref=f3e104]
+  - button "Open Next.js Dev Tools" [ref=f3e110] [cursor=pointer]

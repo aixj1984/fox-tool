@@ -1,0 +1,73 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e2]:
+    - complementary "工具分类导航" [ref=f4e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f4e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f4e5]
+        - generic [ref=f4e6]:
+          - generic [ref=f4e7]: 帮小忙
+          - generic [ref=f4e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f4e9]:
+        - list [ref=f4e10]:
+          - listitem [ref=f4e11]:
+            - link "全部" [ref=f4e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f4e14]:
+            - link "图片工具" [ref=f4e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f4e17]:
+            - link "PDF转换工具" [ref=f4e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f4e20]:
+            - link "数据换算工具" [ref=f4e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f4e23]:
+            - link "生活娱乐工具" [ref=f4e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f4e26]:
+            - link "教育工具" [ref=f4e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f4e29]:
+            - link "文本工具" [ref=f4e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f4e32]:
+            - link "文档转换工具" [ref=f4e33] [cursor=pointer]:
+              - /url: /category/doc
+          - listitem [ref=f4e35]:
+            - link "开发工具" [ref=f4e36] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f4e38]:
+            - link "视频工具" [ref=f4e39] [cursor=pointer]:
+              - /url: /category/video
+          - listitem [ref=f4e41]:
+            - link "浏览器插件" [ref=f4e42] [cursor=pointer]:
+              - /url: /category/pc_plugin
+    - main [ref=f4e45]:
+      - generic [ref=f4e46]:
+        - generic [ref=f4e47]:
+          - link "帮小忙工具箱" [ref=f4e48] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f4e49]: /
+          - generic [ref=f4e50]: 在线录屏
+        - heading "在线录屏" [level=1] [ref=f4e51]
+        - paragraph [ref=f4e52]: 在线录屏，支持录制指定浏览器标签页、指定窗口以及整个屏幕
+        - generic [ref=f4e54]:
+          - generic [ref=f4e55]:
+            - generic [ref=f4e57] [cursor=pointer]:
+              - checkbox "同时录制音频（需共享源支持）" [checked] [ref=f4e58]
+              - text: 同时录制音频（需共享源支持）
+            - generic [ref=f4e59]:
+              - button "开始录制" [ref=f4e60] [cursor=pointer]
+              - generic [ref=f4e61]: 00:00:00
+          - generic [ref=f4e62]: 本工具使用浏览器 getDisplayMedia API 录制屏幕、窗口或浏览器标签页，并通过 MediaRecorder 编码为 webm/mp4，全程在浏览器本地完成，不会上传任何画面。首次使用时浏览器会弹出共享权限请求，请选择需要录制的来源并授权。
+      - generic [ref=f4e66]:
+        - generic [ref=f4e67]:
+          - generic [ref=f4e68]: 轻松办公，工具助你一臂之力
+          - generic [ref=f4e69]:
+            - link "隐私政策" [ref=f4e70] [cursor=pointer]:
+              - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+            - link "数据处理规则及免责声明" [ref=f4e71] [cursor=pointer]:
+              - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+          - generic [ref=f4e72]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
+        - img "二维码" [ref=f4e74]
+  - button "Open Next.js Dev Tools" [ref=f4e80] [cursor=pointer]

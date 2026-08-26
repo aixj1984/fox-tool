@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Fox Logo Preview</title>
+<style>
+  body { margin: 0; padding: 20px; background: #fff; }
+  .container { display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start; }
+  .preview { background: #F6F7FA; padding: 12px; border-radius: 12px; display: inline-block; }
+  .preview img { display: block; }
+  .sizes { display: flex; flex-direction: column; gap: 8px; }
+  .sizes > div { display: flex; align-items: center; gap: 8px; font: 14px system-ui; }
+  .sizes img { background: #fff; border-radius: 4px; }
+  .label { font: 12px monospace; color: #666; }
+</style></head>
+<body>
+<div class="container">
+  <div class="preview"><img src="/fox-logo-preview.svg" width="200" height="200"></div>
+  <div class="sizes">
+    <div><img src="/fox-logo-preview.svg" width="60" height="60"><span class="label">60px (sidebar logo)</span></div>
+    <div><img src="/fox-logo-preview.svg" width="32" height="32"><span class="label">32px (favicon)</span></div>
+    <div><img src="/fox-logo-preview.svg" width="16" height="16"><span class="label">16px (favicon small)</span></div>
+  </div>
+</div>
+</body></html>

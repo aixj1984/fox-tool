@@ -1,0 +1,4 @@
+[      44ms] [LOG] [doReport] dt_clck {eid: feedback_top_bar, tab_name: 我要反馈} @ https://res.browser.qq.com/feedback/js/qbtool.235e2987.js:0
+[      51ms] [LOG] [doReport] homepv {} @ https://res.browser.qq.com/feedback/js/qbtool.235e2987.js:0
+[      51ms] [LOG] [doReport] dt_pgin {} @ https://res.browser.qq.com/feedback/js/qbtool.235e2987.js:0
+[    3835ms] [LOG] [doReport] dt_pgout {} @ https://res.browser.qq.com/feedback/js/qbtool.235e2987.js:0

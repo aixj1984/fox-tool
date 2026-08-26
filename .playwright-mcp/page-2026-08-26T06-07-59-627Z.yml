@@ -1,0 +1,142 @@
+- main [ref=f2e2]:
+  - generic [ref=f2e3]:
+    - generic [ref=f2e4]:
+      - link "帮小忙 腾讯QQ浏览器在线工具箱" [ref=f2e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f2e6]:
+          - generic [ref=f2e7]: 帮小忙
+          - generic [ref=f2e8]: 腾讯QQ浏览器在线工具箱
+      - list [ref=f2e10]:
+        - listitem [ref=f2e11]:
+          - link "全部" [ref=f2e12] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f2e15]:
+          - link "图片工具" [ref=f2e16] [cursor=pointer]:
+            - /url: /category/img
+        - listitem [ref=f2e19]:
+          - link "PDF转换工具" [ref=f2e20] [cursor=pointer]:
+            - /url: /category/pdf
+        - listitem [ref=f2e23]:
+          - link "数据换算工具" [ref=f2e24] [cursor=pointer]:
+            - /url: /category/data
+        - listitem [ref=f2e27]:
+          - link "生活娱乐工具" [ref=f2e28] [cursor=pointer]:
+            - /url: /category/life
+        - listitem [ref=f2e31]:
+          - link "教育工具" [ref=f2e32] [cursor=pointer]:
+            - /url: /category/education
+        - listitem [ref=f2e35]:
+          - link "文本工具" [ref=f2e36] [cursor=pointer]:
+            - /url: /category/text
+        - listitem [ref=f2e39]:
+          - link "文档转换工具" [ref=f2e40] [cursor=pointer]:
+            - /url: /category/doc
+        - listitem [ref=f2e43]:
+          - link "开发工具" [ref=f2e44] [cursor=pointer]:
+            - /url: /category/develop
+        - listitem [ref=f2e47]:
+          - link "视频工具" [ref=f2e48] [cursor=pointer]:
+            - /url: /category/video
+        - listitem [ref=f2e51]:
+          - link "浏览器插件" [ref=f2e52] [cursor=pointer]:
+            - /url: /category/pc_plugin
+    - generic [ref=f2e56]:
+      - link [ref=f2e58] [cursor=pointer]:
+        - /url: "javascript:window.scrollTo({ top: 0, behavior: 'smooth' })"
+      - link [ref=f2e61] [cursor=pointer]:
+        - /url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G8GZ1XGfQoypNSFz79BNmF06xOkhKt5h&authKey=6wQcUEbSlL9sHcNv4gtr7jS9Mmz03wjxUAEsLTh4KhOSECC4EpBaMe2nEW%2BZJoas&noverify=0&group_code=459317399
+      - link "共建" [ref=f2e64] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?dev=1&url=tool.browser.qq.com/
+      - link "反馈" [ref=f2e67] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?url=tool.browser.qq.com/
+    - generic [ref=f2e69]:
+      - generic [ref=f2e73]:
+        - img "搜索按钮" [ref=f2e74]
+        - textbox [ref=f2e75]
+      - generic [ref=f2e77]:
+        - link "温度转换 温度转换 温度转换专为将不同温度单位之间进行转换而设计。通过这款工具，您可以轻松将温度从摄氏度（Celsius）、华氏度（Fahrenheit）和开尔文（Kelvin）等单位之间进行转换，满足各种科学研究、日常生活和工作需求。" [ref=f2e78] [cursor=pointer]:
+          - /url: /temperaturetrans.html
+          - img "温度转换" [ref=f2e79]
+          - generic [ref=f2e80]:
+            - generic [ref=f2e81]: 温度转换
+            - generic [ref=f2e82]: 温度转换专为将不同温度单位之间进行转换而设计。通过这款工具，您可以轻松将温度从摄氏度（Celsius）、华氏度（Fahrenheit）和开尔文（Kelvin）等单位之间进行转换，满足各种科学研究、日常生活和工作需求。
+        - link "投资收益计算 投资收益计算 通过这款工具，您可以轻松输入投资金额、投资期限、年化收益率等参数，快速计算出投资的总收益和年化收益率，帮助您更好地进行投资决策和财务规划。" [ref=f2e83] [cursor=pointer]:
+          - /url: /invest.html
+          - img "投资收益计算" [ref=f2e84]
+          - generic [ref=f2e85]:
+            - generic [ref=f2e86]: 投资收益计算
+            - generic [ref=f2e87]: 通过这款工具，您可以轻松输入投资金额、投资期限、年化收益率等参数，快速计算出投资的总收益和年化收益率，帮助您更好地进行投资决策和财务规划。
+        - link "五险一金计算 五险一金计算 五险一金计算是一款实用的在线工具，专为帮助用户计算五险一金缴费金额而设计。通过这款工具，您可以根据税前月薪、社保基数、公积金基数、是否汇缴公积金、单位与个人汇缴比例等参数，快速计算出个人和单位需要缴纳的五险一金金额，帮助您更好地了解和管理个人社保和公积金情况。" [ref=f2e88] [cursor=pointer]:
+          - /url: /wuxianyijin.html
+          - img "五险一金计算" [ref=f2e89]
+          - generic [ref=f2e90]:
+            - generic [ref=f2e91]: 五险一金计算
+            - generic [ref=f2e92]: 五险一金计算是一款实用的在线工具，专为帮助用户计算五险一金缴费金额而设计。通过这款工具，您可以根据税前月薪、社保基数、公积金基数、是否汇缴公积金、单位与个人汇缴比例等参数，快速计算出个人和单位需要缴纳的五险一金金额，帮助您更好地了解和管理个人社保和公积金情况。
+        - link "进制转换 进制转换 进制转换是一款实用的在线工具，专为将数字在不同进制之间进行转换而设计。通过这款工具，您可以轻松将数字在二进制、八进制、十进制和十六进制等进制之间进行转换，满足各种编程、数学和工程需求。" [ref=f2e93] [cursor=pointer]:
+          - /url: /hexconvert.html
+          - img "进制转换" [ref=f2e94]
+          - generic [ref=f2e95]:
+            - generic [ref=f2e96]: 进制转换
+            - generic [ref=f2e97]: 进制转换是一款实用的在线工具，专为将数字在不同进制之间进行转换而设计。通过这款工具，您可以轻松将数字在二进制、八进制、十进制和十六进制等进制之间进行转换，满足各种编程、数学和工程需求。
+        - link "房贷计算 房贷计算 房贷计算是一款实用的在线工具，专为帮助用户计算房屋贷款的月供、总利息和还款总额而设计。通过这款工具，您可以根据贷款金额、贷款期限、利率等参数，快速计算出每月需要偿还的金额，帮助您更好地进行财务规划和购房决策。" [ref=f2e98] [cursor=pointer]:
+          - /url: /mortgage.html
+          - img "房贷计算" [ref=f2e99]
+          - generic [ref=f2e100]:
+            - generic [ref=f2e101]: 房贷计算
+            - generic [ref=f2e102]: 房贷计算是一款实用的在线工具，专为帮助用户计算房屋贷款的月供、总利息和还款总额而设计。通过这款工具，您可以根据贷款金额、贷款期限、利率等参数，快速计算出每月需要偿还的金额，帮助您更好地进行财务规划和购房决策。
+        - link "数字大小写转换 数字大小写转换 数字大写和小写是一款免费且开源的数字大小写转换工具。它提供了全面的字母表，允许您轻松地将任何数字转换为大写或小写。它可以将阿拉伯数字或罗马数字转换为大写或小写，从而使其在文档撰写、数据处理和图形制作等方面得到更广泛的应用。 数字大写和小写功能丰富、转换准确，并且只消耗极少的系统资源和内存。数字大写和小写是一款非常优秀的数字大小写转换工具，适合各种不同的使用人群" [ref=f2e103] [cursor=pointer]:
+          - /url: /num2zh.html
+          - img "数字大小写转换" [ref=f2e104]
+          - generic [ref=f2e105]:
+            - generic [ref=f2e106]: 数字大小写转换
+            - generic [ref=f2e107]: 数字大写和小写是一款免费且开源的数字大小写转换工具。它提供了全面的字母表，允许您轻松地将任何数字转换为大写或小写。它可以将阿拉伯数字或罗马数字转换为大写或小写，从而使其在文档撰写、数据处理和图形制作等方面得到更广泛的应用。 数字大写和小写功能丰富、转换准确，并且只消耗极少的系统资源和内存。数字大写和小写是一款非常优秀的数字大小写转换工具，适合各种不同的使用人群
+        - link "BMI计算 BMI计算 BMI是一种常用的健康指标，通过体重和身高的比例来评估一个人的体重是否在健康范围内。通过这款工具，您可以快速计算出您的BMI值，并了解您的体重状况，帮助您更好地进行健康管理。" [ref=f2e108] [cursor=pointer]:
+          - /url: /bmi.html
+          - img "BMI计算" [ref=f2e109]
+          - generic [ref=f2e110]:
+            - generic [ref=f2e111]: BMI计算
+            - generic [ref=f2e112]: BMI是一种常用的健康指标，通过体重和身高的比例来评估一个人的体重是否在健康范围内。通过这款工具，您可以快速计算出您的BMI值，并了解您的体重状况，帮助您更好地进行健康管理。
+        - link "时间戳转换 时间戳转换 时间戳转换是一款实用的在线工具，专为将时间戳（Unix时间戳）转换为人类可读的日期时间格式，或将日期时间转换为时间戳而设计。通过这款工具，您可以轻松进行时间戳和日期时间之间的相互转换，满足各种编程、数据处理和时间管理需求。" [ref=f2e113] [cursor=pointer]:
+          - /url: /timestamp.html
+          - img "时间戳转换" [ref=f2e114]
+          - generic [ref=f2e115]:
+            - generic [ref=f2e116]: 时间戳转换
+            - generic [ref=f2e117]: 时间戳转换是一款实用的在线工具，专为将时间戳（Unix时间戳）转换为人类可读的日期时间格式，或将日期时间转换为时间戳而设计。通过这款工具，您可以轻松进行时间戳和日期时间之间的相互转换，满足各种编程、数据处理和时间管理需求。
+        - link "日期计算 日期计算 日期计算是一款实用的在线工具，专为进行各种日期相关的计算而设计。通过这款工具，您可以轻松计算两个日期之间的天数、添加或减去特定天数、计算特定日期的星期几等，满足各种日常生活、工作和项目管理需求。" [ref=f2e118] [cursor=pointer]:
+          - /url: /datecal.html
+          - img "日期计算" [ref=f2e119]
+          - generic [ref=f2e120]:
+            - generic [ref=f2e121]: 日期计算
+            - generic [ref=f2e122]: 日期计算是一款实用的在线工具，专为进行各种日期相关的计算而设计。通过这款工具，您可以轻松计算两个日期之间的天数、添加或减去特定天数、计算特定日期的星期几等，满足各种日常生活、工作和项目管理需求。
+        - link "计算器 计算器 计算器是一款功能强大、实用的计算工具，适用于各种数学计算场景。该工具包含了多种数学函数、计算公式和各种数据类型，可以使用户轻松地进行乘除、开方、指数、三角函数运算等各种数学计算。 该软件还具有较好的性能和可靠性，能够满足长时间运行和多任务处理的需要。此外，软件还提供了多种美化界面和动画效果，可以提高用户体验和软件的趣味性。" [ref=f2e123] [cursor=pointer]:
+          - /url: /calculator.html
+          - img "计算器" [ref=f2e124]
+          - generic [ref=f2e125]:
+            - generic [ref=f2e126]: 计算器
+            - generic [ref=f2e127]: 计算器是一款功能强大、实用的计算工具，适用于各种数学计算场景。该工具包含了多种数学函数、计算公式和各种数据类型，可以使用户轻松地进行乘除、开方、指数、三角函数运算等各种数学计算。 该软件还具有较好的性能和可靠性，能够满足长时间运行和多任务处理的需要。此外，软件还提供了多种美化界面和动画效果，可以提高用户体验和软件的趣味性。
+        - link "长度转换 长度转换 长度转换是一款功能强大、实用的换算工具，可以将数据进行长度进行换算，例如厘米、米、千米、公里等。非常适合学生、老师、小孩、工匠等对长度有重要需求的人群使用" [ref=f2e128] [cursor=pointer]:
+          - /url: /lengthconvert.html
+          - img "长度转换" [ref=f2e129]
+          - generic [ref=f2e130]:
+            - generic [ref=f2e131]: 长度转换
+            - generic [ref=f2e132]: 长度转换是一款功能强大、实用的换算工具，可以将数据进行长度进行换算，例如厘米、米、千米、公里等。非常适合学生、老师、小孩、工匠等对长度有重要需求的人群使用
+        - link "字节数换算 字节数换算 字节数换算工具可以帮助您在不同的数据单位之间进行转换。通过这款工具，您可以轻松将字节（Byte）、千字节（KB）、兆字节（MB）、吉字节（GB）、太字节（TB）等单位进行相互换算，满足各种数据处理和存储需求。" [ref=f2e133] [cursor=pointer]:
+          - /url: /byte_cal.html
+          - img "字节数换算" [ref=f2e134]
+          - generic [ref=f2e135]:
+            - generic [ref=f2e136]: 字节数换算
+            - generic [ref=f2e137]: 字节数换算工具可以帮助您在不同的数据单位之间进行转换。通过这款工具，您可以轻松将字节（Byte）、千字节（KB）、兆字节（MB）、吉字节（GB）、太字节（TB）等单位进行相互换算，满足各种数据处理和存储需求。
+        - link "硬盘分区 硬盘分区 硬盘分区工具可以帮助您对硬盘进行分区管理，创建、调整、删除和格式化硬盘分区。通过这款工具，您可以优化硬盘空间的使用，便于数据存储和系统管理，适用于个人电脑和服务器的硬盘管理需求。" [ref=f2e138] [cursor=pointer]:
+          - /url: /partition.html
+          - img "硬盘分区" [ref=f2e139]
+          - generic [ref=f2e140]:
+            - generic [ref=f2e141]: 硬盘分区
+            - generic [ref=f2e142]: 硬盘分区工具可以帮助您对硬盘进行分区管理，创建、调整、删除和格式化硬盘分区。通过这款工具，您可以优化硬盘空间的使用，便于数据存储和系统管理，适用于个人电脑和服务器的硬盘管理需求。
+      - generic [ref=f2e150]:
+        - generic [ref=f2e151]: 轻松办公，工具助你一臂之力
+        - generic [ref=f2e152]:
+          - link "隐私政策" [ref=f2e153] [cursor=pointer]:
+            - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+          - link "数据处理规则及免责声明" [ref=f2e154] [cursor=pointer]:
+            - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+        - generic [ref=f2e155]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.

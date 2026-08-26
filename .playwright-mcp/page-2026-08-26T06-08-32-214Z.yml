@@ -1,0 +1,125 @@
+- main [ref=f6e2]:
+  - generic [ref=f6e3]:
+    - generic [ref=f6e4]:
+      - link "帮小忙 腾讯QQ浏览器在线工具箱" [ref=f6e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f6e6]:
+          - generic [ref=f6e7]: 帮小忙
+          - generic [ref=f6e8]: 腾讯QQ浏览器在线工具箱
+      - list [ref=f6e10]:
+        - listitem [ref=f6e11]:
+          - link "全部" [ref=f6e12] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f6e15]:
+          - link "图片工具" [ref=f6e16] [cursor=pointer]:
+            - /url: /category/img
+        - listitem [ref=f6e19]:
+          - link "PDF转换工具" [ref=f6e20] [cursor=pointer]:
+            - /url: /category/pdf
+        - listitem [ref=f6e23]:
+          - link "数据换算工具" [ref=f6e24] [cursor=pointer]:
+            - /url: /category/data
+        - listitem [ref=f6e27]:
+          - link "生活娱乐工具" [ref=f6e28] [cursor=pointer]:
+            - /url: /category/life
+        - listitem [ref=f6e31]:
+          - link "教育工具" [ref=f6e32] [cursor=pointer]:
+            - /url: /category/education
+        - listitem [ref=f6e35]:
+          - link "文本工具" [ref=f6e36] [cursor=pointer]:
+            - /url: /category/text
+        - listitem [ref=f6e39]:
+          - link "文档转换工具" [ref=f6e40] [cursor=pointer]:
+            - /url: /category/doc
+        - listitem [ref=f6e43]:
+          - link "开发工具" [ref=f6e44] [cursor=pointer]:
+            - /url: /category/develop
+        - listitem [ref=f6e47]:
+          - link "视频工具" [ref=f6e48] [cursor=pointer]:
+            - /url: /category/video
+        - listitem [ref=f6e51]:
+          - link "浏览器插件" [ref=f6e52] [cursor=pointer]:
+            - /url: /category/pc_plugin
+    - generic [ref=f6e56]:
+      - link [ref=f6e58] [cursor=pointer]:
+        - /url: "javascript:window.scrollTo({ top: 0, behavior: 'smooth' })"
+      - link [ref=f6e61] [cursor=pointer]:
+        - /url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G8GZ1XGfQoypNSFz79BNmF06xOkhKt5h&authKey=6wQcUEbSlL9sHcNv4gtr7jS9Mmz03wjxUAEsLTh4KhOSECC4EpBaMe2nEW%2BZJoas&noverify=0&group_code=459317399
+      - link "共建" [ref=f6e64] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?dev=1&url=tool.browser.qq.com/
+      - link "反馈" [ref=f6e67] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?url=tool.browser.qq.com/
+    - generic [ref=f6e69]:
+      - generic [ref=f6e70]:
+        - generic [ref=f6e73]:
+          - img "搜索按钮" [ref=f6e74]
+          - textbox [ref=f6e75]
+        - generic [ref=f6e77]: QQ浏览器 · 工具权益卡
+      - generic [ref=f6e82]:
+        - link "Word转PDF Word转PDF Word转PDF是一款用户友好的在线转换服务，用于将Microsoft Word文档（包括DOC和DOCX格式）转换为便携式文档格式（PDF）。" [ref=f6e83] [cursor=pointer]:
+          - /url: /word_2_pdf.html
+          - img "Word转PDF" [ref=f6e84]
+          - generic [ref=f6e85]:
+            - generic [ref=f6e86]: Word转PDF
+            - generic [ref=f6e87]: Word转PDF是一款用户友好的在线转换服务，用于将Microsoft Word文档（包括DOC和DOCX格式）转换为便携式文档格式（PDF）。
+        - link "Word格式转换 Word格式转换 Word格式转换是一款功能强大的文档格式转换工具，支持将Word文档转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：PNG、HTML或PDF。 2、点击“上传”按钮，上传需要转换的Word文档。 3、点击“转换”按钮，开始将Word文档转换为选定的格式。 4、转换完成后，你可将转换后的文件保存到您的设备。" [ref=f6e88] [cursor=pointer]:
+          - /url: /word_convert.html
+          - img "Word格式转换" [ref=f6e89]
+          - generic [ref=f6e90]:
+            - generic [ref=f6e91]: Word格式转换
+            - generic [ref=f6e92]: Word格式转换是一款功能强大的文档格式转换工具，支持将Word文档转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：PNG、HTML或PDF。 2、点击“上传”按钮，上传需要转换的Word文档。 3、点击“转换”按钮，开始将Word文档转换为选定的格式。 4、转换完成后，你可将转换后的文件保存到您的设备。
+        - link "PPT格式转换 PPT格式转换 PPT格式转换是一款功能强大的幻灯片格式转换工具，支持将PPT文件转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：图片、HTML或PDF。 2、点击“上传”按钮，上传需要转换的PPT文档。 3、点击“转换”按钮，开始将PPT文档转换为选定的格式。 4、转换完成后，你可将转换后的文件保存到您的设备。" [ref=f6e93] [cursor=pointer]:
+          - /url: /ppt_convert.html
+          - img "PPT格式转换" [ref=f6e94]
+          - generic [ref=f6e95]:
+            - generic [ref=f6e96]: PPT格式转换
+            - generic [ref=f6e97]: PPT格式转换是一款功能强大的幻灯片格式转换工具，支持将PPT文件转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：图片、HTML或PDF。 2、点击“上传”按钮，上传需要转换的PPT文档。 3、点击“转换”按钮，开始将PPT文档转换为选定的格式。 4、转换完成后，你可将转换后的文件保存到您的设备。
+        - link "Excel转PDF Excel转PDF Excel转PDF是一款专业的电子表格处理工具，能够轻松地将Excel文件转为PDF文件 new" [ref=f6e98] [cursor=pointer]:
+          - /url: /excel_to_pdf.html
+          - img "Excel转PDF" [ref=f6e99]
+          - generic [ref=f6e100]:
+            - generic [ref=f6e101]: Excel转PDF
+            - generic [ref=f6e102]: Excel转PDF是一款专业的电子表格处理工具，能够轻松地将Excel文件转为PDF文件
+          - generic [ref=f6e103]: new
+        - link "文档瘦身 文档瘦身 文档能够对文档中的PNG和JPEG图像进行高效压缩，从而显著减小文档的整体大小。这款工具特别适合包含大量图片的文档，如报告、演示文稿和电子书，帮助用户节省存储空间并提高传输效率，同时尽量保持图片的质量。 new" [ref=f6e105] [cursor=pointer]:
+          - /url: /office_reduce.html
+          - img "文档瘦身" [ref=f6e106]
+          - generic [ref=f6e107]:
+            - generic [ref=f6e108]: 文档瘦身
+            - generic [ref=f6e109]: 文档能够对文档中的PNG和JPEG图像进行高效压缩，从而显著减小文档的整体大小。这款工具特别适合包含大量图片的文档，如报告、演示文稿和电子书，帮助用户节省存储空间并提高传输效率，同时尽量保持图片的质量。
+          - generic [ref=f6e110]: new
+        - link "PPT转PDF PPT转PDF PPT转PDF是一款在线工具，能够快速将PowerPoint演示文稿（PPT或PPTX格式）转换为PDF文件，确保格式和布局一致，方便分享和打印。" [ref=f6e112] [cursor=pointer]:
+          - /url: /ppt_2_pdf.html
+          - img "PPT转PDF" [ref=f6e113]
+          - generic [ref=f6e114]:
+            - generic [ref=f6e115]: PPT转PDF
+            - generic [ref=f6e116]: PPT转PDF是一款在线工具，能够快速将PowerPoint演示文稿（PPT或PPTX格式）转换为PDF文件，确保格式和布局一致，方便分享和打印。
+        - link "Excel格式转换 Excel格式转换 Excel格式转换是一款多功能的在线工具，专为将Excel文件（XLS或XLSX格式）转换为其他常见文件格式而设计。 new" [ref=f6e117] [cursor=pointer]:
+          - /url: /excel_convert.html
+          - img "Excel格式转换" [ref=f6e118]
+          - generic [ref=f6e119]:
+            - generic [ref=f6e120]: Excel格式转换
+            - generic [ref=f6e121]: Excel格式转换是一款多功能的在线工具，专为将Excel文件（XLS或XLSX格式）转换为其他常见文件格式而设计。
+          - generic [ref=f6e122]: new
+        - link "图片转Excel 图片转Excel 图片转Excel工具通过先进的图像识别技术，自动识别图片中的表格内容，并将其转换为可编辑的Excel格式。 权益卡" [ref=f6e124] [cursor=pointer]:
+          - /url: /table_recognize.html
+          - img "图片转Excel" [ref=f6e125]
+          - generic [ref=f6e126]:
+            - generic [ref=f6e127]: 图片转Excel
+            - generic [ref=f6e128]: 图片转Excel工具通过先进的图像识别技术，自动识别图片中的表格内容，并将其转换为可编辑的Excel格式。
+          - generic [ref=f6e129]: 权益卡
+        - link "文档扫描 文档扫描 文档扫描工具可以帮助您将纸质文档或图片转换为数字化的电子文档。通过这款工具，您可以上传图片文件，轻松扫描文档并生成高质量的Word文件，适用于文档存档、分享和管理等场景。 权益卡" [ref=f6e131] [cursor=pointer]:
+          - /url: /word_scan.html
+          - img "文档扫描" [ref=f6e132]
+          - generic [ref=f6e133]:
+            - generic [ref=f6e134]: 文档扫描
+            - generic [ref=f6e135]: 文档扫描工具可以帮助您将纸质文档或图片转换为数字化的电子文档。通过这款工具，您可以上传图片文件，轻松扫描文档并生成高质量的Word文件，适用于文档存档、分享和管理等场景。
+          - generic [ref=f6e136]: 权益卡
+      - generic [ref=f6e145]:
+        - generic [ref=f6e146]: 轻松办公，工具助你一臂之力
+        - generic [ref=f6e147]:
+          - link "隐私政策" [ref=f6e148] [cursor=pointer]:
+            - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+          - link "数据处理规则及免责声明" [ref=f6e149] [cursor=pointer]:
+            - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+        - generic [ref=f6e150]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.

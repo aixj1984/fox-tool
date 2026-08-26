@@ -1,0 +1,92 @@
+- generic [active] [ref=f20e1]:
+  - generic [ref=f20e2]:
+    - complementary "工具分类导航" [ref=f20e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f20e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f20e5]
+        - generic [ref=f20e6]:
+          - generic [ref=f20e7]: 帮小忙
+          - generic [ref=f20e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f20e9]:
+        - list [ref=f20e10]:
+          - listitem [ref=f20e11]:
+            - link "全部" [ref=f20e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f20e14]:
+            - link "图片工具" [ref=f20e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f20e17]:
+            - link "PDF转换工具" [ref=f20e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f20e20]:
+            - link "数据换算工具" [ref=f20e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f20e23]:
+            - link "生活娱乐工具" [ref=f20e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f20e26]:
+            - link "教育工具" [ref=f20e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f20e29]:
+            - link "文本工具" [ref=f20e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f20e32]:
+            - link "文档转换工具" [ref=f20e33] [cursor=pointer]:
+              - /url: /category/doc
+          - listitem [ref=f20e35]:
+            - link "开发工具" [ref=f20e36] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f20e38]:
+            - link "视频工具" [ref=f20e39] [cursor=pointer]:
+              - /url: /category/video
+          - listitem [ref=f20e41]:
+            - link "浏览器插件" [ref=f20e42] [cursor=pointer]:
+              - /url: /category/pc_plugin
+    - main [ref=f20e45]:
+      - generic [ref=f20e46]:
+        - generic [ref=f20e47]:
+          - link "帮小忙工具箱" [ref=f20e48] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f20e49]: /
+          - generic [ref=f20e50]: 今天吃什么
+        - heading "今天吃什么" [level=1] [ref=f20e51]
+        - paragraph [ref=f20e52]: 这是一款很不错做决定吃什么的工具，不用再为每天吃什么而烦恼了。让你实现快速、轻松的选餐过程，让你在日常生活中更加方便和快捷地选择健康优质的食物
+        - generic [ref=f20e54]:
+          - generic [ref=f20e56]:
+            - generic [ref=f20e57]:
+              - button "早餐" [ref=f20e58]
+              - button "午餐" [ref=f20e59]
+              - button "晚餐" [ref=f20e60]
+            - generic [ref=f20e61]:
+              - generic [ref=f20e62]: 准备好了吗
+              - generic [ref=f20e63]: 点击开始抽取
+            - button "开始" [ref=f20e65] [cursor=pointer]
+            - generic [ref=f20e66]: 候选 47 种食物
+          - generic [ref=f20e67]:
+            - generic [ref=f20e68]:
+              - generic [ref=f20e69]: 排除类别
+              - button "重置筛选" [ref=f20e70]
+            - generic [ref=f20e71]:
+              - button "中餐" [ref=f20e72]
+              - button "西餐" [ref=f20e73]
+              - button "日料" [ref=f20e74]
+              - button "韩餐" [ref=f20e75]
+              - button "快餐" [ref=f20e76]
+              - button "火锅" [ref=f20e77]
+              - button "烧烤" [ref=f20e78]
+              - button "面食" [ref=f20e79]
+              - button "粥" [ref=f20e80]
+              - button "沙拉" [ref=f20e81]
+              - button "早餐" [ref=f20e82]
+            - generic [ref=f20e83]: 提示：选择三餐模式可得到对应餐别推荐；点击“不要这个”可排除当前结果再次抽取。
+      - generic [ref=f20e86]:
+        - generic [ref=f20e87]:
+          - generic [ref=f20e88]: 轻松办公，工具助你一臂之力
+          - generic [ref=f20e89]:
+            - link "隐私政策" [ref=f20e90] [cursor=pointer]:
+              - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+            - link "数据处理规则及免责声明" [ref=f20e91] [cursor=pointer]:
+              - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+          - generic [ref=f20e92]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
+        - img "二维码" [ref=f20e94]
+  - button "Open Next.js Dev Tools" [ref=f20e100] [cursor=pointer]

@@ -1,0 +1,84 @@
+- generic [active] [ref=f21e1]:
+  - generic [ref=f21e2]:
+    - complementary "工具分类导航" [ref=f21e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f21e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f21e5]
+        - generic [ref=f21e6]:
+          - generic [ref=f21e7]: 帮小忙
+          - generic [ref=f21e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f21e9]:
+        - list [ref=f21e10]:
+          - listitem [ref=f21e11]:
+            - link "全部" [ref=f21e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f21e14]:
+            - link "图片工具" [ref=f21e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f21e17]:
+            - link "PDF转换工具" [ref=f21e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f21e20]:
+            - link "数据换算工具" [ref=f21e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f21e23]:
+            - link "生活娱乐工具" [ref=f21e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f21e26]:
+            - link "教育工具" [ref=f21e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f21e29]:
+            - link "文本工具" [ref=f21e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f21e32]:
+            - link "开发工具" [ref=f21e33] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f21e35]:
+            - link "视频工具" [ref=f21e36] [cursor=pointer]:
+              - /url: /category/video
+    - main [ref=f21e39]:
+      - generic [ref=f21e40]:
+        - generic [ref=f21e41]:
+          - link "帮小忙工具箱" [ref=f21e42] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f21e43]: /
+          - generic [ref=f21e44]: 图片格式转换
+        - heading "图片格式转换" [level=1] [ref=f21e45]
+        - paragraph [ref=f21e46]: 图片转换是一款在线图片转换工具，可以帮助用户将图片转换为jpg、png、webp、bmp格式
+        - generic [ref=f21e50]:
+          - generic [ref=f21e51]: 选择图片
+          - button "Choose File" [ref=f21e52]
+          - generic [ref=f21e53]:
+            - generic [ref=f21e54]: 目标格式
+            - generic [ref=f21e55]:
+              - button "JPG" [ref=f21e56] [cursor=pointer]
+              - button "PNG" [ref=f21e57] [cursor=pointer]
+              - button "WebP" [ref=f21e58] [cursor=pointer]
+            - paragraph [ref=f21e59]: BMP 格式暂不支持，可选 JPG / PNG / WebP。
+          - button "开始转换" [disabled] [ref=f21e61]
+      - generic [ref=f21e63]:
+        - paragraph [ref=f21e64]:
+          - generic [ref=f21e65]:
+            - link "关于我们" [ref=f21e66] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f21e67]:
+            - link "广告服务" [ref=f21e68] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f21e69]:
+            - link "联系我们" [ref=f21e70] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f21e71]:
+            - link "网站提交" [ref=f21e72] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - link "意见反馈" [ref=f21e74] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88
+        - paragraph [ref=f21e75]:
+          - text: © 2026 网址之家 www.bestsed.com · 广告合作：
+          - link "80246338@qq.com" [ref=f21e76] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E5%B9%BF%E5%91%8A%E5%90%88%E4%BD%9C
+  - button "Open Next.js Dev Tools" [ref=f21e82] [cursor=pointer]
+  - alert [ref=f21e86]

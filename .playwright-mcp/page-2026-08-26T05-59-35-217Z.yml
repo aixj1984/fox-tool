@@ -1,0 +1,92 @@
+- generic [active] [ref=f19e1]:
+  - generic [ref=f19e2]:
+    - complementary "工具分类导航" [ref=f19e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f19e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f19e5]
+        - generic [ref=f19e6]:
+          - generic [ref=f19e7]: 帮小忙
+          - generic [ref=f19e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f19e9]:
+        - list [ref=f19e10]:
+          - listitem [ref=f19e11]:
+            - link "全部" [ref=f19e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f19e14]:
+            - link "图片工具" [ref=f19e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f19e17]:
+            - link "PDF转换工具" [ref=f19e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f19e20]:
+            - link "数据换算工具" [ref=f19e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f19e23]:
+            - link "生活娱乐工具" [ref=f19e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f19e26]:
+            - link "教育工具" [ref=f19e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f19e29]:
+            - link "文本工具" [ref=f19e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f19e32]:
+            - link "文档转换工具" [ref=f19e33] [cursor=pointer]:
+              - /url: /category/doc
+          - listitem [ref=f19e35]:
+            - link "开发工具" [ref=f19e36] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f19e38]:
+            - link "视频工具" [ref=f19e39] [cursor=pointer]:
+              - /url: /category/video
+          - listitem [ref=f19e41]:
+            - link "浏览器插件" [ref=f19e42] [cursor=pointer]:
+              - /url: /category/pc_plugin
+    - main [ref=f19e45]:
+      - generic [ref=f19e46]:
+        - generic [ref=f19e47]:
+          - link "帮小忙工具箱" [ref=f19e48] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f19e49]: /
+          - generic [ref=f19e50]: 二维码生成
+        - heading "二维码生成" [level=1] [ref=f19e51]
+        - paragraph [ref=f19e52]: 二维码生成是一款实用的在线工具，专为将文本、URL、联系方式等信息生成二维码而设计。
+        - generic [ref=f19e54]:
+          - generic [ref=f19e55]:
+            - generic [ref=f19e56]: 内容（文本 / URL）
+            - textbox "输入要编码的文本或网址" [ref=f19e57]: https://example.com
+            - generic [ref=f19e58]:
+              - generic [ref=f19e59]:
+                - generic [ref=f19e60]: 尺寸（px）
+                - slider [ref=f19e61]: "320"
+                - generic [ref=f19e62]: 320 × 320
+              - generic [ref=f19e63]:
+                - generic [ref=f19e64]: 纠错等级
+                - combobox [ref=f19e65]:
+                  - option "L · 7% 纠错"
+                  - option "M · 15% 纠错" [selected]
+                  - option "Q · 25% 纠错"
+                  - option "H · 30% 纠错"
+              - generic [ref=f19e66]:
+                - generic [ref=f19e67]: 前景色
+                - textbox [ref=f19e68] [cursor=pointer]: "#000000"
+              - generic [ref=f19e69]:
+                - generic [ref=f19e70]: 背景色
+                - textbox [ref=f19e71] [cursor=pointer]: "#ffffff"
+          - generic [ref=f19e72]:
+            - generic [ref=f19e73]: 预览
+            - generic [ref=f19e74]:
+              - generic [ref=f19e75]: 生成中…
+              - button "下载 PNG" [disabled] [ref=f19e77]
+      - generic [ref=f19e80]:
+        - generic [ref=f19e81]:
+          - generic [ref=f19e82]: 轻松办公，工具助你一臂之力
+          - generic [ref=f19e83]:
+            - link "隐私政策" [ref=f19e84] [cursor=pointer]:
+              - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+            - link "数据处理规则及免责声明" [ref=f19e85] [cursor=pointer]:
+              - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+          - generic [ref=f19e86]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
+        - img "二维码" [ref=f19e88]
+  - button "Open Next.js Dev Tools" [ref=f19e94] [cursor=pointer]
+  - alert [ref=f19e98]

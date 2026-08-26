@@ -1,0 +1,563 @@
+- generic [active] [ref=f13e1]:
+  - generic [ref=f13e2]:
+    - complementary "工具分类导航" [ref=f13e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f13e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f13e5]
+        - generic [ref=f13e6]:
+          - generic [ref=f13e7]: 帮小忙
+          - generic [ref=f13e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f13e9]:
+        - list [ref=f13e10]:
+          - listitem [ref=f13e11]:
+            - link "全部" [ref=f13e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f13e14]:
+            - link "图片工具" [ref=f13e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f13e17]:
+            - link "PDF转换工具" [ref=f13e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f13e20]:
+            - link "数据换算工具" [ref=f13e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f13e23]:
+            - link "生活娱乐工具" [ref=f13e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f13e26]:
+            - link "教育工具" [ref=f13e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f13e29]:
+            - link "文本工具" [ref=f13e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f13e32]:
+            - link "文档转换工具" [ref=f13e33] [cursor=pointer]:
+              - /url: /category/doc
+          - listitem [ref=f13e35]:
+            - link "开发工具" [ref=f13e36] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f13e38]:
+            - link "视频工具" [ref=f13e39] [cursor=pointer]:
+              - /url: /category/video
+          - listitem [ref=f13e41]:
+            - link "浏览器插件" [ref=f13e42] [cursor=pointer]:
+              - /url: /category/pc_plugin
+    - main [ref=f13e45]:
+      - generic [ref=f13e46]:
+        - generic [ref=f13e47]:
+          - link "帮小忙工具箱" [ref=f13e48] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f13e49]: /
+          - generic [ref=f13e50]: 元素周期表
+        - heading "元素周期表" [level=1] [ref=f13e51]
+        - paragraph [ref=f13e52]: 元素周期表工具可以帮助您快速查阅和了解化学元素的详细信息，您可以轻松找到每个元素的原子序数、符号、名称、原子量、电子排布等信息。
+        - generic [ref=f13e54]:
+          - generic [ref=f13e56]:
+            - generic [ref=f13e57]:
+              - generic [ref=f13e58]: 搜索元素
+              - textbox "例如 Fe / 铁 / Iron / 26" [ref=f13e59]
+            - generic [ref=f13e60]:
+              - generic [ref=f13e61]: 碱金属
+              - generic [ref=f13e63]: 碱土金属
+              - generic [ref=f13e65]: 过渡金属
+              - generic [ref=f13e67]: 主族金属
+              - generic [ref=f13e69]: 类金属
+              - generic [ref=f13e71]: 非金属
+              - generic [ref=f13e73]: 卤素
+              - generic [ref=f13e75]: 稀有气体
+              - generic [ref=f13e77]: 镧系
+              - generic [ref=f13e79]: 锕系
+          - generic [ref=f13e81]:
+            - generic [ref=f13e82]:
+              - button "1 H 氢" [ref=f13e83] [cursor=pointer]:
+                - generic [ref=f13e84]: "1"
+                - generic [ref=f13e85]: H
+                - generic [ref=f13e86]: 氢
+              - button "2 He 氦" [ref=f13e103] [cursor=pointer]:
+                - generic [ref=f13e104]: "2"
+                - generic [ref=f13e105]: He
+                - generic [ref=f13e106]: 氦
+              - button "3 Li 锂" [ref=f13e107] [cursor=pointer]:
+                - generic [ref=f13e108]: "3"
+                - generic [ref=f13e109]: Li
+                - generic [ref=f13e110]: 锂
+              - button "4 Be 铍" [ref=f13e111] [cursor=pointer]:
+                - generic [ref=f13e112]: "4"
+                - generic [ref=f13e113]: Be
+                - generic [ref=f13e114]: 铍
+              - button "5 B 硼" [ref=f13e125] [cursor=pointer]:
+                - generic [ref=f13e126]: "5"
+                - generic [ref=f13e127]: B
+                - generic [ref=f13e128]: 硼
+              - button "6 C 碳" [ref=f13e129] [cursor=pointer]:
+                - generic [ref=f13e130]: "6"
+                - generic [ref=f13e131]: C
+                - generic [ref=f13e132]: 碳
+              - button "7 N 氮" [ref=f13e133] [cursor=pointer]:
+                - generic [ref=f13e134]: "7"
+                - generic [ref=f13e135]: "N"
+                - generic [ref=f13e136]: 氮
+              - button "8 O 氧" [ref=f13e137] [cursor=pointer]:
+                - generic [ref=f13e138]: "8"
+                - generic [ref=f13e139]: O
+                - generic [ref=f13e140]: 氧
+              - button "9 F 氟" [ref=f13e141] [cursor=pointer]:
+                - generic [ref=f13e142]: "9"
+                - generic [ref=f13e143]: F
+                - generic [ref=f13e144]: 氟
+              - button "10 Ne 氖" [ref=f13e145] [cursor=pointer]:
+                - generic [ref=f13e146]: "10"
+                - generic [ref=f13e147]: Ne
+                - generic [ref=f13e148]: 氖
+              - button "11 Na 钠" [ref=f13e149] [cursor=pointer]:
+                - generic [ref=f13e150]: "11"
+                - generic [ref=f13e151]: Na
+                - generic [ref=f13e152]: 钠
+              - button "12 Mg 镁" [ref=f13e153] [cursor=pointer]:
+                - generic [ref=f13e154]: "12"
+                - generic [ref=f13e155]: Mg
+                - generic [ref=f13e156]: 镁
+              - button "13 Al 铝" [ref=f13e167] [cursor=pointer]:
+                - generic [ref=f13e168]: "13"
+                - generic [ref=f13e169]: Al
+                - generic [ref=f13e170]: 铝
+              - button "14 Si 硅" [ref=f13e171] [cursor=pointer]:
+                - generic [ref=f13e172]: "14"
+                - generic [ref=f13e173]: Si
+                - generic [ref=f13e174]: 硅
+              - button "15 P 磷" [ref=f13e175] [cursor=pointer]:
+                - generic [ref=f13e176]: "15"
+                - generic [ref=f13e177]: P
+                - generic [ref=f13e178]: 磷
+              - button "16 S 硫" [ref=f13e179] [cursor=pointer]:
+                - generic [ref=f13e180]: "16"
+                - generic [ref=f13e181]: S
+                - generic [ref=f13e182]: 硫
+              - button "17 Cl 氯" [ref=f13e183] [cursor=pointer]:
+                - generic [ref=f13e184]: "17"
+                - generic [ref=f13e185]: Cl
+                - generic [ref=f13e186]: 氯
+              - button "18 Ar 氩" [ref=f13e187] [cursor=pointer]:
+                - generic [ref=f13e188]: "18"
+                - generic [ref=f13e189]: Ar
+                - generic [ref=f13e190]: 氩
+              - button "19 K 钾" [ref=f13e191] [cursor=pointer]:
+                - generic [ref=f13e192]: "19"
+                - generic [ref=f13e193]: K
+                - generic [ref=f13e194]: 钾
+              - button "20 Ca 钙" [ref=f13e195] [cursor=pointer]:
+                - generic [ref=f13e196]: "20"
+                - generic [ref=f13e197]: Ca
+                - generic [ref=f13e198]: 钙
+              - button "21 Sc 钪" [ref=f13e199] [cursor=pointer]:
+                - generic [ref=f13e200]: "21"
+                - generic [ref=f13e201]: Sc
+                - generic [ref=f13e202]: 钪
+              - button "22 Ti 钛" [ref=f13e203] [cursor=pointer]:
+                - generic [ref=f13e204]: "22"
+                - generic [ref=f13e205]: Ti
+                - generic [ref=f13e206]: 钛
+              - button "23 V 钒" [ref=f13e207] [cursor=pointer]:
+                - generic [ref=f13e208]: "23"
+                - generic [ref=f13e209]: V
+                - generic [ref=f13e210]: 钒
+              - button "24 Cr 铬" [ref=f13e211] [cursor=pointer]:
+                - generic [ref=f13e212]: "24"
+                - generic [ref=f13e213]: Cr
+                - generic [ref=f13e214]: 铬
+              - button "25 Mn 锰" [ref=f13e215] [cursor=pointer]:
+                - generic [ref=f13e216]: "25"
+                - generic [ref=f13e217]: Mn
+                - generic [ref=f13e218]: 锰
+              - button "26 Fe 铁" [ref=f13e219] [cursor=pointer]:
+                - generic [ref=f13e220]: "26"
+                - generic [ref=f13e221]: Fe
+                - generic [ref=f13e222]: 铁
+              - button "27 Co 钴" [ref=f13e223] [cursor=pointer]:
+                - generic [ref=f13e224]: "27"
+                - generic [ref=f13e225]: Co
+                - generic [ref=f13e226]: 钴
+              - button "28 Ni 镍" [ref=f13e227] [cursor=pointer]:
+                - generic [ref=f13e228]: "28"
+                - generic [ref=f13e229]: Ni
+                - generic [ref=f13e230]: 镍
+              - button "29 Cu 铜" [ref=f13e231] [cursor=pointer]:
+                - generic [ref=f13e232]: "29"
+                - generic [ref=f13e233]: Cu
+                - generic [ref=f13e234]: 铜
+              - button "30 Zn 锌" [ref=f13e235] [cursor=pointer]:
+                - generic [ref=f13e236]: "30"
+                - generic [ref=f13e237]: Zn
+                - generic [ref=f13e238]: 锌
+              - button "31 Ga 镓" [ref=f13e239] [cursor=pointer]:
+                - generic [ref=f13e240]: "31"
+                - generic [ref=f13e241]: Ga
+                - generic [ref=f13e242]: 镓
+              - button "32 Ge 锗" [ref=f13e243] [cursor=pointer]:
+                - generic [ref=f13e244]: "32"
+                - generic [ref=f13e245]: Ge
+                - generic [ref=f13e246]: 锗
+              - button "33 As 砷" [ref=f13e247] [cursor=pointer]:
+                - generic [ref=f13e248]: "33"
+                - generic [ref=f13e249]: As
+                - generic [ref=f13e250]: 砷
+              - button "34 Se 硒" [ref=f13e251] [cursor=pointer]:
+                - generic [ref=f13e252]: "34"
+                - generic [ref=f13e253]: Se
+                - generic [ref=f13e254]: 硒
+              - button "35 Br 溴" [ref=f13e255] [cursor=pointer]:
+                - generic [ref=f13e256]: "35"
+                - generic [ref=f13e257]: Br
+                - generic [ref=f13e258]: 溴
+              - button "36 Kr 氪" [ref=f13e259] [cursor=pointer]:
+                - generic [ref=f13e260]: "36"
+                - generic [ref=f13e261]: Kr
+                - generic [ref=f13e262]: 氪
+              - button "37 Rb 铷" [ref=f13e263] [cursor=pointer]:
+                - generic [ref=f13e264]: "37"
+                - generic [ref=f13e265]: Rb
+                - generic [ref=f13e266]: 铷
+              - button "38 Sr 锶" [ref=f13e267] [cursor=pointer]:
+                - generic [ref=f13e268]: "38"
+                - generic [ref=f13e269]: Sr
+                - generic [ref=f13e270]: 锶
+              - button "39 Y 钇" [ref=f13e271] [cursor=pointer]:
+                - generic [ref=f13e272]: "39"
+                - generic [ref=f13e273]: "Y"
+                - generic [ref=f13e274]: 钇
+              - button "40 Zr 锆" [ref=f13e275] [cursor=pointer]:
+                - generic [ref=f13e276]: "40"
+                - generic [ref=f13e277]: Zr
+                - generic [ref=f13e278]: 锆
+              - button "41 Nb 铌" [ref=f13e279] [cursor=pointer]:
+                - generic [ref=f13e280]: "41"
+                - generic [ref=f13e281]: Nb
+                - generic [ref=f13e282]: 铌
+              - button "42 Mo 钼" [ref=f13e283] [cursor=pointer]:
+                - generic [ref=f13e284]: "42"
+                - generic [ref=f13e285]: Mo
+                - generic [ref=f13e286]: 钼
+              - button "43 Tc 锝" [ref=f13e287] [cursor=pointer]:
+                - generic [ref=f13e288]: "43"
+                - generic [ref=f13e289]: Tc
+                - generic [ref=f13e290]: 锝
+              - button "44 Ru 钌" [ref=f13e291] [cursor=pointer]:
+                - generic [ref=f13e292]: "44"
+                - generic [ref=f13e293]: Ru
+                - generic [ref=f13e294]: 钌
+              - button "45 Rh 铑" [ref=f13e295] [cursor=pointer]:
+                - generic [ref=f13e296]: "45"
+                - generic [ref=f13e297]: Rh
+                - generic [ref=f13e298]: 铑
+              - button "46 Pd 钯" [ref=f13e299] [cursor=pointer]:
+                - generic [ref=f13e300]: "46"
+                - generic [ref=f13e301]: Pd
+                - generic [ref=f13e302]: 钯
+              - button "47 Ag 银" [ref=f13e303] [cursor=pointer]:
+                - generic [ref=f13e304]: "47"
+                - generic [ref=f13e305]: Ag
+                - generic [ref=f13e306]: 银
+              - button "48 Cd 镉" [ref=f13e307] [cursor=pointer]:
+                - generic [ref=f13e308]: "48"
+                - generic [ref=f13e309]: Cd
+                - generic [ref=f13e310]: 镉
+              - button "49 In 铟" [ref=f13e311] [cursor=pointer]:
+                - generic [ref=f13e312]: "49"
+                - generic [ref=f13e313]: In
+                - generic [ref=f13e314]: 铟
+              - button "50 Sn 锡" [ref=f13e315] [cursor=pointer]:
+                - generic [ref=f13e316]: "50"
+                - generic [ref=f13e317]: Sn
+                - generic [ref=f13e318]: 锡
+              - button "51 Sb 锑" [ref=f13e319] [cursor=pointer]:
+                - generic [ref=f13e320]: "51"
+                - generic [ref=f13e321]: Sb
+                - generic [ref=f13e322]: 锑
+              - button "52 Te 碲" [ref=f13e323] [cursor=pointer]:
+                - generic [ref=f13e324]: "52"
+                - generic [ref=f13e325]: Te
+                - generic [ref=f13e326]: 碲
+              - button "53 I 碘" [ref=f13e327] [cursor=pointer]:
+                - generic [ref=f13e328]: "53"
+                - generic [ref=f13e329]: I
+                - generic [ref=f13e330]: 碘
+              - button "54 Xe 氙" [ref=f13e331] [cursor=pointer]:
+                - generic [ref=f13e332]: "54"
+                - generic [ref=f13e333]: Xe
+                - generic [ref=f13e334]: 氙
+              - button "55 Cs 铯" [ref=f13e335] [cursor=pointer]:
+                - generic [ref=f13e336]: "55"
+                - generic [ref=f13e337]: Cs
+                - generic [ref=f13e338]: 铯
+              - button "56 Ba 钡" [ref=f13e339] [cursor=pointer]:
+                - generic [ref=f13e340]: "56"
+                - generic [ref=f13e341]: Ba
+                - generic [ref=f13e342]: 钡
+              - button "72 Hf 铪" [ref=f13e344] [cursor=pointer]:
+                - generic [ref=f13e345]: "72"
+                - generic [ref=f13e346]: Hf
+                - generic [ref=f13e347]: 铪
+              - button "73 Ta 钽" [ref=f13e348] [cursor=pointer]:
+                - generic [ref=f13e349]: "73"
+                - generic [ref=f13e350]: Ta
+                - generic [ref=f13e351]: 钽
+              - button "74 W 钨" [ref=f13e352] [cursor=pointer]:
+                - generic [ref=f13e353]: "74"
+                - generic [ref=f13e354]: W
+                - generic [ref=f13e355]: 钨
+              - button "75 Re 铼" [ref=f13e356] [cursor=pointer]:
+                - generic [ref=f13e357]: "75"
+                - generic [ref=f13e358]: Re
+                - generic [ref=f13e359]: 铼
+              - button "76 Os 锇" [ref=f13e360] [cursor=pointer]:
+                - generic [ref=f13e361]: "76"
+                - generic [ref=f13e362]: Os
+                - generic [ref=f13e363]: 锇
+              - button "77 Ir 铱" [ref=f13e364] [cursor=pointer]:
+                - generic [ref=f13e365]: "77"
+                - generic [ref=f13e366]: Ir
+                - generic [ref=f13e367]: 铱
+              - button "78 Pt 铂" [ref=f13e368] [cursor=pointer]:
+                - generic [ref=f13e369]: "78"
+                - generic [ref=f13e370]: Pt
+                - generic [ref=f13e371]: 铂
+              - button "79 Au 金" [ref=f13e372] [cursor=pointer]:
+                - generic [ref=f13e373]: "79"
+                - generic [ref=f13e374]: Au
+                - generic [ref=f13e375]: 金
+              - button "80 Hg 汞" [ref=f13e376] [cursor=pointer]:
+                - generic [ref=f13e377]: "80"
+                - generic [ref=f13e378]: Hg
+                - generic [ref=f13e379]: 汞
+              - button "81 Tl 铊" [ref=f13e380] [cursor=pointer]:
+                - generic [ref=f13e381]: "81"
+                - generic [ref=f13e382]: Tl
+                - generic [ref=f13e383]: 铊
+              - button "82 Pb 铅" [ref=f13e384] [cursor=pointer]:
+                - generic [ref=f13e385]: "82"
+                - generic [ref=f13e386]: Pb
+                - generic [ref=f13e387]: 铅
+              - button "83 Bi 铋" [ref=f13e388] [cursor=pointer]:
+                - generic [ref=f13e389]: "83"
+                - generic [ref=f13e390]: Bi
+                - generic [ref=f13e391]: 铋
+              - button "84 Po 钋" [ref=f13e392] [cursor=pointer]:
+                - generic [ref=f13e393]: "84"
+                - generic [ref=f13e394]: Po
+                - generic [ref=f13e395]: 钋
+              - button "85 At 砹" [ref=f13e396] [cursor=pointer]:
+                - generic [ref=f13e397]: "85"
+                - generic [ref=f13e398]: At
+                - generic [ref=f13e399]: 砹
+              - button "86 Rn 氡" [ref=f13e400] [cursor=pointer]:
+                - generic [ref=f13e401]: "86"
+                - generic [ref=f13e402]: Rn
+                - generic [ref=f13e403]: 氡
+              - button "87 Fr 钫" [ref=f13e404] [cursor=pointer]:
+                - generic [ref=f13e405]: "87"
+                - generic [ref=f13e406]: Fr
+                - generic [ref=f13e407]: 钫
+              - button "88 Ra 镭" [ref=f13e408] [cursor=pointer]:
+                - generic [ref=f13e409]: "88"
+                - generic [ref=f13e410]: Ra
+                - generic [ref=f13e411]: 镭
+              - button "104 Rf 𬬻" [ref=f13e413] [cursor=pointer]:
+                - generic [ref=f13e414]: "104"
+                - generic [ref=f13e415]: Rf
+                - generic [ref=f13e416]: 𬬻
+              - button "105 Db 𬭊" [ref=f13e417] [cursor=pointer]:
+                - generic [ref=f13e418]: "105"
+                - generic [ref=f13e419]: Db
+                - generic [ref=f13e420]: 𬭊
+              - button "106 Sg 𬭳" [ref=f13e421] [cursor=pointer]:
+                - generic [ref=f13e422]: "106"
+                - generic [ref=f13e423]: Sg
+                - generic [ref=f13e424]: 𬭳
+              - button "107 Bh 𬭛" [ref=f13e425] [cursor=pointer]:
+                - generic [ref=f13e426]: "107"
+                - generic [ref=f13e427]: Bh
+                - generic [ref=f13e428]: 𬭛
+              - button "108 Hs 𬭶" [ref=f13e429] [cursor=pointer]:
+                - generic [ref=f13e430]: "108"
+                - generic [ref=f13e431]: Hs
+                - generic [ref=f13e432]: 𬭶
+              - button "109 Mt 鿏" [ref=f13e433] [cursor=pointer]:
+                - generic [ref=f13e434]: "109"
+                - generic [ref=f13e435]: Mt
+                - generic [ref=f13e436]: 鿏
+              - button "110 Ds 𫟼" [ref=f13e437] [cursor=pointer]:
+                - generic [ref=f13e438]: "110"
+                - generic [ref=f13e439]: Ds
+                - generic [ref=f13e440]: 𫟼
+              - button "111 Rg 𬬭" [ref=f13e441] [cursor=pointer]:
+                - generic [ref=f13e442]: "111"
+                - generic [ref=f13e443]: Rg
+                - generic [ref=f13e444]: 𬬭
+              - button "112 Cn 鎶" [ref=f13e445] [cursor=pointer]:
+                - generic [ref=f13e446]: "112"
+                - generic [ref=f13e447]: Cn
+                - generic [ref=f13e448]: 鎶
+              - button "113 Nh 鉨" [ref=f13e449] [cursor=pointer]:
+                - generic [ref=f13e450]: "113"
+                - generic [ref=f13e451]: Nh
+                - generic [ref=f13e452]: 鉨
+              - button "114 Fl 𫓧" [ref=f13e453] [cursor=pointer]:
+                - generic [ref=f13e454]: "114"
+                - generic [ref=f13e455]: Fl
+                - generic [ref=f13e456]: 𫓧
+              - button "115 Mc 镆" [ref=f13e457] [cursor=pointer]:
+                - generic [ref=f13e458]: "115"
+                - generic [ref=f13e459]: Mc
+                - generic [ref=f13e460]: 镆
+              - button "116 Lv 𫟷" [ref=f13e461] [cursor=pointer]:
+                - generic [ref=f13e462]: "116"
+                - generic [ref=f13e463]: Lv
+                - generic [ref=f13e464]: 𫟷
+              - button "117 Ts 鿬" [ref=f13e465] [cursor=pointer]:
+                - generic [ref=f13e466]: "117"
+                - generic [ref=f13e467]: Ts
+                - generic [ref=f13e468]: 鿬
+              - button "118 Og 鿫" [ref=f13e469] [cursor=pointer]:
+                - generic [ref=f13e470]: "118"
+                - generic [ref=f13e471]: Og
+                - generic [ref=f13e472]: 鿫
+            - generic [ref=f13e473]:
+              - generic [ref=f13e474]: 镧系57-71
+              - generic [ref=f13e475]:
+                - button "57 La 镧" [ref=f13e476] [cursor=pointer]:
+                  - generic [ref=f13e477]: "57"
+                  - generic [ref=f13e478]: La
+                  - generic [ref=f13e479]: 镧
+                - button "58 Ce 铈" [ref=f13e480] [cursor=pointer]:
+                  - generic [ref=f13e481]: "58"
+                  - generic [ref=f13e482]: Ce
+                  - generic [ref=f13e483]: 铈
+                - button "59 Pr 镨" [ref=f13e484] [cursor=pointer]:
+                  - generic [ref=f13e485]: "59"
+                  - generic [ref=f13e486]: Pr
+                  - generic [ref=f13e487]: 镨
+                - button "60 Nd 钕" [ref=f13e488] [cursor=pointer]:
+                  - generic [ref=f13e489]: "60"
+                  - generic [ref=f13e490]: Nd
+                  - generic [ref=f13e491]: 钕
+                - button "61 Pm 钷" [ref=f13e492] [cursor=pointer]:
+                  - generic [ref=f13e493]: "61"
+                  - generic [ref=f13e494]: Pm
+                  - generic [ref=f13e495]: 钷
+                - button "62 Sm 钐" [ref=f13e496] [cursor=pointer]:
+                  - generic [ref=f13e497]: "62"
+                  - generic [ref=f13e498]: Sm
+                  - generic [ref=f13e499]: 钐
+                - button "63 Eu 铕" [ref=f13e500] [cursor=pointer]:
+                  - generic [ref=f13e501]: "63"
+                  - generic [ref=f13e502]: Eu
+                  - generic [ref=f13e503]: 铕
+                - button "64 Gd 钆" [ref=f13e504] [cursor=pointer]:
+                  - generic [ref=f13e505]: "64"
+                  - generic [ref=f13e506]: Gd
+                  - generic [ref=f13e507]: 钆
+                - button "65 Tb 铽" [ref=f13e508] [cursor=pointer]:
+                  - generic [ref=f13e509]: "65"
+                  - generic [ref=f13e510]: Tb
+                  - generic [ref=f13e511]: 铽
+                - button "66 Dy 镝" [ref=f13e512] [cursor=pointer]:
+                  - generic [ref=f13e513]: "66"
+                  - generic [ref=f13e514]: Dy
+                  - generic [ref=f13e515]: 镝
+                - button "67 Ho 钬" [ref=f13e516] [cursor=pointer]:
+                  - generic [ref=f13e517]: "67"
+                  - generic [ref=f13e518]: Ho
+                  - generic [ref=f13e519]: 钬
+                - button "68 Er 铒" [ref=f13e520] [cursor=pointer]:
+                  - generic [ref=f13e521]: "68"
+                  - generic [ref=f13e522]: Er
+                  - generic [ref=f13e523]: 铒
+                - button "69 Tm 铥" [ref=f13e524] [cursor=pointer]:
+                  - generic [ref=f13e525]: "69"
+                  - generic [ref=f13e526]: Tm
+                  - generic [ref=f13e527]: 铥
+                - button "70 Yb 镱" [ref=f13e528] [cursor=pointer]:
+                  - generic [ref=f13e529]: "70"
+                  - generic [ref=f13e530]: Yb
+                  - generic [ref=f13e531]: 镱
+                - button "71 Lu 镥" [ref=f13e532] [cursor=pointer]:
+                  - generic [ref=f13e533]: "71"
+                  - generic [ref=f13e534]: Lu
+                  - generic [ref=f13e535]: 镥
+            - generic [ref=f13e536]:
+              - generic [ref=f13e537]: 锕系89-103
+              - generic [ref=f13e538]:
+                - button "89 Ac 锕" [ref=f13e539] [cursor=pointer]:
+                  - generic [ref=f13e540]: "89"
+                  - generic [ref=f13e541]: Ac
+                  - generic [ref=f13e542]: 锕
+                - button "90 Th 钍" [ref=f13e543] [cursor=pointer]:
+                  - generic [ref=f13e544]: "90"
+                  - generic [ref=f13e545]: Th
+                  - generic [ref=f13e546]: 钍
+                - button "91 Pa 镤" [ref=f13e547] [cursor=pointer]:
+                  - generic [ref=f13e548]: "91"
+                  - generic [ref=f13e549]: Pa
+                  - generic [ref=f13e550]: 镤
+                - button "92 U 铀" [ref=f13e551] [cursor=pointer]:
+                  - generic [ref=f13e552]: "92"
+                  - generic [ref=f13e553]: U
+                  - generic [ref=f13e554]: 铀
+                - button "93 Np 镎" [ref=f13e555] [cursor=pointer]:
+                  - generic [ref=f13e556]: "93"
+                  - generic [ref=f13e557]: Np
+                  - generic [ref=f13e558]: 镎
+                - button "94 Pu 钚" [ref=f13e559] [cursor=pointer]:
+                  - generic [ref=f13e560]: "94"
+                  - generic [ref=f13e561]: Pu
+                  - generic [ref=f13e562]: 钚
+                - button "95 Am 镅" [ref=f13e563] [cursor=pointer]:
+                  - generic [ref=f13e564]: "95"
+                  - generic [ref=f13e565]: Am
+                  - generic [ref=f13e566]: 镅
+                - button "96 Cm 锔" [ref=f13e567] [cursor=pointer]:
+                  - generic [ref=f13e568]: "96"
+                  - generic [ref=f13e569]: Cm
+                  - generic [ref=f13e570]: 锔
+                - button "97 Bk 锫" [ref=f13e571] [cursor=pointer]:
+                  - generic [ref=f13e572]: "97"
+                  - generic [ref=f13e573]: Bk
+                  - generic [ref=f13e574]: 锫
+                - button "98 Cf 锎" [ref=f13e575] [cursor=pointer]:
+                  - generic [ref=f13e576]: "98"
+                  - generic [ref=f13e577]: Cf
+                  - generic [ref=f13e578]: 锎
+                - button "99 Es 锿" [ref=f13e579] [cursor=pointer]:
+                  - generic [ref=f13e580]: "99"
+                  - generic [ref=f13e581]: Es
+                  - generic [ref=f13e582]: 锿
+                - button "100 Fm 镄" [ref=f13e583] [cursor=pointer]:
+                  - generic [ref=f13e584]: "100"
+                  - generic [ref=f13e585]: Fm
+                  - generic [ref=f13e586]: 镄
+                - button "101 Md 钔" [ref=f13e587] [cursor=pointer]:
+                  - generic [ref=f13e588]: "101"
+                  - generic [ref=f13e589]: Md
+                  - generic [ref=f13e590]: 钔
+                - button "102 No 锘" [ref=f13e591] [cursor=pointer]:
+                  - generic [ref=f13e592]: "102"
+                  - generic [ref=f13e593]: "No"
+                  - generic [ref=f13e594]: 锘
+                - button "103 Lr 铹" [ref=f13e595] [cursor=pointer]:
+                  - generic [ref=f13e596]: "103"
+                  - generic [ref=f13e597]: Lr
+                  - generic [ref=f13e598]: 铹
+          - generic [ref=f13e599]:
+            - generic [ref=f13e600]: 元素详情
+            - paragraph [ref=f13e601]: 点击任意元素格子查看详细信息。
+      - generic [ref=f13e604]:
+        - generic [ref=f13e605]:
+          - generic [ref=f13e606]: 轻松办公，工具助你一臂之力
+          - generic [ref=f13e607]:
+            - link "隐私政策" [ref=f13e608] [cursor=pointer]:
+              - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+            - link "数据处理规则及免责声明" [ref=f13e609] [cursor=pointer]:
+              - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+          - generic [ref=f13e610]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
+        - img "二维码" [ref=f13e612]
+  - button "Open Next.js Dev Tools" [ref=f13e618] [cursor=pointer]

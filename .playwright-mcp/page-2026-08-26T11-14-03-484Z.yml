@@ -1,0 +1,131 @@
+- generic [ref=f6e1]:
+  - generic [ref=f6e2]:
+    - complementary "工具分类导航" [ref=f6e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f6e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f6e5]
+        - generic [ref=f6e6]:
+          - generic [ref=f6e7]: 帮小忙
+          - generic [ref=f6e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f6e9]:
+        - list [ref=f6e10]:
+          - listitem [ref=f6e11]:
+            - link "全部" [ref=f6e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f6e14]:
+            - link "图片工具" [ref=f6e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f6e17]:
+            - link "PDF转换工具" [ref=f6e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f6e20]:
+            - link "数据换算工具" [ref=f6e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f6e23]:
+            - link "生活娱乐工具" [ref=f6e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f6e26]:
+            - link "教育工具" [ref=f6e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f6e29]:
+            - link "文本工具" [ref=f6e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f6e32]:
+            - link "开发工具" [ref=f6e33] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f6e35]:
+            - link "视频工具" [ref=f6e36] [cursor=pointer]:
+              - /url: /category/video
+    - main [ref=f6e39]:
+      - generic [ref=f6e40]:
+        - generic [ref=f6e41]:
+          - link "帮小忙工具箱" [ref=f6e42] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f6e43]: /
+          - generic [ref=f6e44]: 证件照生成
+        - heading "证件照生成" [level=1] [ref=f6e45]
+        - paragraph [ref=f6e46]: 证件照生成工具帮助你快速生成高质量证件照。上传照片后一键纯前端抠图，支持更换背景色、按多种尺寸导出，并提供 6 寸排版打印。全程在浏览器本地完成，不上传任何照片。
+        - generic [ref=f6e48]:
+          - generic [ref=f6e50]:
+            - generic [ref=f6e51]:
+              - generic [ref=f6e52]: "1"
+              - generic [ref=f6e53]: 选择尺寸
+            - generic [ref=f6e54]:
+              - generic [ref=f6e55]: "2"
+              - generic [ref=f6e56]: 上传照片
+            - generic [ref=f6e57]:
+              - generic [ref=f6e58]: "3"
+              - generic [ref=f6e59]: 一键抠图
+            - generic [ref=f6e60]:
+              - generic [ref=f6e61]: "4"
+              - generic [ref=f6e62]: 下载照片
+          - generic [ref=f6e63]:
+            - generic [ref=f6e64]: 选择尺寸
+            - generic [ref=f6e65]:
+              - button "常用尺寸" [ref=f6e66] [cursor=pointer]
+              - button "公务员" [ref=f6e67] [cursor=pointer]
+              - button "签证" [ref=f6e68] [cursor=pointer]
+              - button "其他" [ref=f6e69] [cursor=pointer]
+            - generic [ref=f6e70]:
+              - button "一寸 25*35mm" [ref=f6e71] [cursor=pointer]:
+                - generic [ref=f6e72]: 一寸
+                - generic [ref=f6e73]: 25*35mm
+              - button "二寸 35*49mm" [ref=f6e74] [cursor=pointer]:
+                - generic [ref=f6e75]: 二寸
+                - generic [ref=f6e76]: 35*49mm
+              - button "简历照(二寸) 35*49mm" [ref=f6e77] [cursor=pointer]:
+                - generic [ref=f6e78]: 简历照(二寸)
+                - generic [ref=f6e79]: 35*49mm
+              - button "简历照(一寸) 25*35mm" [ref=f6e80] [cursor=pointer]:
+                - generic [ref=f6e81]: 简历照(一寸)
+                - generic [ref=f6e82]: 25*35mm
+              - button "大一寸 33*48mm" [ref=f6e83] [cursor=pointer]:
+                - generic [ref=f6e84]: 大一寸
+                - generic [ref=f6e85]: 33*48mm
+              - button "小一寸 22*32mm" [ref=f6e86] [cursor=pointer]:
+                - generic [ref=f6e87]: 小一寸
+                - generic [ref=f6e88]: 22*32mm
+              - button "小二寸 35*45mm" [ref=f6e89] [cursor=pointer]:
+                - generic [ref=f6e90]: 小二寸
+                - generic [ref=f6e91]: 35*45mm
+              - button "大二寸 35*53mm" [ref=f6e92] [cursor=pointer]:
+                - generic [ref=f6e93]: 大二寸
+                - generic [ref=f6e94]: 35*53mm
+              - button "社保卡 26*32mm" [ref=f6e95] [cursor=pointer]:
+                - generic [ref=f6e96]: 社保卡
+                - generic [ref=f6e97]: 26*32mm
+              - button "居住证 26*32mm" [ref=f6e98] [cursor=pointer]:
+                - generic [ref=f6e99]: 居住证
+                - generic [ref=f6e100]: 26*32mm
+              - button "身份证 26*32mm" [ref=f6e101] [cursor=pointer]:
+                - generic [ref=f6e102]: 身份证
+                - generic [ref=f6e103]: 26*32mm
+          - generic [ref=f6e104]:
+            - generic [ref=f6e105]: 上传照片
+            - button "Choose File" [ref=f6e106]
+          - generic [ref=f6e107]: 本工具使用 Google MediaPipe Selfie Segmentation 模型在浏览器本地完成人像抠图，无需上传照片到服务器，保护您的隐私。建议上传正面、光线均匀的半身照以获得最佳效果。
+      - generic [ref=f6e109]:
+        - paragraph [ref=f6e110]:
+          - generic [ref=f6e111]:
+            - link "关于我们" [ref=f6e112] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f6e113]:
+            - link "广告服务" [ref=f6e114] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f6e115]:
+            - link "联系我们" [ref=f6e116] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f6e117]:
+            - link "网站提交" [ref=f6e118] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - link "意见反馈" [ref=f6e120] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88
+        - paragraph [ref=f6e121]:
+          - text: © 2026 网址之家 www.bestsed.com · 广告合作：
+          - link "80246338@qq.com" [ref=f6e122] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E5%B9%BF%E5%91%8A%E5%90%88%E4%BD%9C
+  - button "Open Next.js Dev Tools" [ref=f6e128] [cursor=pointer]

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFA651"/>
+      <stop offset="100%" stop-color="#FF7A1A"/>
+    </linearGradient>
+    <linearGradient id="earGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF8B33"/>
+      <stop offset="100%" stop-color="#F36B12"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="#FFF3E6"/>
+  <path d="M 28 30 L 18 12 L 40 22 Z" fill="url(#earGrad)" stroke="#D9540E" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M 92 30 L 102 12 L 80 22 Z" fill="url(#earGrad)" stroke="#D9540E" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M 30 27 L 24 18 L 36 24 Z" fill="#FFD7B5"/>
+  <path d="M 90 27 L 96 18 L 84 24 Z" fill="#FFD7B5"/>
+  <path d="M 60 32 C 38 32, 22 48, 22 68 C 22 84, 38 96, 60 96 C 82 96, 98 84, 98 68 C 98 48, 82 32, 60 32 Z" fill="url(#bodyGrad)" stroke="#D9540E" stroke-width="1.5"/>
+  <path d="M 60 64 C 50 64, 42 70, 42 80 C 42 88, 50 92, 60 92 C 70 92, 78 88, 78 80 C 78 70, 70 64, 60 64 Z" fill="#FFF8F0"/>
+  <path d="M 28 64 Q 24 64 24 70 Q 28 70 32 66 Z" fill="url(#bodyGrad)" stroke="#D9540E" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M 92 64 Q 96 64 96 70 Q 92 70 88 66 Z" fill="url(#bodyGrad)" stroke="#D9540E" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M 44 60 Q 48 56 52 60" fill="none" stroke="#2A1B0E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 68 60 Q 72 56 76 60" fill="none" stroke="#2A1B0E" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="58" r="1.2" fill="#FFFFFF"/>
+  <circle cx="74" cy="58" r="1.2" fill="#FFFFFF"/>
+  <ellipse cx="60" cy="76" rx="4" ry="3" fill="#2A1B0E"/>
+  <path d="M 60 80 Q 56 86 50 84" fill="none" stroke="#2A1B0E" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 60 80 Q 64 86 70 84" fill="none" stroke="#2A1B0E" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="40" cy="74" rx="5" ry="3" fill="#FFB37A" opacity="0.7"/>
+  <ellipse cx="80" cy="74" rx="5" ry="3" fill="#FFB37A" opacity="0.7"/>
+</svg>

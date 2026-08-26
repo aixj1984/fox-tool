@@ -1,0 +1,97 @@
+- generic [active] [ref=f24e1]:
+  - generic [ref=f24e2]:
+    - link "帮小忙 腾讯QQ浏览器在线工具箱" [ref=f24e3] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f24e4]:
+        - generic [ref=f24e5]: 帮小忙
+        - generic [ref=f24e6]: 腾讯QQ浏览器在线工具箱
+    - list [ref=f24e8]:
+      - listitem [ref=f24e9]:
+        - link "全部" [ref=f24e10] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f24e13]:
+        - link "图片工具" [ref=f24e14] [cursor=pointer]:
+          - /url: /category/img
+      - listitem [ref=f24e17]:
+        - link "PDF转换工具" [ref=f24e18] [cursor=pointer]:
+          - /url: /category/pdf
+      - listitem [ref=f24e21]:
+        - link "数据换算工具" [ref=f24e22] [cursor=pointer]:
+          - /url: /category/data
+      - listitem [ref=f24e25]:
+        - link "生活娱乐工具" [ref=f24e26] [cursor=pointer]:
+          - /url: /category/life
+      - listitem [ref=f24e29]:
+        - link "教育工具" [ref=f24e30] [cursor=pointer]:
+          - /url: /category/education
+      - listitem [ref=f24e33]:
+        - link "文本工具" [ref=f24e34] [cursor=pointer]:
+          - /url: /category/text
+      - listitem [ref=f24e37]:
+        - link "文档转换工具" [ref=f24e38] [cursor=pointer]:
+          - /url: /category/doc
+      - listitem [ref=f24e41]:
+        - link "开发工具" [ref=f24e42] [cursor=pointer]:
+          - /url: /category/develop
+      - listitem [ref=f24e45]:
+        - link "视频工具" [ref=f24e46] [cursor=pointer]:
+          - /url: /category/video
+      - listitem [ref=f24e49]:
+        - link "浏览器插件" [ref=f24e50] [cursor=pointer]:
+          - /url: /category/pc_plugin
+  - generic [ref=f24e54]:
+    - link [ref=f24e56] [cursor=pointer]:
+      - /url: "javascript:window.scrollTo({ top: 0, behavior: 'smooth' })"
+    - link [ref=f24e59] [cursor=pointer]:
+      - /url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G8GZ1XGfQoypNSFz79BNmF06xOkhKt5h&authKey=6wQcUEbSlL9sHcNv4gtr7jS9Mmz03wjxUAEsLTh4KhOSECC4EpBaMe2nEW%2BZJoas&noverify=0&group_code=459317399
+    - link "共建" [ref=f24e62] [cursor=pointer]:
+      - /url: https://feedback.browser.qq.com/qbtool?dev=1&url=tool.browser.qq.com/
+    - link "反馈" [ref=f24e65] [cursor=pointer]:
+      - /url: https://feedback.browser.qq.com/qbtool?url=tool.browser.qq.com/
+  - generic [ref=f24e67]:
+    - generic [ref=f24e71]:
+      - img "搜索按钮" [ref=f24e72]
+      - textbox [ref=f24e73]
+      - generic: 工具箱已累计帮助了 376904992 人次
+    - main [ref=f24e75]:
+      - generic [ref=f24e76]:
+        - generic [ref=f24e77]: 图片压缩
+        - generic [ref=f24e81]: 点击上传文件
+      - generic [ref=f24e89]:
+        - heading "工具介绍及使用方法" [level=3] [ref=f24e90]
+        - generic [ref=f24e91]: 图片压缩是一款轻量级的图像压缩工具，图片压缩能够智能识别图像中的每一个元素，并对它们进行高效的压缩和优化。图片压缩还具有简单易用的界面，让你轻松地将大幅图像转换为小巧玲珑的图片。
+      - generic [ref=f24e92]: 更多推荐
+      - generic [ref=f24e94]:
+        - link "证件照生成 相片生成证件照工具是一款帮助用户快速生成高质量证件照的工具。证件照生成证件照工具拥有一个简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。证件照生成证件照工具适用于各种场景和需求，例如结婚登记、签证办理、学校报名等。" [ref=f24e95] [cursor=pointer]:
+          - /url: /id_photo.html
+          - generic [ref=f24e96]:
+            - generic [ref=f24e97]: 证件照生成
+            - generic [ref=f24e98]: 相片生成证件照工具是一款帮助用户快速生成高质量证件照的工具。证件照生成证件照工具拥有一个简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。证件照生成证件照工具适用于各种场景和需求，例如结婚登记、签证办理、学校报名等。
+        - link "人脸年龄选择 人脸年龄选择是一款根据自己照片来改变年龄的在线工具，是一种基于人脸图像的年龄的计算方法。用户可以根据工具随心调节照片来获取自己不同年龄的容貌，是一款很不错的图片处理工具。" [ref=f24e99] [cursor=pointer]:
+          - /url: /face_age_transformation.html
+          - generic [ref=f24e100]:
+            - generic [ref=f24e101]: 人脸年龄选择
+            - generic [ref=f24e102]: 人脸年龄选择是一款根据自己照片来改变年龄的在线工具，是一种基于人脸图像的年龄的计算方法。用户可以根据工具随心调节照片来获取自己不同年龄的容貌，是一款很不错的图片处理工具。
+        - link "头像二次元 头像二次元是一款有趣的在线工具，专为将普通头像照片转换为二次元风格的图片而设计。通过先进的图像处理和风格转换技术，这款工具能够将您的头像照片转换为具有二次元动漫风格的图像，使其更加生动和个性化。" [ref=f24e103] [cursor=pointer]:
+          - /url: /img_face_anime.html
+          - generic [ref=f24e104]:
+            - generic [ref=f24e105]: 头像二次元
+            - generic [ref=f24e106]: 头像二次元是一款有趣的在线工具，专为将普通头像照片转换为二次元风格的图片而设计。通过先进的图像处理和风格转换技术，这款工具能够将您的头像照片转换为具有二次元动漫风格的图像，使其更加生动和个性化。
+        - link "美化你的头像 美化你的头像是一款功能强大的在线工具，通过这款工具，您可以选择喜欢的效果轻松对头像进行美化处理。" [ref=f24e107] [cursor=pointer]:
+          - /url: /img_module_face_stylize.html
+          - generic [ref=f24e108]:
+            - generic [ref=f24e109]: 美化你的头像
+            - generic [ref=f24e110]: 美化你的头像是一款功能强大的在线工具，通过这款工具，您可以选择喜欢的效果轻松对头像进行美化处理。
+        - link "照片美化 这款产品是一款免费的图像修饰软件，可以帮助您修改和润色您的照片，这款图片美化工具不仅功能强大，而且操作简单，适合所有水平的用户。如果您想对照片进行简单的修改和提高质量，那么它是最好的选择。特色与优势：该产品简单易用，人人都能上手。使您在几分钟内就能完成一张美轮美奂的照片" [ref=f24e111] [cursor=pointer]:
+          - /url: /img_pic_beauty.html
+          - generic [ref=f24e112]:
+            - generic [ref=f24e113]: 照片美化
+            - generic [ref=f24e114]: 这款产品是一款免费的图像修饰软件，可以帮助您修改和润色您的照片，这款图片美化工具不仅功能强大，而且操作简单，适合所有水平的用户。如果您想对照片进行简单的修改和提高质量，那么它是最好的选择。特色与优势：该产品简单易用，人人都能上手。使您在几分钟内就能完成一张美轮美奂的照片
+      - generic [ref=f24e121]:
+        - generic [ref=f24e122]: 轻松办公，工具助你一臂之力
+        - generic [ref=f24e123]:
+          - link "隐私政策" [ref=f24e124] [cursor=pointer]:
+            - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+          - link "数据处理规则及免责声明" [ref=f24e125] [cursor=pointer]:
+            - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+        - generic [ref=f24e126]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.

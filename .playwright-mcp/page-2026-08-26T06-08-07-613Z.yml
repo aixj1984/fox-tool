@@ -1,0 +1,232 @@
+- main [ref=f3e2]:
+  - generic [ref=f3e3]:
+    - generic [ref=f3e4]:
+      - link "帮小忙 腾讯QQ浏览器在线工具箱" [ref=f3e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f3e6]:
+          - generic [ref=f3e7]: 帮小忙
+          - generic [ref=f3e8]: 腾讯QQ浏览器在线工具箱
+      - list [ref=f3e10]:
+        - listitem [ref=f3e11]:
+          - link "全部" [ref=f3e12] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f3e15]:
+          - link "图片工具" [ref=f3e16] [cursor=pointer]:
+            - /url: /category/img
+        - listitem [ref=f3e19]:
+          - link "PDF转换工具" [ref=f3e20] [cursor=pointer]:
+            - /url: /category/pdf
+        - listitem [ref=f3e23]:
+          - link "数据换算工具" [ref=f3e24] [cursor=pointer]:
+            - /url: /category/data
+        - listitem [ref=f3e27]:
+          - link "生活娱乐工具" [ref=f3e28] [cursor=pointer]:
+            - /url: /category/life
+        - listitem [ref=f3e31]:
+          - link "教育工具" [ref=f3e32] [cursor=pointer]:
+            - /url: /category/education
+        - listitem [ref=f3e35]:
+          - link "文本工具" [ref=f3e36] [cursor=pointer]:
+            - /url: /category/text
+        - listitem [ref=f3e39]:
+          - link "文档转换工具" [ref=f3e40] [cursor=pointer]:
+            - /url: /category/doc
+        - listitem [ref=f3e43]:
+          - link "开发工具" [ref=f3e44] [cursor=pointer]:
+            - /url: /category/develop
+        - listitem [ref=f3e47]:
+          - link "视频工具" [ref=f3e48] [cursor=pointer]:
+            - /url: /category/video
+        - listitem [ref=f3e51]:
+          - link "浏览器插件" [ref=f3e52] [cursor=pointer]:
+            - /url: /category/pc_plugin
+    - generic [ref=f3e56]:
+      - link [ref=f3e58] [cursor=pointer]:
+        - /url: "javascript:window.scrollTo({ top: 0, behavior: 'smooth' })"
+      - link [ref=f3e61] [cursor=pointer]:
+        - /url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G8GZ1XGfQoypNSFz79BNmF06xOkhKt5h&authKey=6wQcUEbSlL9sHcNv4gtr7jS9Mmz03wjxUAEsLTh4KhOSECC4EpBaMe2nEW%2BZJoas&noverify=0&group_code=459317399
+      - link "共建" [ref=f3e64] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?dev=1&url=tool.browser.qq.com/
+      - link "反馈" [ref=f3e67] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?url=tool.browser.qq.com/
+    - generic [ref=f3e69]:
+      - generic [ref=f3e73]:
+        - img "搜索按钮" [ref=f3e74]
+        - textbox [ref=f3e75]
+      - generic [ref=f3e77]:
+        - link "垃圾分类查询 垃圾分类查询 垃圾分类查询工具是一款免费的工具，可以用来查询生活中的垃圾分类情况。这款工具提供了实时更新的垃圾分类。让用户更加清晰地了解垃圾分类的具体方法和要求。更好地理解和管理垃圾分类工作 hot" [ref=f3e78] [cursor=pointer]:
+          - /url: /garbage.html
+          - img "垃圾分类查询" [ref=f3e79]
+          - generic [ref=f3e80]:
+            - generic [ref=f3e81]: 垃圾分类查询
+            - generic [ref=f3e82]: 垃圾分类查询工具是一款免费的工具，可以用来查询生活中的垃圾分类情况。这款工具提供了实时更新的垃圾分类。让用户更加清晰地了解垃圾分类的具体方法和要求。更好地理解和管理垃圾分类工作
+          - generic [ref=f3e83]: hot
+        - link "搜狗百宝箱 搜狗百宝箱 搜狗百宝箱，您的全能助手！集成日常工具、投资理财、个人信息管理、语言翻译、编码字符等功能，满足您生活和工作的多样需求。一站式解决方案，让复杂生活变得简单高效。搜狗百宝箱，智能生活，触手可及。 搜狗" [ref=f3e85] [cursor=pointer]:
+          - /url: /sogou_box.html
+          - img "搜狗百宝箱" [ref=f3e86]
+          - generic [ref=f3e87]:
+            - generic [ref=f3e88]: 搜狗百宝箱
+            - generic [ref=f3e89]: 搜狗百宝箱，您的全能助手！集成日常工具、投资理财、个人信息管理、语言翻译、编码字符等功能，满足您生活和工作的多样需求。一站式解决方案，让复杂生活变得简单高效。搜狗百宝箱，智能生活，触手可及。
+          - generic [ref=f3e90]: 搜狗
+        - link "合同验签 合同验签 确保合同完整性，信任每一笔签署！上传经腾讯电子签完成签署的文件，使用我们的合同验签工具进行严格检测，确保文件自签署之日起未遭篡改。保护合同安全，维护交易真实性，让每一份合同都值得信赖。 腾讯电子签" [ref=f3e92] [cursor=pointer]:
+          - /url: /contract_verification.html
+          - img "合同验签" [ref=f3e93]
+          - generic [ref=f3e94]:
+            - generic [ref=f3e95]: 合同验签
+            - generic [ref=f3e96]: 确保合同完整性，信任每一笔签署！上传经腾讯电子签完成签署的文件，使用我们的合同验签工具进行严格检测，确保文件自签署之日起未遭篡改。保护合同安全，维护交易真实性，让每一份合同都值得信赖。
+          - generic [ref=f3e97]: 腾讯电子签
+        - link "合同对比 合同对比 合同审核，智能高效！上传原版及新版合同，让合同对比工具自动扫描差异，精确定位每一个改动点。节省人工审核时间，防止遗漏关键条款变更，确保合同修改清晰透明。合同管理，从此简单。 腾讯电子签" [ref=f3e99] [cursor=pointer]:
+          - /url: /contract_comparison.html
+          - img "合同对比" [ref=f3e100]
+          - generic [ref=f3e101]:
+            - generic [ref=f3e102]: 合同对比
+            - generic [ref=f3e103]: 合同审核，智能高效！上传原版及新版合同，让合同对比工具自动扫描差异，精确定位每一个改动点。节省人工审核时间，防止遗漏关键条款变更，确保合同修改清晰透明。合同管理，从此简单。
+          - generic [ref=f3e104]: 腾讯电子签
+        - link "搜狗PDF文件搜索 搜狗PDF文件搜索 搜狗PDF文件搜索是一款强大的在线工具，专为帮助用户在互联网上快速搜索和定位特定的PDF文件。通过利用搜狗搜索引擎的强大功能，这款工具能够高效地在海量网页中找到包含您所需内容的PDF文件，极大地提高了信息检索的效率。 new" [ref=f3e106] [cursor=pointer]:
+          - /url: /pdf_search.html
+          - img "搜狗PDF文件搜索" [ref=f3e107]
+          - generic [ref=f3e108]:
+            - generic [ref=f3e109]: 搜狗PDF文件搜索
+            - generic [ref=f3e110]: 搜狗PDF文件搜索是一款强大的在线工具，专为帮助用户在互联网上快速搜索和定位特定的PDF文件。通过利用搜狗搜索引擎的强大功能，这款工具能够高效地在海量网页中找到包含您所需内容的PDF文件，极大地提高了信息检索的效率。
+          - generic [ref=f3e111]: new
+        - link "今天吃什么 今天吃什么 这是一款很不错做决定吃什么的工具，不用再为每天吃什么而烦恼了。让你实现快速、轻松的选餐过程，让你在日常生活中更加方便和快捷地选择健康优质的食物 hot" [ref=f3e113] [cursor=pointer]:
+          - /url: /whattoeat.html
+          - img "今天吃什么" [ref=f3e114]
+          - generic [ref=f3e115]:
+            - generic [ref=f3e116]: 今天吃什么
+            - generic [ref=f3e117]: 这是一款很不错做决定吃什么的工具，不用再为每天吃什么而烦恼了。让你实现快速、轻松的选餐过程，让你在日常生活中更加方便和快捷地选择健康优质的食物
+          - generic [ref=f3e118]: hot
+        - link "卡路里查询 卡路里查询 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。" [ref=f3e120] [cursor=pointer]:
+          - /url: /calories.html
+          - img "卡路里查询" [ref=f3e121]
+          - generic [ref=f3e122]:
+            - generic [ref=f3e123]: 卡路里查询
+            - generic [ref=f3e124]: 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。
+        - link "英文创业公司/项目名生成 英文创业公司/项目名生成 英文创业公司/项目名生成是一款创意丰富的在线工具，专为帮助创业者和项目团队快速生成独特且有吸引力的英文公司或项目名称而设计。通过这款工具，您可以根据行业、关键词和风格偏好，生成多个符合您需求的名称选项，极大地提高了命名效率和创意灵感。" [ref=f3e125] [cursor=pointer]:
+          - /url: /startupname.html
+          - img "英文创业公司/项目名生成" [ref=f3e126]
+          - generic [ref=f3e127]:
+            - generic [ref=f3e128]: 英文创业公司/项目名生成
+            - generic [ref=f3e129]: 英文创业公司/项目名生成是一款创意丰富的在线工具，专为帮助创业者和项目团队快速生成独特且有吸引力的英文公司或项目名称而设计。通过这款工具，您可以根据行业、关键词和风格偏好，生成多个符合您需求的名称选项，极大地提高了命名效率和创意灵感。
+        - link "手持弹幕LED 手持弹幕LED 手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上，用于各种场合如演唱会、体育赛事、聚会等，增加互动性和趣味性。" [ref=f3e130] [cursor=pointer]:
+          - /url: /led.html
+          - img "手持弹幕LED" [ref=f3e131]
+          - generic [ref=f3e132]:
+            - generic [ref=f3e133]: 手持弹幕LED
+            - generic [ref=f3e134]: 手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上，用于各种场合如演唱会、体育赛事、聚会等，增加互动性和趣味性。
+        - link "文本颜艺 文本颜艺 文本颜艺工具收录了大量的可爱颜文字，可以点击喜欢的颜文字进行复制。" [ref=f3e135] [cursor=pointer]:
+          - /url: /emoji.html
+          - img "文本颜艺" [ref=f3e136]
+          - generic [ref=f3e137]:
+            - generic [ref=f3e138]: 文本颜艺
+            - generic [ref=f3e139]: 文本颜艺工具收录了大量的可爱颜文字，可以点击喜欢的颜文字进行复制。
+        - link "古诗词取名 古诗词取名 古诗词取名在古诗词中提取灵感，为人名、公司名、项目名等进行命名而设计。您可以选择特定的古诗词，生成具有诗意和文化内涵的名字。" [ref=f3e140] [cursor=pointer]:
+          - /url: /makename.html
+          - img "古诗词取名" [ref=f3e141]
+          - generic [ref=f3e142]:
+            - generic [ref=f3e143]: 古诗词取名
+            - generic [ref=f3e144]: 古诗词取名在古诗词中提取灵感，为人名、公司名、项目名等进行命名而设计。您可以选择特定的古诗词，生成具有诗意和文化内涵的名字。
+        - link "车牌归属地 车牌归属地 车牌在线查询工具，它提供全国各地车牌的序号，用户可以根据车牌查询用具快速了解车牌号属于的省市。同时，应用程序界面简洁易用，操作相对方便，非常适合车主使用" [ref=f3e145] [cursor=pointer]:
+          - /url: /carnumber.html
+          - img "车牌归属地" [ref=f3e146]
+          - generic [ref=f3e147]:
+            - generic [ref=f3e148]: 车牌归属地
+            - generic [ref=f3e149]: 车牌在线查询工具，它提供全国各地车牌的序号，用户可以根据车牌查询用具快速了解车牌号属于的省市。同时，应用程序界面简洁易用，操作相对方便，非常适合车主使用
+        - link "电话区号查询 电话区号查询 电话区号查询工具，它提供了各地电话的序号，用户根据需要拨打的电话快速了解，所拨打的电话数据那个地区，同时，应用程序界面简洁易用，操作相对方便，非常适合手机用户使用" [ref=f3e150] [cursor=pointer]:
+          - /url: /phonenumber.html
+          - img "电话区号查询" [ref=f3e151]
+          - generic [ref=f3e152]:
+            - generic [ref=f3e153]: 电话区号查询
+            - generic [ref=f3e154]: 电话区号查询工具，它提供了各地电话的序号，用户根据需要拨打的电话快速了解，所拨打的电话数据那个地区，同时，应用程序界面简洁易用，操作相对方便，非常适合手机用户使用
+        - link "英文人名生成 英文人名生成 英文名生成可以帮助用户快速生成各种不同的英文名字，无论您是需要为小说角色、游戏角色、社交媒体账号，这款工具都能提供多种选项，满足您的需求。" [ref=f3e155] [cursor=pointer]:
+          - /url: /fakeword.html
+          - img "英文人名生成" [ref=f3e156]
+          - generic [ref=f3e157]:
+            - generic [ref=f3e158]: 英文人名生成
+            - generic [ref=f3e159]: 英文名生成可以帮助用户快速生成各种不同的英文名字，无论您是需要为小说角色、游戏角色、社交媒体账号，这款工具都能提供多种选项，满足您的需求。
+        - link "血型遗传规律 血型遗传规律 血型遗传是一款专业的的血型遗传查询工具，可以为用户提供全面的血型遗传信息可以快速计算出后代血型，可以为您带来非常重要的参考和信息帮助" [ref=f3e160] [cursor=pointer]:
+          - /url: /bloodtype.html
+          - img "血型遗传规律" [ref=f3e161]
+          - generic [ref=f3e162]:
+            - generic [ref=f3e163]: 血型遗传规律
+            - generic [ref=f3e164]: 血型遗传是一款专业的的血型遗传查询工具，可以为用户提供全面的血型遗传信息可以快速计算出后代血型，可以为您带来非常重要的参考和信息帮助
+        - link "IP归属地 IP归属地 IP归属地查询是一款免费的网络故障排除工具。它可以帮助用户快速查找互联网上的IP地址及其对应的地理位置。IP归属地查询是一款非常实用的网络故障排除工具，适合广大网民和网络管理员使用" [ref=f3e165] [cursor=pointer]:
+          - /url: /iplocation.html
+          - img "IP归属地" [ref=f3e166]
+          - generic [ref=f3e167]:
+            - generic [ref=f3e168]: IP归属地
+            - generic [ref=f3e169]: IP归属地查询是一款免费的网络故障排除工具。它可以帮助用户快速查找互联网上的IP地址及其对应的地理位置。IP归属地查询是一款非常实用的网络故障排除工具，适合广大网民和网络管理员使用
+        - link "随机数生成 随机数生成 随机数生成是一款实用的在线工具，专为生成随机数而设计。通过这款工具，您可以根据指定的范围和数量，快速生成一组随机数，满足各种编程、统计分析、抽奖活动和日常需求。" [ref=f3e170] [cursor=pointer]:
+          - /url: /random.html
+          - img "随机数生成" [ref=f3e171]
+          - generic [ref=f3e172]:
+            - generic [ref=f3e173]: 随机数生成
+            - generic [ref=f3e174]: 随机数生成是一款实用的在线工具，专为生成随机数而设计。通过这款工具，您可以根据指定的范围和数量，快速生成一组随机数，满足各种编程、统计分析、抽奖活动和日常需求。
+        - link "快递查询 快递查询 快递查询是一款快递查询工具，为用户提供便捷的快递信息查询服务。它支持实时信息的查询，还可以按照发件人、收件人、快递公司等多种方式筛选快递信息。该功能可以查询当前最新的快递信息，包括发货时间、预计到达时间、运费等信息。用户可以在应用中设置自己的查询条件和过滤选项，方便快捷地获取自己需要的快递信息。为用户提供了便捷的快递信息查询服务，同时也注重用户隐私的保护" [ref=f3e175] [cursor=pointer]:
+          - /url: /kuaidi.html
+          - img "快递查询" [ref=f3e176]
+          - generic [ref=f3e177]:
+            - generic [ref=f3e178]: 快递查询
+            - generic [ref=f3e179]: 快递查询是一款快递查询工具，为用户提供便捷的快递信息查询服务。它支持实时信息的查询，还可以按照发件人、收件人、快递公司等多种方式筛选快递信息。该功能可以查询当前最新的快递信息，包括发货时间、预计到达时间、运费等信息。用户可以在应用中设置自己的查询条件和过滤选项，方便快捷地获取自己需要的快递信息。为用户提供了便捷的快递信息查询服务，同时也注重用户隐私的保护
+        - link "医院推荐 医院推荐 医院推荐工具可以帮助您根据特定医疗需求，推荐合适的医院。通过这款工具，您可以快速找到相对应科室的优质医院，查看医院的详细信息和用户评价，便于您做出明智的医疗选择。" [ref=f3e180] [cursor=pointer]:
+          - /url: /hospitalrecommend.html
+          - img "医院推荐" [ref=f3e181]
+          - generic [ref=f3e182]:
+            - generic [ref=f3e183]: 医院推荐
+            - generic [ref=f3e184]: 医院推荐工具可以帮助您根据特定医疗需求，推荐合适的医院。通过这款工具，您可以快速找到相对应科室的优质医院，查看医院的详细信息和用户评价，便于您做出明智的医疗选择。
+        - link "食物热量表 食物热量表 食物热量表工具可以帮助您快速查阅各种食物的热量和营养成分信息。通过这款工具，您可以轻松找到每种食物的热量、蛋白质、脂肪、碳水化合物等数据，帮助您更好地进行饮食管理和健康规划。" [ref=f3e185] [cursor=pointer]:
+          - /url: /calories_list.html
+          - img "食物热量表" [ref=f3e186]
+          - generic [ref=f3e187]:
+            - generic [ref=f3e188]: 食物热量表
+            - generic [ref=f3e189]: 食物热量表工具可以帮助您快速查阅各种食物的热量和营养成分信息。通过这款工具，您可以轻松找到每种食物的热量、蛋白质、脂肪、碳水化合物等数据，帮助您更好地进行饮食管理和健康规划。
+        - link "卡路里查询 卡路里查询 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。" [ref=f3e190] [cursor=pointer]:
+          - /url: /food_calories.html
+          - img "卡路里查询" [ref=f3e191]
+          - generic [ref=f3e192]:
+            - generic [ref=f3e193]: 卡路里查询
+            - generic [ref=f3e194]: 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。
+        - link "世界时间校准 世界时间校准 世界时间校准工具可以帮助您查看和校准全球各地的当前时间。通过这款工具，您可以轻松获取不同国家和城市的准确时间，便于进行国际交流、旅行计划和跨时区工作安排。" [ref=f3e195] [cursor=pointer]:
+          - /url: /timer.html
+          - img "世界时间校准" [ref=f3e196]
+          - generic [ref=f3e197]:
+            - generic [ref=f3e198]: 世界时间校准
+            - generic [ref=f3e199]: 世界时间校准工具可以帮助您查看和校准全球各地的当前时间。通过这款工具，您可以轻松获取不同国家和城市的准确时间，便于进行国际交流、旅行计划和跨时区工作安排。
+        - link "随机网名 随机网名 随机网名生成是一款免费、在线的网名生成工具，它提供了当前最时尚、潮流的网名提供选择，简单易用、个性化程度高，可以为用户提供更多元、更有趣的网名选择，适合网络冲浪、网名更改的用户需求。" [ref=f3e200] [cursor=pointer]:
+          - /url: /nick.html
+          - img "随机网名" [ref=f3e201]
+          - generic [ref=f3e202]:
+            - generic [ref=f3e203]: 随机网名
+            - generic [ref=f3e204]: 随机网名生成是一款免费、在线的网名生成工具，它提供了当前最时尚、潮流的网名提供选择，简单易用、个性化程度高，可以为用户提供更多元、更有趣的网名选择，适合网络冲浪、网名更改的用户需求。
+        - link "快递信息提取 快递信息提取 快递信息提取是一款免费的快递信息提供工具，主要针对快递信息提取 例如：江西省成都市武侯区青江路15栋电话:15739223961 结果 省:江西省 市:成都市 县:武侯区 镇:武侯区 电话:15739223961" [ref=f3e205] [cursor=pointer]:
+          - /url: /number_acquisition.html
+          - img "快递信息提取" [ref=f3e206]
+          - generic [ref=f3e207]:
+            - generic [ref=f3e208]: 快递信息提取
+            - generic [ref=f3e209]: 快递信息提取是一款免费的快递信息提供工具，主要针对快递信息提取 例如：江西省成都市武侯区青江路15栋电话:15739223961 结果 省:江西省 市:成都市 县:武侯区 镇:武侯区 电话:15739223961
+        - link "邮编查询 邮编查询 邮编查询工具是一款免费的邮政编码查询工具，可以帮助用户查询全国各地的邮政编码信息。当用户需要查询邮政编码信息时，只需要选择对应的省就可以获取对应的邮编编码，邮编查询工具是一款实用、高效的邮政编码查询工具，适合对快递、邮件寄送用户" [ref=f3e210] [cursor=pointer]:
+          - /url: /zipcode.html
+          - img "邮编查询" [ref=f3e211]
+          - generic [ref=f3e212]:
+            - generic [ref=f3e213]: 邮编查询
+            - generic [ref=f3e214]: 邮编查询工具是一款免费的邮政编码查询工具，可以帮助用户查询全国各地的邮政编码信息。当用户需要查询邮政编码信息时，只需要选择对应的省就可以获取对应的邮编编码，邮编查询工具是一款实用、高效的邮政编码查询工具，适合对快递、邮件寄送用户
+        - link "保质期计算 保质期计算 保质期计算工具可以帮助您快速计算食品、药品或其他商品的保质期。通过这款工具，您可以输入生产日期和保质期天数，轻松计算出商品的到期日期，便于进行库存管理和消费计划。" [ref=f3e215] [cursor=pointer]:
+          - /url: /shelflife.html
+          - img "保质期计算" [ref=f3e216]
+          - generic [ref=f3e217]:
+            - generic [ref=f3e218]: 保质期计算
+            - generic [ref=f3e219]: 保质期计算工具可以帮助您快速计算食品、药品或其他商品的保质期。通过这款工具，您可以输入生产日期和保质期天数，轻松计算出商品的到期日期，便于进行库存管理和消费计划。
+        - link "取名字 取名字 取名字工具是一款免费的工具，可以用来给自己的朋友和家人取名字，用户可以选择自己想要的姓名组合，满足自己的特定需求。取名字工具是一款操作简单、功能丰富、个性化的名字选取工具，可以满足用户的不同需求" [ref=f3e220] [cursor=pointer]:
+          - /url: /naming.html
+          - img "取名字" [ref=f3e221]
+          - generic [ref=f3e222]:
+            - generic [ref=f3e223]: 取名字
+            - generic [ref=f3e224]: 取名字工具是一款免费的工具，可以用来给自己的朋友和家人取名字，用户可以选择自己想要的姓名组合，满足自己的特定需求。取名字工具是一款操作简单、功能丰富、个性化的名字选取工具，可以满足用户的不同需求
+      - generic [ref=f3e232]:
+        - generic [ref=f3e233]: 轻松办公，工具助你一臂之力
+        - generic [ref=f3e234]:
+          - link "隐私政策" [ref=f3e235] [cursor=pointer]:
+            - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+          - link "数据处理规则及免责声明" [ref=f3e236] [cursor=pointer]:
+            - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+        - generic [ref=f3e237]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.

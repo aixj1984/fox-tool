@@ -1,0 +1,171 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e2]:
+    - complementary "工具分类导航" [ref=f10e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f10e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f10e5]
+        - generic [ref=f10e6]:
+          - generic [ref=f10e7]: 帮小忙
+          - generic [ref=f10e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f10e9]:
+        - list [ref=f10e10]:
+          - listitem [ref=f10e11]:
+            - link "全部" [ref=f10e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f10e14]:
+            - link "图片工具" [ref=f10e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f10e17]:
+            - link "PDF转换工具" [ref=f10e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f10e20]:
+            - link "数据换算工具" [ref=f10e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f10e23]:
+            - link "生活娱乐工具" [ref=f10e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f10e26]:
+            - link "教育工具" [ref=f10e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f10e29]:
+            - link "文本工具" [ref=f10e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f10e32]:
+            - link "文档转换工具" [ref=f10e33] [cursor=pointer]:
+              - /url: /category/doc
+          - listitem [ref=f10e35]:
+            - link "开发工具" [ref=f10e36] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f10e38]:
+            - link "视频工具" [ref=f10e39] [cursor=pointer]:
+              - /url: /category/video
+          - listitem [ref=f10e41]:
+            - link "浏览器插件" [ref=f10e42] [cursor=pointer]:
+              - /url: /category/pc_plugin
+    - main [ref=f10e45]:
+      - generic [ref=f10e46]:
+        - generic [ref=f10e49]:
+          - img "搜索按钮" [ref=f10e50]
+          - textbox "搜索工具" [ref=f10e51]
+          - generic:
+            - text: 工具箱已累计帮助了
+            - generic: "0"
+            - text: 人次
+        - button "分享" [ref=f10e53] [cursor=pointer]
+        - generic [ref=f10e60]: QQ浏览器 · 工具权益卡
+      - generic [ref=f10e62]:
+        - link "PDF转HTML PDF转HTML PDF图片转HTML是一款功能强大的在线转换工具，这款工具不仅能够处理文本和向量图形，还能够将PDF中的图片准确地转换成网页元素。转换后的HTML网页保持了PDF原始页面的布局和格式，确保了在不同的浏览器和设备上都能够以原样呈现，从而提供了" [ref=f10e63] [cursor=pointer]:
+          - /url: /pdf_2_html
+          - img "PDF转HTML" [ref=f10e64]
+          - generic [ref=f10e65]:
+            - generic [ref=f10e66]: PDF转HTML
+            - generic [ref=f10e67]: PDF图片转HTML是一款功能强大的在线转换工具，这款工具不仅能够处理文本和向量图形，还能够将PDF中的图片准确地转换成网页元素。转换后的HTML网页保持了PDF原始页面的布局和格式，确保了在不同的浏览器和设备上都能够以原样呈现，从而提供了
+        - link "PDF转图片 PDF转图片 PDF转图片工具是一款专业的在线转换器，它能够将PDF文档逐页转换为独立的图片文件，或者将整个PDF文档转换为一张连续的长图。" [ref=f10e68] [cursor=pointer]:
+          - /url: /pdf_2_png
+          - img "PDF转图片" [ref=f10e69]
+          - generic [ref=f10e70]:
+            - generic [ref=f10e71]: PDF转图片
+            - generic [ref=f10e72]: PDF转图片工具是一款专业的在线转换器，它能够将PDF文档逐页转换为独立的图片文件，或者将整个PDF文档转换为一张连续的长图。
+        - link "PDF加水印 PDF加水印 PDF加水印工具是一款在线应用，它允许用户在PDF文件上添加自定义的水印信息。这项功能对于保护版权、标记文件状态或个性化文档非常有用，并能够自定义水印的位置、大小、透明度和旋转角度，以满足不同的需求和偏好。" [ref=f10e73] [cursor=pointer]:
+          - /url: /pdf_watermark
+          - img "PDF加水印" [ref=f10e74]
+          - generic [ref=f10e75]:
+            - generic [ref=f10e76]: PDF加水印
+            - generic [ref=f10e77]: PDF加水印工具是一款在线应用，它允许用户在PDF文件上添加自定义的水印信息。这项功能对于保护版权、标记文件状态或个性化文档非常有用，并能够自定义水印的位置、大小、透明度和旋转角度，以满足不同的需求和偏好。
+        - link "PDF瘦身 PDF瘦身 PDF瘦身是一款高效的在线工具，压缩PDF大小，减小传输和存储成本，适用于有较多图片的PDF文件。" [ref=f10e78] [cursor=pointer]:
+          - /url: /pdf_compress
+          - img "PDF瘦身" [ref=f10e79]
+          - generic [ref=f10e80]:
+            - generic [ref=f10e81]: PDF瘦身
+            - generic [ref=f10e82]: PDF瘦身是一款高效的在线工具，压缩PDF大小，减小传输和存储成本，适用于有较多图片的PDF文件。
+        - link "PDF签名 PDF签名 签署无忧，效率提升！PDF签名工具，为您提供快速、安全的电子签名解决方案。无需打印，直接在PDF文档上添加个人或公司签名。保障文档完整性，支持法律效力，助力商务高效运转。 new" [ref=f10e83] [cursor=pointer]:
+          - /url: /pdf_sign
+          - img "PDF签名" [ref=f10e84]
+          - generic [ref=f10e85]:
+            - generic [ref=f10e86]: PDF签名
+            - generic [ref=f10e87]: 签署无忧，效率提升！PDF签名工具，为您提供快速、安全的电子签名解决方案。无需打印，直接在PDF文档上添加个人或公司签名。保障文档完整性，支持法律效力，助力商务高效运转。
+          - generic [ref=f10e88]: new
+        - link "图片转PDF 图片转PDF 图片转PDF专为将多张图片合并转换为PDF文件而设计，无论您是需要将照片、扫描的文档、截图等图片格式（如JPG、PNG等）转换为一个PDF文件，这款工具都能快速高效地完成任务。" [ref=f10e89] [cursor=pointer]:
+          - /url: /img_2_pdf_convert
+          - img "图片转PDF" [ref=f10e90]
+          - generic [ref=f10e91]:
+            - generic [ref=f10e92]: 图片转PDF
+            - generic [ref=f10e93]: 图片转PDF专为将多张图片合并转换为PDF文件而设计，无论您是需要将照片、扫描的文档、截图等图片格式（如JPG、PNG等）转换为一个PDF文件，这款工具都能快速高效地完成任务。
+        - link "PDF拆分 PDF拆分 PDF拆分是一款便捷的在线工具，专为从PDF文件中提取指定页面并生成新的PDF文件而设计。无论您是需要分离特定章节、提取重要页面，这款工具都能快速高效地完成任务，帮助您更好地管理和使用PDF文件。 hot" [ref=f10e94] [cursor=pointer]:
+          - /url: /pdf_split
+          - img "PDF拆分" [ref=f10e95]
+          - generic [ref=f10e96]:
+            - generic [ref=f10e97]: PDF拆分
+            - generic [ref=f10e98]: PDF拆分是一款便捷的在线工具，专为从PDF文件中提取指定页面并生成新的PDF文件而设计。无论您是需要分离特定章节、提取重要页面，这款工具都能快速高效地完成任务，帮助您更好地管理和使用PDF文件。
+          - generic [ref=f10e99]: hot
+        - link "PDF合并 PDF合并 从若干PDF中选择指定页面组成新的PDF hot" [ref=f10e100] [cursor=pointer]:
+          - /url: /pdf_merge
+          - img "PDF合并" [ref=f10e101]
+          - generic [ref=f10e102]:
+            - generic [ref=f10e103]: PDF合并
+            - generic [ref=f10e104]: 从若干PDF中选择指定页面组成新的PDF
+          - generic [ref=f10e105]: hot
+        - link "转纯图PDF 转纯图PDF 把PDF转为纯图版，防止复制篡改" [ref=f10e106] [cursor=pointer]:
+          - /url: /pdf_imagefy
+          - img "转纯图PDF" [ref=f10e107]
+          - generic [ref=f10e108]:
+            - generic [ref=f10e109]: 转纯图PDF
+            - generic [ref=f10e110]: 把PDF转为纯图版，防止复制篡改
+        - link "PDF页面管理 PDF页面管理 PDF页面管理是一款多功能的在线工具，专为管理和编辑PDF文件中的页面而设计。通过这款工具，您可以轻松添加、删除、旋转PDF页面，并调整页面顺序，从而优化和定制您的PDF文档。 hot" [ref=f10e111] [cursor=pointer]:
+          - /url: /pdf_page_manage
+          - img "PDF页面管理" [ref=f10e112]
+          - generic [ref=f10e113]:
+            - generic [ref=f10e114]: PDF页面管理
+            - generic [ref=f10e115]: PDF页面管理是一款多功能的在线工具，专为管理和编辑PDF文件中的页面而设计。通过这款工具，您可以轻松添加、删除、旋转PDF页面，并调整页面顺序，从而优化和定制您的PDF文档。
+          - generic [ref=f10e116]: hot
+        - link "PDF图片提取 PDF图片提取 PDF图片提取是一款专为从PDF文件中提取图片而设计的在线工具。无论您是需要获取PDF文档中的插图、照片、图表或其他图像内容，这款工具都能快速高效地完成任务，帮助您轻松提取并保存所需的图片资源。" [ref=f10e117] [cursor=pointer]:
+          - /url: /pdf_img_extract
+          - img "PDF图片提取" [ref=f10e118]
+          - generic [ref=f10e119]:
+            - generic [ref=f10e120]: PDF图片提取
+            - generic [ref=f10e121]: PDF图片提取是一款专为从PDF文件中提取图片而设计的在线工具。无论您是需要获取PDF文档中的插图、照片、图表或其他图像内容，这款工具都能快速高效地完成任务，帮助您轻松提取并保存所需的图片资源。
+        - link "PDF加解密 PDF加解密 PDF加解密是一款功能强大的在线工具，专为为PDF文件添加或移除密码保护而设计。" [ref=f10e122] [cursor=pointer]:
+          - /url: /pdf_password
+          - img "PDF加解密" [ref=f10e123]
+          - generic [ref=f10e124]:
+            - generic [ref=f10e125]: PDF加解密
+            - generic [ref=f10e126]: PDF加解密是一款功能强大的在线工具，专为为PDF文件添加或移除密码保护而设计。
+        - link "PDF页面裁剪 PDF页面裁剪 PDF页面裁剪是一款实用的在线工具，专为对PDF文件的页面进行裁剪而设计。通过这款工具，您可以自定义裁剪区域，对PDF的所有页面进行统一裁剪，适用于去除页面白边、调整页面内容区域等需求。 new" [ref=f10e127] [cursor=pointer]:
+          - /url: /pdf_crop
+          - img "PDF页面裁剪" [ref=f10e128]
+          - generic [ref=f10e129]:
+            - generic [ref=f10e130]: PDF页面裁剪
+            - generic [ref=f10e131]: PDF页面裁剪是一款实用的在线工具，专为对PDF文件的页面进行裁剪而设计。通过这款工具，您可以自定义裁剪区域，对PDF的所有页面进行统一裁剪，适用于去除页面白边、调整页面内容区域等需求。
+          - generic [ref=f10e132]: new
+        - link "修改PDF元数据 修改PDF元数据 通过这款工具，您可以轻松修改PDF文件的作者、主题、关键词、内容创作者等信息。无论是为了整理文档、提高搜索效率，还是为了保护隐私，修改PDF元数据工具都能满足您的需求。 new" [ref=f10e133] [cursor=pointer]:
+          - /url: /pdf_metadata
+          - img "修改PDF元数据" [ref=f10e134]
+          - generic [ref=f10e135]:
+            - generic [ref=f10e136]: 修改PDF元数据
+            - generic [ref=f10e137]: 通过这款工具，您可以轻松修改PDF文件的作者、主题、关键词、内容创作者等信息。无论是为了整理文档、提高搜索效率，还是为了保护隐私，修改PDF元数据工具都能满足您的需求。
+          - generic [ref=f10e138]: new
+        - link "PDF加页码 PDF加页码 PDF加页码是一款便捷的在线工具，专为在PDF文件中添加页码而设计。通过这款工具，您可以轻松为PDF文件的每一页添加页码，提升文档的专业性和可读性。无论是用于报告、论文、电子书还是其他文档，PDF加页码工具都能满足您的需求。 new" [ref=f10e139] [cursor=pointer]:
+          - /url: /pdf_page_number
+          - img "PDF加页码" [ref=f10e140]
+          - generic [ref=f10e141]:
+            - generic [ref=f10e142]: PDF加页码
+            - generic [ref=f10e143]: PDF加页码是一款便捷的在线工具，专为在PDF文件中添加页码而设计。通过这款工具，您可以轻松为PDF文件的每一页添加页码，提升文档的专业性和可读性。无论是用于报告、论文、电子书还是其他文档，PDF加页码工具都能满足您的需求。
+          - generic [ref=f10e144]: new
+        - link "修改PDF页面尺寸 修改PDF页面尺寸 修改PDF页面的尺寸，如修改为A3、A4等，方便打印。 new" [ref=f10e145] [cursor=pointer]:
+          - /url: /pdf_pagesize
+          - img "修改PDF页面尺寸" [ref=f10e146]
+          - generic [ref=f10e147]:
+            - generic [ref=f10e148]: 修改PDF页面尺寸
+            - generic [ref=f10e149]: 修改PDF页面的尺寸，如修改为A3、A4等，方便打印。
+          - generic [ref=f10e150]: new
+      - generic [ref=f10e153]:
+        - generic [ref=f10e154]:
+          - generic [ref=f10e155]: 轻松办公，工具助你一臂之力
+          - generic [ref=f10e156]:
+            - link "隐私政策" [ref=f10e157] [cursor=pointer]:
+              - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+            - link "数据处理规则及免责声明" [ref=f10e158] [cursor=pointer]:
+              - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+          - generic [ref=f10e159]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
+        - img "二维码" [ref=f10e161]
+  - button "Open Next.js Dev Tools" [ref=f10e167] [cursor=pointer]

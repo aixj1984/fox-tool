@@ -1,0 +1,566 @@
+{
+  "alreadyBuilt": 70,
+  "newFeasibleCount": 38,
+  "skipCount": 58,
+  "totalFeasible": 108,
+  "newBuildList": [
+    {
+      "href": "/pdf_split.html",
+      "name": "PDF拆分",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "PDF拆分是一款便捷的在线工具，专为从PDF文件中提取指定页面并生成新的PDF文件而设计。无论您是需要分离特定章节、提取重要页面，这款工具都能快速高效地完成任务，帮助您更好地管理和使用PDF文件。"
+    },
+    {
+      "href": "/pdf_merge.html",
+      "name": "PDF合并",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "从若干PDF中选择指定页面组成新的PDF"
+    },
+    {
+      "href": "/pdf_watermark.html",
+      "name": "PDF加水印",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "PDF加水印工具是一款在线应用，它允许用户在PDF文件上添加自定义的水印信息。这项功能对于保护版权、标记文件状态或个性化文档非常有用，并能够自定义水印的位置、大小、透明度和旋转角度，以满足不同的需求和偏好。"
+    },
+    {
+      "href": "/pdf_page_number.html",
+      "name": "PDF加页码",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "PDF加页码是一款便捷的在线工具，专为在PDF文件中添加页码而设计。通过这款工具，您可以轻松为PDF文件的每一页添加页码，提升文档的专业性和可读性。无论是用于报告、论文、电子书还是其他文档，PDF加页码工具都能满足您的需求。"
+    },
+    {
+      "href": "/pdf_metadata.html",
+      "name": "修改PDF元数据",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "通过这款工具，您可以轻松修改PDF文件的作者、主题、关键词、内容创作者等信息。无论是为了整理文档、提高搜索效率，还是为了保护隐私，修改PDF元数据工具都能满足您的需求。"
+    },
+    {
+      "href": "/pdf_password.html",
+      "name": "PDF加解密",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "PDF加解密是一款功能强大的在线工具，专为为PDF文件添加或移除密码保护而设计。"
+    },
+    {
+      "href": "/pdf_crop.html",
+      "name": "PDF页面裁剪",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "PDF页面裁剪是一款实用的在线工具，专为对PDF文件的页面进行裁剪而设计。通过这款工具，您可以自定义裁剪区域，对PDF的所有页面进行统一裁剪，适用于去除页面白边、调整页面内容区域等需求。"
+    },
+    {
+      "href": "/pdf_pagesize.html",
+      "name": "修改PDF页面尺寸",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "修改PDF页面的尺寸，如修改为A3、A4等，方便打印。"
+    },
+    {
+      "href": "/pdf_page_manage.html",
+      "name": "PDF页面管理",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "PDF页面管理是一款多功能的在线工具，专为管理和编辑PDF文件中的页面而设计。通过这款工具，您可以轻松添加、删除、旋转PDF页面，并调整页面顺序，从而优化和定制您的PDF文档。"
+    },
+    {
+      "href": "/pdf_compress.html",
+      "name": "PDF瘦身",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "PDF瘦身是一款高效的在线工具，压缩PDF大小，减小传输和存储成本，适用于有较多图片的PDF文件。"
+    },
+    {
+      "href": "/pdf_sign.html",
+      "name": "PDF签名",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "签署无忧，效率提升！PDF签名工具，为您提供快速、安全的电子签名解决方案。无需打印，直接在PDF文档上添加个人或公司签名。保障文档完整性，支持法律效力，助力商务高效运转。"
+    },
+    {
+      "href": "/img_2_pdf_convert.html",
+      "name": "图片转PDF",
+      "cat": "pdf",
+      "lib": "pdf-lib",
+      "desc": "图片转PDF专为将多张图片合并转换为PDF文件而设计，无论您是需要将照片、扫描的文档、截图等图片格式（如JPG、PNG等）转换为一个PDF文件，这款工具都能快速高效地完成任务。"
+    },
+    {
+      "href": "/pdf_2_png.html",
+      "name": "PDF转图片",
+      "cat": "pdf",
+      "lib": "pdf.js",
+      "desc": "PDF转图片工具是一款专业的在线转换器，它能够将PDF文档逐页转换为独立的图片文件，或者将整个PDF文档转换为一张连续的长图。"
+    },
+    {
+      "href": "/pdf_img_extract.html",
+      "name": "PDF图片提取",
+      "cat": "pdf",
+      "lib": "pdf.js",
+      "desc": "PDF图片提取是一款专为从PDF文件中提取图片而设计的在线工具。无论您是需要获取PDF文档中的插图、照片、图表或其他图像内容，这款工具都能快速高效地完成任务，帮助您轻松提取并保存所需的图片资源。"
+    },
+    {
+      "href": "/pdf_imagefy.html",
+      "name": "转纯图PDF",
+      "cat": "pdf",
+      "lib": "pdf.js+pdf-lib",
+      "desc": "把PDF转为纯图版，防止复制篡改"
+    },
+    {
+      "href": "/pdf_2_html.html",
+      "name": "PDF转HTML",
+      "cat": "pdf",
+      "lib": "pdf.js",
+      "desc": "PDF图片转HTML是一款功能强大的在线转换工具，这款工具不仅能够处理文本和向量图形，还能够将PDF中的图片准确地转换成网页元素。转换后的HTML网页保持了PDF原始页面的布局和格式，确保了在不同的浏览器和设备上都能够以原样呈现，从而提供了"
+    },
+    {
+      "href": "/tts.html",
+      "name": "文本转语音",
+      "cat": "text",
+      "lib": "speechSynthesis",
+      "desc": "文本转语音是一款多功能、高效率的文本转换为语音的在线工具。它可以将各种类型的文本转换为高质量的语音，包括段落、文章、电子邮件等等。文本转语音占用资源少、转换速度快，并且转换一个大段落的文本到语音，非常适合新闻报道、电话客服、在线购物等领域使"
+    },
+    {
+      "href": "/hanzifayin.html",
+      "name": "汉字标准发音",
+      "cat": "education",
+      "lib": "speechSynthesis",
+      "desc": "汉字标准发音工具可以帮助您学习和掌握汉字的标准发音。通过这款工具，您可以输入任意汉字或词语，工具会自动提供标准的拼音和发音，便于您进行语言学习、发音练习和教学辅助。"
+    },
+    {
+      "href": "/zitie_new.html",
+      "name": "字帖生成",
+      "cat": "education",
+      "lib": "canvas",
+      "desc": "字帖生成是一款在线工具，专为生成个性化字帖而设计。通过这款工具，您可以选择不同的模板、年级，快速生成适合练习书写的字帖。"
+    },
+    {
+      "href": "/handwriting_erasure.html",
+      "name": "去手写",
+      "cat": "education",
+      "lib": "canvas",
+      "desc": ""
+    },
+    {
+      "href": "/video_2_gif.html",
+      "name": "视频转gif",
+      "cat": "video",
+      "lib": "canvas+gif-enc",
+      "desc": "视频转GIF是一款实用的在线工具，专为将视频文件转换为GIF动画而设计。通过这款工具，您可以轻松将视频中的精彩片段提取并转换为GIF格式，便于在社交媒体、聊天应用和其他平台上分享和使用。"
+    },
+    {
+      "href": "/screen_record.html",
+      "name": "在线录屏",
+      "cat": "video",
+      "lib": "getDisplayMedia",
+      "desc": ""
+    },
+    {
+      "href": "/markmap.html",
+      "name": "便捷思维导图",
+      "cat": "education",
+      "lib": "markmap",
+      "desc": "便捷思维导图工具可以帮助您快速创建、编辑和分享思维导图，提升您的思维整理和信息管理能力。通过这款工具，您可以轻松将想法、计划和知识结构化地呈现出来，适用于学习、工作、项目管理和创意设计等多种场景。"
+    },
+    {
+      "href": "/password_check.html",
+      "name": "密码安全检测",
+      "cat": "develop",
+      "lib": "js",
+      "desc": "保护您的数字安全！只需输入密码，我们的密码安全检测工具即刻为您进行全面检测。快速评估密码强度，提供改进建议，确保您的账户防护坚不可摧。安全隐私，从强密码开始。"
+    },
+    {
+      "href": "/contract_comparison.html",
+      "name": "合同对比",
+      "cat": "life",
+      "lib": "pdf.js+diff",
+      "desc": "合同审核，智能高效！上传原版及新版合同，让合同对比工具自动扫描差异，精确定位每一个改动点。节省人工审核时间，防止遗漏关键条款变更，确保合同修改清晰透明。合同管理，从此简单。"
+    },
+    {
+      "href": "/number_acquisition.html",
+      "name": "快递信息提取",
+      "cat": "life",
+      "lib": "regex",
+      "desc": "快递信息提取是一款免费的快递信息提供工具，主要针对快递信息提取 例如：江西省成都市武侯区青江路15栋电话:15739223961 结果 省:江西省 市:成都市 县:武侯区 镇:武侯区 电话:15739223961"
+    },
+    {
+      "href": "/timer.html",
+      "name": "世界时间校准",
+      "cat": "life",
+      "lib": "Intl",
+      "desc": "世界时间校准工具可以帮助您查看和校准全球各地的当前时间。通过这款工具，您可以轻松获取不同国家和城市的准确时间，便于进行国际交流、旅行计划和跨时区工作安排。"
+    },
+    {
+      "href": "/garbage.html",
+      "name": "垃圾分类查询",
+      "cat": "life",
+      "lib": "data",
+      "desc": ""
+    },
+    {
+      "href": "/makename.html",
+      "name": "古诗词取名",
+      "cat": "life",
+      "lib": "data",
+      "desc": "古诗词取名在古诗词中提取灵感，为人名、公司名、项目名等进行命名而设计。您可以选择特定的古诗词，生成具有诗意和文化内涵的名字。"
+    },
+    {
+      "href": "/jielong.html",
+      "name": "成语接龙",
+      "cat": "education",
+      "lib": "data",
+      "desc": "成语接龙工具可以帮助您进行成语接龙游戏，提升您的汉语词汇量和语言表达能力。通过这款工具，您可以输入一个成语，工具会自动生成下一个接龙成语，帮助您继续游戏，适用于学习、娱乐和语言训练等场景。"
+    },
+    {
+      "href": "/chengyujielong.html",
+      "name": "成语大全",
+      "cat": "education",
+      "lib": "data",
+      "desc": "成语大全查询是一款免费的中国传统文化知识工具，它收录了上亿个成语能够对成成语首字符快速查询， 成语大全查询是一款用心打造的成语故事查询工具，不仅满足了用户对成语的理解需求和娱乐需求，更成为了他们学习和生活中不可或缺的好帮手"
+    },
+    {
+      "href": "/radical.html",
+      "name": "汉字偏旁",
+      "cat": "education",
+      "lib": "data",
+      "desc": "汉字偏旁工具可以帮助您查找和学习汉字的偏旁部首。通过这款工具，您可以输入汉字，快速获取该汉字的偏旁部首信息，了解其构造和意义，便于汉字学习和教学。"
+    },
+    {
+      "href": "/allegory.html",
+      "name": "歇后语",
+      "cat": "education",
+      "lib": "data",
+      "desc": "歇后语工具可以帮助您查找和学习各种歇后语。通过这款工具，您可以输入歇后语的前半部分或关键词，快速获取完整的歇后语及其解释，便于语言学习、文化了解和日常交流。"
+    },
+    {
+      "href": "/explain.html",
+      "name": "词语注解",
+      "cat": "education",
+      "lib": "data",
+      "desc": "词语注解工具可以帮助您查找和学习词语的详细解释和用法。通过这款工具，您可以输入任意词语，快速获取该词语的注解、拼音、词性、例句等信息，便于语言学习、写作和日常交流。"
+    },
+    {
+      "href": "/school.html",
+      "name": "高校查询",
+      "cat": "education",
+      "lib": "data",
+      "desc": "高校查询可以快速找到中国境内知名大学的相关信息， 应用汇聚了全国各地的知名大学，包括清华大学、北京大学、南京大学、浙江大学、复旦大学、上海交通大学等等。能够帮助高考学生和家长们更好的选择学校。"
+    },
+    {
+      "href": "/hospitalrecommend.html",
+      "name": "医院推荐",
+      "cat": "life",
+      "lib": "data",
+      "desc": "医院推荐工具可以帮助您根据特定医疗需求，推荐合适的医院。通过这款工具，您可以快速找到相对应科室的优质医院，查看医院的详细信息和用户评价，便于您做出明智的医疗选择。"
+    },
+    {
+      "href": "/calories.html",
+      "name": "卡路里查询",
+      "cat": "life",
+      "lib": "data",
+      "desc": "卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。"
+    },
+    {
+      "href": "/food_calories.html",
+      "name": "卡路里查询",
+      "cat": "life",
+      "lib": "data",
+      "desc": "卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。"
+    }
+  ],
+  "skipList": [
+    {
+      "href": "/pdf_2_word.html",
+      "name": "PDF转Word",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/pdf_2_excel.html",
+      "name": "PDF转Excel",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/pdf_2_ppt.html",
+      "name": "PDF转PPT",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/word_2_pdf.html",
+      "name": "Word转PDF",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/word_convert.html",
+      "name": "Word格式转换",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/ppt_convert.html",
+      "name": "PPT格式转换",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/excel_to_pdf.html",
+      "name": "/excel_to_pdf.html",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/ppt_2_pdf.html",
+      "name": "PPT转PDF",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/excel_convert.html",
+      "name": "Excel格式转换",
+      "reason": "需服务器渲染"
+    },
+    {
+      "href": "/office_reduce.html",
+      "name": "文档瘦身",
+      "reason": "需服务器压缩"
+    },
+    {
+      "href": "/table_recognize.html",
+      "name": "图片转Excel",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/word_scan.html",
+      "name": "文档扫描",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/invoice_extract.html",
+      "name": "发票提取",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr.html",
+      "name": "提取文字",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/identification.html",
+      "name": "身份证识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/bankcard_ocr.html",
+      "name": "银行卡识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/basic_ocr.html",
+      "name": "印刷体识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/handwriting_ocr.html",
+      "name": "手写体识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr_advertise.html",
+      "name": "广告体识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr_english.html",
+      "name": "英语识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/passport_ocr.html",
+      "name": "护照识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/waybill.html",
+      "name": "运单识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/container_ocr.html",
+      "name": "集装箱识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/carcard_ocr.html",
+      "name": "车辆证件识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr_bizLicense.html",
+      "name": "营业执照识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr_businesscard.html",
+      "name": "名片识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr_permit.html",
+      "name": "港澳台证件识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/bankslip_ocr.html",
+      "name": "银行回单识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr_dutypaidproof.html",
+      "name": "完税证明识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/ocr_recognize_medical_invoice.html",
+      "name": "医疗票据识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/onlinetaxi_ocr.html",
+      "name": "网约车行程单识别",
+      "reason": "需OCR"
+    },
+    {
+      "href": "/face_age_transformation.html",
+      "name": "人脸年龄选择",
+      "reason": "需AI"
+    },
+    {
+      "href": "/face_gender_transformation.html",
+      "name": "人脸性别转换",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_anime_filter.html",
+      "name": "图片日漫滤镜",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_face_anime.html",
+      "name": "头像二次元",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_module_face_stylize.html",
+      "name": "美化你的头像",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_painting_filter.html",
+      "name": "油画滤镜",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_human_split.html",
+      "name": "人像分割",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_pic_beauty.html",
+      "name": "照片美化",
+      "reason": "需AI"
+    },
+    {
+      "href": "/doc_wrap.html",
+      "name": "文档图片扭曲恢复",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_fix.html",
+      "name": "图片修复",
+      "reason": "需AI"
+    },
+    {
+      "href": "/image_enhance.html",
+      "name": "图片去摩尔纹",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_ai_cartoon.html",
+      "name": "多人卡通画",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_ai_face.html",
+      "name": "童话脸",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_ai_jordanstyle.html",
+      "name": "乔丹风格化",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_ai_watercolor.html",
+      "name": "国漫水彩风",
+      "reason": "需AI"
+    },
+    {
+      "href": "/img_enlarge.html",
+      "name": "增加图片大小",
+      "reason": "需AI"
+    },
+    {
+      "href": "/id_photo.html",
+      "name": "/id_photo.html",
+      "reason": "需AI证件照"
+    },
+    {
+      "href": "/tupianyasuo.html",
+      "name": "/tupianyasuo.html",
+      "reason": "需服务器压缩"
+    },
+    {
+      "href": "/file_scan.html",
+      "name": "文件安全检测",
+      "reason": "需病毒库"
+    },
+    {
+      "href": "/app_inspector.html",
+      "name": "手机安装包检测",
+      "reason": "需病毒库"
+    },
+    {
+      "href": "/partition.html",
+      "name": "硬盘分区",
+      "reason": "系统级"
+    },
+    {
+      "href": "/pdf_search.html",
+      "name": "搜狗PDF文件搜索",
+      "reason": "需搜索引擎"
+    },
+    {
+      "href": "/sogou_box.html",
+      "name": "搜狗百宝箱",
+      "reason": "聚合外链"
+    },
+    {
+      "href": "/contract_verification.html",
+      "name": "合同验签",
+      "reason": "需电子签后端"
+    },
+    {
+      "href": "/kuaidi.html",
+      "name": "快递查询",
+      "reason": "需快递API"
+    },
+    {
+      "href": "/iplocation.html",
+      "name": "IP归属地",
+      "reason": "需IP库API(或打包大数据)"
+    },
+    {
+      "href": "/translate.html",
+      "name": "翻译",
+      "reason": "需翻译API"
+    }
+  ]
+}

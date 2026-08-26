@@ -1,0 +1,751 @@
+{
+  "total": 160,
+  "frontendCount": 70,
+  "backendCount": 90,
+  "unaccounted": [],
+  "groups": {
+    "编码解码": 8,
+    "格式转换": 10,
+    "计算器": 10,
+    "生成器": 11,
+    "文本工具": 7,
+    "开发工具": 2,
+    "图片工具": 11,
+    "查询工具": 7,
+    "生活娱乐": 4
+  },
+  "frontendTools": [
+    {
+      "name": "图片编辑器",
+      "href": "/img_edit_canvas.html"
+    },
+    {
+      "name": "今天吃什么",
+      "href": "/whattoeat.html"
+    },
+    {
+      "name": "亲戚关系计算",
+      "href": "/relatives_name.html"
+    },
+    {
+      "name": "图片转字符画",
+      "href": "/img_2_text.html"
+    },
+    {
+      "name": "颜色转换",
+      "href": "/colortrans.html"
+    },
+    {
+      "name": "头像挂饰",
+      "href": "/avatar_pendant.html"
+    },
+    {
+      "name": "字数计算",
+      "href": "/wordcount.html"
+    },
+    {
+      "name": "英文创业公司/项目名生成",
+      "href": "/startupname.html"
+    },
+    {
+      "name": "手持弹幕LED",
+      "href": "/led.html"
+    },
+    {
+      "name": "JSON diff",
+      "href": "/jsondiff.html"
+    },
+    {
+      "name": "JSON校验",
+      "href": "/jsoncheck.html"
+    },
+    {
+      "name": "文本颜艺",
+      "href": "/emoji.html"
+    },
+    {
+      "name": "车牌归属地",
+      "href": "/carnumber.html"
+    },
+    {
+      "name": "电话区号查询",
+      "href": "/phonenumber.html"
+    },
+    {
+      "name": "英文人名生成",
+      "href": "/fakeword.html"
+    },
+    {
+      "name": "温度转换",
+      "href": "/temperaturetrans.html"
+    },
+    {
+      "name": "投资收益计算",
+      "href": "/invest.html"
+    },
+    {
+      "name": "血型遗传规律",
+      "href": "/bloodtype.html"
+    },
+    {
+      "name": "五险一金计算",
+      "href": "/wuxianyijin.html"
+    },
+    {
+      "name": "md5加密",
+      "href": "/md5.html"
+    },
+    {
+      "name": "进制转换",
+      "href": "/hexconvert.html"
+    },
+    {
+      "name": "简体繁体转换",
+      "href": "/chinese.html"
+    },
+    {
+      "name": "房贷计算",
+      "href": "/mortgage.html"
+    },
+    {
+      "name": "Unicode编解码",
+      "href": "/unicode.html"
+    },
+    {
+      "name": "url编解码",
+      "href": "/urlencode.html"
+    },
+    {
+      "name": "数字大小写转换",
+      "href": "/num2zh.html"
+    },
+    {
+      "name": "BMI计算",
+      "href": "/bmi.html"
+    },
+    {
+      "name": "文本比较",
+      "href": "/textdiff.html"
+    },
+    {
+      "name": "JSON格式化",
+      "href": "/jsonbeautify.html"
+    },
+    {
+      "name": "时间戳转换",
+      "href": "/timestamp.html"
+    },
+    {
+      "name": "在线加解密",
+      "href": "/crypto.html"
+    },
+    {
+      "name": "GIF分解",
+      "href": "/gifsplitter.html"
+    },
+    {
+      "name": "URL解析",
+      "href": "/urlparse.html"
+    },
+    {
+      "name": "历史朝代查询",
+      "href": "/dynasties.html"
+    },
+    {
+      "name": "各国首都",
+      "href": "/capital.html"
+    },
+    {
+      "name": "日期计算",
+      "href": "/datecal.html"
+    },
+    {
+      "name": "计算器",
+      "href": "/calculator.html"
+    },
+    {
+      "name": "随机密码生成",
+      "href": "/pwdgenerator.html"
+    },
+    {
+      "name": "长度转换",
+      "href": "/lengthconvert.html"
+    },
+    {
+      "name": "随机数生成",
+      "href": "/random.html"
+    },
+    {
+      "name": "base64编码",
+      "href": "/base64.html"
+    },
+    {
+      "name": "二维码生成",
+      "href": "/qrcode.html"
+    },
+    {
+      "name": "markdown编辑器",
+      "href": "/markdown.html"
+    },
+    {
+      "name": "九宫格切图",
+      "href": "/img9grid.html"
+    },
+    {
+      "name": "图片格式转换",
+      "href": "/imgconvert.html"
+    },
+    {
+      "name": "GIF合成",
+      "href": "/gifcreate.html"
+    },
+    {
+      "name": "文字转拼音",
+      "href": "/tta.html"
+    },
+    {
+      "name": "正则校验",
+      "href": "/regexp.html"
+    },
+    {
+      "name": "二维码美化",
+      "href": "/prettify_qrcode.html"
+    },
+    {
+      "name": "二维码名片",
+      "href": "/visit_card.html"
+    },
+    {
+      "name": "YAML/JSON互相转换",
+      "href": "/yaml_2_json.html"
+    },
+    {
+      "name": "图片黑白化",
+      "href": "/img_fade.html"
+    },
+    {
+      "name": "元素周期表",
+      "href": "/periodic.html"
+    },
+    {
+      "name": "食物热量表",
+      "href": "/calories_list.html"
+    },
+    {
+      "name": "火星文翻译器",
+      "href": "/toMars.html"
+    },
+    {
+      "name": "随机网名",
+      "href": "/nick.html"
+    },
+    {
+      "name": "字节数换算",
+      "href": "/byte_cal.html"
+    },
+    {
+      "name": "邮编查询",
+      "href": "/zipcode.html"
+    },
+    {
+      "name": "userAgent工具",
+      "href": "/useragent.html"
+    },
+    {
+      "name": "保质期计算",
+      "href": "/shelflife.html"
+    },
+    {
+      "name": "取名字",
+      "href": "/naming.html"
+    },
+    {
+      "name": "文本去重",
+      "href": "/unique.html"
+    },
+    {
+      "name": "图片像素化",
+      "href": "/img_pixel.html"
+    },
+    {
+      "name": "图片隐写",
+      "href": "/image_secret_msg.html"
+    },
+    {
+      "name": "开发语言输出hello world",
+      "href": "/compilation.html"
+    },
+    {
+      "name": "文字隐写",
+      "href": "/text_secret_msg.html"
+    },
+    {
+      "name": "uuid生成",
+      "href": "/uuid.html"
+    },
+    {
+      "name": "图片加水印",
+      "href": "/watermark.html"
+    },
+    {
+      "name": "表情包制作",
+      "href": "/biaoqing.html"
+    },
+    {
+      "name": "二维码扫描",
+      "href": "/qrcode_scan.html"
+    }
+  ],
+  "backendTools": [
+    {
+      "name": "PDF转Word",
+      "href": "/pdf_2_word.html",
+      "reason": "PDF转换"
+    },
+    {
+      "name": "PDF转Excel",
+      "href": "/pdf_2_excel.html",
+      "reason": "PDF转换"
+    },
+    {
+      "name": "PDF转HTML",
+      "href": "/pdf_2_html.html",
+      "reason": "PDF转换"
+    },
+    {
+      "name": "PDF转图片",
+      "href": "/pdf_2_png.html",
+      "reason": "PDF转换"
+    },
+    {
+      "name": "PDF转PPT",
+      "href": "/pdf_2_ppt.html",
+      "reason": "PDF转换"
+    },
+    {
+      "name": "Word转PDF",
+      "href": "/word_2_pdf.html",
+      "reason": "文档转换"
+    },
+    {
+      "name": "Word格式转换",
+      "href": "/word_convert.html",
+      "reason": "文档转换"
+    },
+    {
+      "name": "PPT格式转换",
+      "href": "/ppt_convert.html",
+      "reason": "文档转换"
+    },
+    {
+      "name": "PDF加水印",
+      "href": "/pdf_watermark.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "PDF瘦身",
+      "href": "/pdf_compress.html",
+      "reason": "PDF瘦身"
+    },
+    {
+      "name": "文档瘦身",
+      "href": "/office_reduce.html",
+      "reason": "文档瘦身"
+    },
+    {
+      "name": "身份证识别",
+      "href": "/identification.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "银行卡识别",
+      "href": "/bankcard_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "印刷体识别",
+      "href": "/basic_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "手写体识别",
+      "href": "/handwriting_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "广告体识别",
+      "href": "/ocr_advertise.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "英语识别",
+      "href": "/ocr_english.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "护照识别",
+      "href": "/passport_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "PDF签名",
+      "href": "/pdf_sign.html",
+      "reason": "PDF签名"
+    },
+    {
+      "name": "运单识别",
+      "href": "/waybill.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "集装箱识别",
+      "href": "/container_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "车辆证件识别",
+      "href": "/carcard_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "营业执照识别",
+      "href": "/ocr_bizLicense.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "名片识别",
+      "href": "/ocr_businesscard.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "港澳台证件识别",
+      "href": "/ocr_permit.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "银行回单识别",
+      "href": "/bankslip_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "完税证明识别",
+      "href": "/ocr_dutypaidproof.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "医疗票据识别",
+      "href": "/ocr_recognize_medical_invoice.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "网约车行程单识别",
+      "href": "/onlinetaxi_ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "人脸年龄选择",
+      "href": "/face_age_transformation.html",
+      "reason": "AI人脸处理"
+    },
+    {
+      "name": "密码安全检测",
+      "href": "/password_check.html",
+      "reason": "安全检测"
+    },
+    {
+      "name": "文件安全检测",
+      "href": "/file_scan.html",
+      "reason": "文件安全检测"
+    },
+    {
+      "name": "手机安装包检测",
+      "href": "/app_inspector.html",
+      "reason": "安装包检测"
+    },
+    {
+      "name": "搜狗百宝箱",
+      "href": "/sogou_box.html",
+      "reason": "聚合工具"
+    },
+    {
+      "name": "合同验签",
+      "href": "/contract_verification.html",
+      "reason": "电子签验签"
+    },
+    {
+      "name": "合同对比",
+      "href": "/contract_comparison.html",
+      "reason": "合同对比"
+    },
+    {
+      "name": "图片转PDF",
+      "href": "/img_2_pdf_convert.html",
+      "reason": "图片转PDF"
+    },
+    {
+      "name": "PPT转PDF",
+      "href": "/ppt_2_pdf.html",
+      "reason": "文档转换"
+    },
+    {
+      "name": "搜狗PDF文件搜索",
+      "href": "/pdf_search.html",
+      "reason": "搜索引擎"
+    },
+    {
+      "name": "PDF拆分",
+      "href": "/pdf_split.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "PDF合并",
+      "href": "/pdf_merge.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "转纯图PDF",
+      "href": "/pdf_imagefy.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "PDF页面管理",
+      "href": "/pdf_page_manage.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "PDF图片提取",
+      "href": "/pdf_img_extract.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "PDF加解密",
+      "href": "/pdf_password.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "PDF页面裁剪",
+      "href": "/pdf_crop.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "修改PDF元数据",
+      "href": "/pdf_metadata.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "字帖生成",
+      "href": "/zitie_new.html",
+      "reason": "字帖生成(后端字体/排版)"
+    },
+    {
+      "name": "Excel格式转换",
+      "href": "/excel_convert.html",
+      "reason": "文档转换"
+    },
+    {
+      "name": "图片转Excel",
+      "href": "/table_recognize.html",
+      "reason": "表格OCR"
+    },
+    {
+      "name": "文本转语音",
+      "href": "/tts.html",
+      "reason": "TTS语音"
+    },
+    {
+      "name": "提取文字",
+      "href": "/ocr.html",
+      "reason": "OCR识别"
+    },
+    {
+      "name": "PDF加页码",
+      "href": "/pdf_page_number.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "修改PDF页面尺寸",
+      "href": "/pdf_pagesize.html",
+      "reason": "PDF处理"
+    },
+    {
+      "name": "高校查询",
+      "href": "/school.html",
+      "reason": "高校数据API"
+    },
+    {
+      "name": "人脸性别转换",
+      "href": "/face_gender_transformation.html",
+      "reason": "AI人脸处理"
+    },
+    {
+      "name": "卡路里查询",
+      "href": "/calories.html",
+      "reason": "卡路里API"
+    },
+    {
+      "name": "增加图片大小",
+      "href": "/img_enlarge.html",
+      "reason": "AI图片放大"
+    },
+    {
+      "name": "发票提取",
+      "href": "/invoice_extract.html",
+      "reason": "发票OCR"
+    },
+    {
+      "name": "图片日漫滤镜",
+      "href": "/img_anime_filter.html",
+      "reason": "AI图像滤镜"
+    },
+    {
+      "name": "头像二次元",
+      "href": "/img_face_anime.html",
+      "reason": "AI头像"
+    },
+    {
+      "name": "美化你的头像",
+      "href": "/img_module_face_stylize.html",
+      "reason": "AI美化"
+    },
+    {
+      "name": "油画滤镜",
+      "href": "/img_painting_filter.html",
+      "reason": "AI油画"
+    },
+    {
+      "name": "人像分割",
+      "href": "/img_human_split.html",
+      "reason": "AI人像分割"
+    },
+    {
+      "name": "照片美化",
+      "href": "/img_pic_beauty.html",
+      "reason": "AI照片美化"
+    },
+    {
+      "name": "文档图片扭曲恢复",
+      "href": "/doc_wrap.html",
+      "reason": "AI扭曲恢复"
+    },
+    {
+      "name": "图片修复",
+      "href": "/img_fix.html",
+      "reason": "AI图片修复"
+    },
+    {
+      "name": "图片去摩尔纹",
+      "href": "/image_enhance.html",
+      "reason": "AI去摩尔纹"
+    },
+    {
+      "name": "多人卡通画",
+      "href": "/img_ai_cartoon.html",
+      "reason": "AI卡通画"
+    },
+    {
+      "name": "童话脸",
+      "href": "/img_ai_face.html",
+      "reason": "AI童话脸"
+    },
+    {
+      "name": "乔丹风格化",
+      "href": "/img_ai_jordanstyle.html",
+      "reason": "AI风格化"
+    },
+    {
+      "name": "国漫水彩风",
+      "href": "/img_ai_watercolor.html",
+      "reason": "AI水彩"
+    },
+    {
+      "name": "古诗词取名",
+      "href": "/makename.html",
+      "reason": "古诗词取名词典"
+    },
+    {
+      "name": "IP归属地",
+      "href": "/iplocation.html",
+      "reason": "IP归属地API"
+    },
+    {
+      "name": "视频转gif",
+      "href": "/video_2_gif.html",
+      "reason": "视频转GIF"
+    },
+    {
+      "name": "快递查询",
+      "href": "/kuaidi.html",
+      "reason": "快递查询API"
+    },
+    {
+      "name": "成语接龙",
+      "href": "/jielong.html",
+      "reason": "成语接龙词典"
+    },
+    {
+      "name": "医院推荐",
+      "href": "/hospitalrecommend.html",
+      "reason": "医院数据API"
+    },
+    {
+      "name": "便捷思维导图",
+      "href": "/markmap.html",
+      "reason": "思维导图(依赖编辑器/存储)"
+    },
+    {
+      "name": "汉字标准发音",
+      "href": "/hanzifayin.html",
+      "reason": "汉字发音TTS"
+    },
+    {
+      "name": "卡路里查询",
+      "href": "/food_calories.html",
+      "reason": "卡路里API"
+    },
+    {
+      "name": "翻译",
+      "href": "/translate.html",
+      "reason": "翻译API"
+    },
+    {
+      "name": "汉字偏旁",
+      "href": "/radical.html",
+      "reason": "汉字偏旁词典"
+    },
+    {
+      "name": "歇后语",
+      "href": "/allegory.html",
+      "reason": "歇后语词典"
+    },
+    {
+      "name": "词语注解",
+      "href": "/explain.html",
+      "reason": "词语注解词典"
+    },
+    {
+      "name": "世界时间校准",
+      "href": "/timer.html",
+      "reason": "未明确归类-默认跳过"
+    },
+    {
+      "name": "成语大全",
+      "href": "/chengyujielong.html",
+      "reason": "成语词典"
+    },
+    {
+      "name": "快递信息提取",
+      "href": "/number_acquisition.html",
+      "reason": "未明确归类-默认跳过"
+    },
+    {
+      "name": "硬盘分区",
+      "href": "/partition.html",
+      "reason": "硬盘分区(系统级)"
+    },
+    {
+      "name": "文档扫描",
+      "href": "/word_scan.html",
+      "reason": "文档扫描OCR"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+- main [ref=f9e2]:
+  - generic [ref=f9e3]:
+    - link "帮小忙 腾讯QQ浏览器在线工具箱" [ref=f9e4] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f9e5]:
+        - generic [ref=f9e6]: 帮小忙
+        - generic [ref=f9e7]: 腾讯QQ浏览器在线工具箱
+    - list [ref=f9e9]:
+      - listitem [ref=f9e10]:
+        - link "全部" [ref=f9e11] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f9e14]:
+        - link "图片工具" [ref=f9e15] [cursor=pointer]:
+          - /url: /category/img
+      - listitem [ref=f9e18]:
+        - link "PDF转换工具" [ref=f9e19] [cursor=pointer]:
+          - /url: /category/pdf
+      - listitem [ref=f9e22]:
+        - link "数据换算工具" [ref=f9e23] [cursor=pointer]:
+          - /url: /category/data
+      - listitem [ref=f9e26]:
+        - link "生活娱乐工具" [ref=f9e27] [cursor=pointer]:
+          - /url: /category/life
+      - listitem [ref=f9e30]:
+        - link "教育工具" [ref=f9e31] [cursor=pointer]:
+          - /url: /category/education
+      - listitem [ref=f9e34]:
+        - link "文本工具" [ref=f9e35] [cursor=pointer]:
+          - /url: /category/text
+      - listitem [ref=f9e38]:
+        - link "文档转换工具" [ref=f9e39] [cursor=pointer]:
+          - /url: /category/doc
+      - listitem [ref=f9e42]:
+        - link "开发工具" [ref=f9e43] [cursor=pointer]:
+          - /url: /category/develop
+      - listitem [ref=f9e46]:
+        - link "视频工具" [ref=f9e47] [cursor=pointer]:
+          - /url: /category/video
+      - listitem [ref=f9e50]:
+        - link "浏览器插件" [ref=f9e51] [cursor=pointer]:
+          - /url: /category/pc_plugin
+  - generic [ref=f9e55]:
+    - link [ref=f9e57] [cursor=pointer]:
+      - /url: "javascript:window.scrollTo({ top: 0, behavior: 'smooth' })"
+    - link [ref=f9e60] [cursor=pointer]:
+      - /url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G8GZ1XGfQoypNSFz79BNmF06xOkhKt5h&authKey=6wQcUEbSlL9sHcNv4gtr7jS9Mmz03wjxUAEsLTh4KhOSECC4EpBaMe2nEW%2BZJoas&noverify=0&group_code=459317399
+    - link "共建" [ref=f9e63] [cursor=pointer]:
+      - /url: https://feedback.browser.qq.com/qbtool?dev=1&url=tool.browser.qq.com/
+    - link "反馈" [ref=f9e66] [cursor=pointer]:
+      - /url: https://feedback.browser.qq.com/qbtool?url=tool.browser.qq.com/
+  - generic [ref=f9e68]:
+    - generic [ref=f9e69]:
+      - generic [ref=f9e70]:
+        - img "搜索按钮" [ref=f9e71]
+        - textbox [ref=f9e72]
+        - generic: 工具箱已累计帮助了 376896401 人次
+      - generic [ref=f9e74]: QQ浏览器 · 工具权益卡
+    - generic [ref=f9e80]:
+      - generic [ref=f9e81]: 精品推荐
+      - generic [ref=f9e82]:
+        - generic [ref=f9e85] [cursor=pointer]:
+          - generic [ref=f9e86]: 腾讯文档快捷版
+          - generic [ref=f9e87]: 办公必备的网站、访问过的文档都在这里。
+        - generic [ref=f9e90] [cursor=pointer]:
+          - generic [ref=f9e91]: 腾讯会议快捷版
+          - generic [ref=f9e92]: QQ浏览器用户独享，在侧边栏快捷查看和使用腾讯会议
+        - generic [ref=f9e95] [cursor=pointer]:
+          - generic [ref=f9e96]: 历史记录
+          - generic [ref=f9e97]: 在侧边栏显示QQ浏览器历史记录。
+        - generic [ref=f9e100] [cursor=pointer]:
+          - generic [ref=f9e101]: Tampermonkey
+          - generic [ref=f9e102]: The world's most popular userscript manager
+        - generic [ref=f9e105] [cursor=pointer]:
+          - generic [ref=f9e106]: 五彩网址二维码
+          - generic [ref=f9e107]: 五彩网址二维码可以方便将网页转换为二维码，直接用手机扫描，可以在手机上浏览和分享，也可以简单识别网页中的二维码图片。
+        - generic [ref=f9e110] [cursor=pointer]:
+          - generic [ref=f9e111]: 有道词典Chrome划词插件
+          - generic [ref=f9e112]: 支持Chrome浏览器的划词翻译
+        - generic [ref=f9e115] [cursor=pointer]:
+          - generic [ref=f9e116]: 小丰二维码
+          - generic [ref=f9e117]: 小丰二维码可以方便将网页转换为二维码，也可以简单识别网页中的二维码图片。
+        - generic [ref=f9e120] [cursor=pointer]:
+          - generic [ref=f9e121]: 常用工具(ToolBox)
+          - generic [ref=f9e122]: 常用工具：时间戳转换、URL编码、BASE64编码、加解密、二维码生成、ip地址查询、DNS/Whois查询、JSON解析、翻译、万年历、色彩查询等。
+        - generic [ref=f9e125] [cursor=pointer]:
+          - generic [ref=f9e126]: 橙光日历
+          - generic [ref=f9e127]: 橙光日历是一款简单、实用的生活万年历。主要包含了农历、实时假日、黄历等实用功能。
+        - generic [ref=f9e130] [cursor=pointer]:
+          - generic [ref=f9e131]: ACG助手 - 提供哔哩哔哩(bilibili)视频下载消息推送
+          - generic [ref=f9e132]: 提供哔哩哔哩(bilibili)视频下载消息推送
+        - generic [ref=f9e135] [cursor=pointer]:
+          - generic [ref=f9e136]: ICBCNewChromeExtension
+          - generic [ref=f9e137]: ICBC new chrome extension.
+        - generic [ref=f9e140] [cursor=pointer]:
+          - generic [ref=f9e141]: 电脑管家上网防护
+          - generic [ref=f9e142]: 过滤网络不良信息，保护您的上网环境
+        - generic [ref=f9e145] [cursor=pointer]:
+          - generic [ref=f9e146]: 蓝岚日历
+          - generic [ref=f9e147]: 蓝岚日历是一款简单、实用的生活万年历。主要包含了农历、实时假日、黄历等实用功能。
+        - generic [ref=f9e150] [cursor=pointer]:
+          - generic [ref=f9e151]: Foxit PDF Creator
+          - generic [ref=f9e152]: 将网页转换为福昕PDF
+        - generic [ref=f9e155] [cursor=pointer]:
+          - generic [ref=f9e156]: 替换字体的中文部分为雅黑
+          - generic [ref=f9e157]: 替换字体的中文部分为雅黑
+        - generic [ref=f9e160] [cursor=pointer]:
+          - generic [ref=f9e161]: 打骨折-淘宝优惠券 天猫优惠券领取
+          - generic [ref=f9e162]: 天猫/淘宝商品优惠券一键领取，在浏览淘宝、天猫商品时直接显示该商品是否有优惠券信息，领取后可直接下单抵扣，让您越买越省钱，购物省钱就用打骨折。
+        - generic [ref=f9e165] [cursor=pointer]:
+          - generic [ref=f9e166]: Adobe Acrobat：PDF 编辑、转化、签名工具
+          - generic [ref=f9e167]: 利用 Adobe Acrobat PDF 工具在 Google Chrome 中完成更多任务：查看、填充、注释、签名，您还可以试试转换和压缩工具。
+        - generic [ref=f9e170] [cursor=pointer]:
+          - generic [ref=f9e171]: 小说阅读助手
+          - generic [ref=f9e172]: 小说阅读助手是一款可以在浏览器无广告看小说，更多功能持续更新中。
+        - generic [ref=f9e175] [cursor=pointer]:
+          - generic [ref=f9e176]: NoteExpress网络捕手
+          - generic [ref=f9e177]: 从Chrome浏览器一键保存文献到NoteExpress！NoteExpress帮助您高效地收集、管理、分析和引用文献……
+        - generic [ref=f9e180] [cursor=pointer]:
+          - generic [ref=f9e181]: 关灯看视频
+          - generic [ref=f9e182]: 观看视频时自动调暗页面，让您仿佛置身于电影院中观看视频。适用于 YouTube™ 和其他视频网站。
+        - generic [ref=f9e185] [cursor=pointer]:
+          - generic [ref=f9e186]: 魔方换算
+          - generic [ref=f9e187]: 魔方换算是一款简单实用的小工具，可以对长度等计量单位进行换算
+        - generic [ref=f9e190] [cursor=pointer]:
+          - generic [ref=f9e191]: 健康提醒
+          - generic [ref=f9e192]: 根据国家高级营养师推荐的时刻表制作的提醒小工具（饮水、眼保健操）
+        - generic [ref=f9e195] [cursor=pointer]:
+          - generic [ref=f9e196]: Downloads
+          - generic [ref=f9e197]: Quick access button to the download page
+        - generic [ref=f9e200] [cursor=pointer]:
+          - generic [ref=f9e201]: IDM Integration Module
+          - generic [ref=f9e202]: Download files with Internet Download Manager
+        - generic [ref=f9e205] [cursor=pointer]:
+          - generic [ref=f9e206]: EditThisCookie
+          - generic [ref=f9e207]: EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies！
+        - generic [ref=f9e210] [cursor=pointer]:
+          - generic [ref=f9e211]: 高校课程表
+          - generic [ref=f9e212]: 一个带上课提醒的课程表工具
+        - generic [ref=f9e215] [cursor=pointer]:
+          - generic [ref=f9e216]: ICBC Chrome Extension from Tendyron
+          - generic [ref=f9e217]: Chrome Extension of ICBC Internet Banking for tendyron USB-Shield.
+        - generic [ref=f9e220] [cursor=pointer]:
+          - generic [ref=f9e221]: Skype
+          - generic [ref=f9e222]: Quickly create & join Skype meetings
+        - generic [ref=f9e225] [cursor=pointer]:
+          - generic [ref=f9e226]: 划词翻译
+          - generic [ref=f9e227]: 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展，支持谷歌、DeepL、ChatGPT、百度等 9 个国内外主流翻译服务，均可用于全文翻译。能在 PDF 里使用。
+        - generic [ref=f9e230] [cursor=pointer]:
+          - generic [ref=f9e231]: 下载+
+          - generic [ref=f9e232]: "管理你的下载快速通道。是你的方便、快捷、高效的工具！媒体资源探测下载: 视频, 音频, 图片等"
+        - generic [ref=f9e235] [cursor=pointer]:
+          - generic [ref=f9e236]: Avast Online Security & Privacy
+          - generic [ref=f9e237]: Avast Browser Security and Web Reputation Plugin.
+        - generic [ref=f9e240] [cursor=pointer]:
+          - generic [ref=f9e241]: 喵喵折+
+          - generic [ref=f9e242]: “喵喵折”是简单易用的购物助手，为您提供商品的历史价格、同款比价、商品收藏以及降价提醒等服务。
+        - generic [ref=f9e245] [cursor=pointer]:
+          - generic [ref=f9e246]: 金山词霸右键查询
+          - generic [ref=f9e247]: 使用金山词霸检索单词，选中中英文单词后，点击右键，选择金山词霸。金山词霸词典查询结果页面提供英汉、汉英、英英查询结果。
+        - generic [ref=f9e250] [cursor=pointer]:
+          - generic [ref=f9e251]: 店侦探&看店宝-淘宝卖家数据分析工具
+          - generic [ref=f9e252]: 淘宝卖家数据分析工具，店铺经营数据和宝贝销售分析，店铺流量来源、活动推广等等。
+        - generic [ref=f9e255] [cursor=pointer]:
+          - generic [ref=f9e256]: Web Developer
+          - generic [ref=f9e257]: Adds a toolbar button with various web developer tools.
+        - generic [ref=f9e260] [cursor=pointer]:
+          - generic [ref=f9e261]: EndNote Click - Formerly Kopernio
+          - generic [ref=f9e262]: Fast, one-click access to millions of research papers.
+        - generic [ref=f9e265] [cursor=pointer]:
+          - generic [ref=f9e266]: 搜券助手
+          - generic [ref=f9e267]: 搜券助手专为用户查找淘宝、天猫商品内部优惠券，商品店铺优惠券信息，让您花更少的钱购买同样的商品
+        - generic [ref=f9e270] [cursor=pointer]:
+          - generic [ref=f9e271]: Microsoft Power Automate (Legacy)
+          - generic [ref=f9e272]: Add-on for enabling web automation. This web extension is compatible with Power Automate for desktop version 2.26 or earlier.
+        - generic [ref=f9e275] [cursor=pointer]:
+          - generic [ref=f9e276]: Fullscreen Anything
+          - generic [ref=f9e277]: Maximizes images, videos, and games.
+        - generic [ref=f9e280] [cursor=pointer]:
+          - generic [ref=f9e281]: 强制网页使用自定义字体
+          - generic [ref=f9e282]: 假如你十分熟悉CSS的编写，那么推荐你使用Stylish扩展来针对各类网页设置各种字体。
+        - generic [ref=f9e285] [cursor=pointer]:
+          - generic [ref=f9e286]: 划词翻译
+          - generic [ref=f9e287]: 划词翻译(可划长句),使用Baidu提供API,多语言支持,终身免费。
+        - generic [ref=f9e290] [cursor=pointer]:
+          - generic [ref=f9e291]: 高效网页截图编辑插件
+          - generic [ref=f9e292]: 截取任意网页，可以像画图软件那样用直线、箭头、圆圈、文字做出标识。并可以方便的通过链接或者附件分享。
+        - generic [ref=f9e295] [cursor=pointer]:
+          - generic [ref=f9e296]: Vue.js devtools
+          - generic [ref=f9e297]: Browser DevTools extension for debugging Vue.js applications.
+        - generic [ref=f9e300] [cursor=pointer]:
+          - generic [ref=f9e301]: 卡巴斯基保护
+          - generic [ref=f9e302]: 在您的浏览器窗口中管理保护
+        - generic [ref=f9e305] [cursor=pointer]:
+          - generic [ref=f9e306]: Microsoft Power Automate
+          - generic [ref=f9e307]: Add-on for enabling web automation. This web extension is compatible with Power Automate for desktop version 2.27 or later.
+        - generic [ref=f9e310] [cursor=pointer]:
+          - generic [ref=f9e311]: Video Speed Controller
+          - generic [ref=f9e312]: Speed up, slow down, advance and rewind HTML5 audio/video with shortcuts
+        - generic [ref=f9e315] [cursor=pointer]:
+          - generic [ref=f9e316]: 二维码网址
+          - generic [ref=f9e317]: 点击生成手机可访问的二维码网址，作者：zxing@97md.net
+        - generic [ref=f9e320] [cursor=pointer]:
+          - generic [ref=f9e321]: 查看源码(zvSource)
+          - generic [ref=f9e322]: 直接在当前页面中以弹出层方式查看网页源代码(真正的网页源代码)，无需再弹出一个标签页
+        - generic [ref=f9e325] [cursor=pointer]:
+          - generic [ref=f9e326]: WizClipper
+          - generic [ref=f9e327]: WizClipper
+        - generic [ref=f9e330] [cursor=pointer]:
+          - generic [ref=f9e331]: Keepa - Amazon Price Tracker
+          - generic [ref=f9e332]: Adds price history charts and the option to be alerted on price drops to all Amazon sites.
+        - generic [ref=f9e335] [cursor=pointer]:
+          - generic [ref=f9e336]: 视频下载器 - CoCoCut
+          - generic [ref=f9e337]: Chrome专业视频下载器和音乐下载器,可以在线下载视频、音乐。免费、安全、简单易用。
+        - generic [ref=f9e340] [cursor=pointer]:
+          - generic [ref=f9e341]: Chrome Logger
+          - generic [ref=f9e342]: For server side logging and debugging in chrome console.
+        - generic [ref=f9e345] [cursor=pointer]:
+          - generic [ref=f9e346]: Pin Them All
+          - generic [ref=f9e347]: Pin all your tabs
+        - generic [ref=f9e350] [cursor=pointer]:
+          - generic [ref=f9e351]: IP Domain Country Flag
+          - generic [ref=f9e352]: Shows country flag and other IP / domain information in the location bar.
+        - generic [ref=f9e355] [cursor=pointer]:
+          - generic [ref=f9e356]: JSONVue
+          - generic [ref=f9e357]: Validate and view JSON documents
+        - generic [ref=f9e360] [cursor=pointer]:
+          - generic [ref=f9e361]: 网页截图 - Screenshot Extension
+          - generic [ref=f9e362]: 方便快捷地截取整个网页，并保存为图像。这是第一个可以截取整个页面的扩展。
+        - generic [ref=f9e365] [cursor=pointer]:
+          - generic [ref=f9e366]: Free Download Manager
+          - generic [ref=f9e367]: Free Download Manager integration with browser
+        - generic [ref=f9e370] [cursor=pointer]:
+          - generic [ref=f9e371]: IE Tab
+          - generic [ref=f9e372]: Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, Sharepoint, and more.
+        - generic [ref=f9e375] [cursor=pointer]:
+          - generic [ref=f9e376]: Zotero Connector
+          - generic [ref=f9e377]: Save references to Zotero from your web browser
+        - generic [ref=f9e380] [cursor=pointer]:
+          - generic [ref=f9e381]: Video DownloadHelper
+          - generic [ref=f9e382]: Download Videos from the Web
+        - generic [ref=f9e385] [cursor=pointer]:
+          - generic [ref=f9e386]: 下载Vimeo优质视频
+          - generic [ref=f9e387]: 可下载任何托管在全球各地网络上的Vimeo视频的专业又简单的下载器。
+        - generic [ref=f9e390] [cursor=pointer]:
+          - generic [ref=f9e391]: XPath Helper
+          - generic [ref=f9e392]: Extract, edit, and evaluate XPath queries with ease.
+        - generic [ref=f9e395] [cursor=pointer]:
+          - generic [ref=f9e396]: OneTab
+          - generic [ref=f9e397]: 节省高达95％的内存，并减轻标签页混乱现象
+        - generic [ref=f9e400] [cursor=pointer]:
+          - generic [ref=f9e401]: 资源检查
+          - generic [ref=f9e402]: 检查页面资源可访问性的工具
+        - generic [ref=f9e405] [cursor=pointer]:
+          - generic [ref=f9e406]: Media Hint
+          - generic [ref=f9e407]: Use the Media Hint service to access the content you need on the internet.
+        - generic [ref=f9e410] [cursor=pointer]:
+          - generic [ref=f9e411]: MozBar
+          - generic [ref=f9e412]: MozBar from Moz
+        - generic [ref=f9e415] [cursor=pointer]:
+          - generic [ref=f9e416]: ColorZilla
+          - generic [ref=f9e417]: Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
+        - generic [ref=f9e420] [cursor=pointer]:
+          - generic [ref=f9e421]: 小乐图客(ZIG)
+          - generic [ref=f9e422]: 图片下载工具5合1 = 批量取图 + 拼图 + 截图 + 画图 + 美图，支持以图搜图(右击图片)。极客必备！by zzllrr
+        - generic [ref=f9e425] [cursor=pointer]:
+          - generic [ref=f9e426]: Bitly
+          - generic [ref=f9e427]: Short links and QR Codes Create short, powerful links and QR Codes and share them with the world.
+        - generic [ref=f9e430] [cursor=pointer]:
+          - generic [ref=f9e431]: 新榜小助手
+          - generic [ref=f9e432]: 为公众号运营者提供广告接单变现与运营工具服务，让变现更简单，让运营更有效
+        - generic [ref=f9e435] [cursor=pointer]:
+          - generic [ref=f9e436]: 超级下单
+          - generic [ref=f9e437]: 超级下单：万能的一件代发下单神器！…
+        - generic [ref=f9e440] [cursor=pointer]:
+          - generic [ref=f9e441]: "Wikiwand: Wikipedia Modernized"
+          - generic [ref=f9e442]: Good old Wikipedia gets a great new look
+        - generic [ref=f9e445] [cursor=pointer]:
+          - generic [ref=f9e446]: The QR Code Extension
+          - generic [ref=f9e447]: 允许当前页面生成QR码，并使用网络摄像头扫描QR码。
+        - generic [ref=f9e450] [cursor=pointer]:
+          - generic [ref=f9e451]: iGive Button
+          - generic [ref=f9e452]: Turn shopping, searching, and bookmarking into free donations for your charity.
+        - generic [ref=f9e455] [cursor=pointer]:
+          - generic [ref=f9e456]: Visualping
+          - generic [ref=f9e457]: Visualping Chrome Extension
+        - generic [ref=f9e460] [cursor=pointer]:
+          - generic [ref=f9e461]: Neater Bookmarks
+          - generic [ref=f9e462]: 灵巧实用的弹出书签
+        - generic [ref=f9e465] [cursor=pointer]:
+          - generic [ref=f9e466]: Text Mode
+          - generic [ref=f9e467]: Browse the web without distractions via simple text based pages.
+        - generic [ref=f9e470] [cursor=pointer]:
+          - generic [ref=f9e471]: SEOquake
+          - generic [ref=f9e472]: SEOquake is a free plugin that provides you with key SEO metrics, along with other useful tools such as SEO Audit and many others
+        - generic [ref=f9e475] [cursor=pointer]:
+          - generic [ref=f9e476]: Postman Interceptor
+          - generic [ref=f9e477]: Sends requests fired through the Postman chrome app.
+        - generic [ref=f9e480] [cursor=pointer]:
+          - generic [ref=f9e481]: User-Agent Switcher
+          - generic [ref=f9e482]: Switches User-Agent strings to mimic, spoof or fake other browsers or bots.
+        - generic [ref=f9e485] [cursor=pointer]:
+          - generic [ref=f9e486]: Advanced Font Settings
+          - generic [ref=f9e487]: Customize per-script font settings.
+        - generic [ref=f9e490] [cursor=pointer]:
+          - generic [ref=f9e491]: Session Buddy
+          - generic [ref=f9e492]: Manage Browser Tabs and Bookmarks with Ease
+        - generic [ref=f9e495] [cursor=pointer]:
+          - generic [ref=f9e496]: SmoothScroll
+          - generic [ref=f9e497]: Scroll smoothly on all websites with your mouse and keyboard.
+        - generic [ref=f9e500] [cursor=pointer]:
+          - generic [ref=f9e501]: Fine Link Selector
+          - generic [ref=f9e502]: Make it easy to select a part of link texts
+        - generic [ref=f9e505] [cursor=pointer]:
+          - generic [ref=f9e506]: PDF Viewer
+          - generic [ref=f9e507]: Uses HTML5 to display PDF files directly in the browser.
+        - generic [ref=f9e510] [cursor=pointer]:
+          - generic [ref=f9e511]: Steep and Cheap Countdown Timer
+          - generic [ref=f9e512]: Steep and Cheap sells outdoor gear one screamin'(50-80% off) deal at a time until time runs out. (steepandcheap.com)
+        - generic [ref=f9e515] [cursor=pointer]:
+          - generic [ref=f9e516]: Cloudy Calculator
+          - generic [ref=f9e517]: A shockingly versatile calculator for Chrome. (Formerly Chromey Calculator)
+        - generic [ref=f9e520] [cursor=pointer]:
+          - generic [ref=f9e521]: Scraper
+          - generic [ref=f9e522]: Scraper gets data out of web pages and into spreadsheets.
+        - generic [ref=f9e525] [cursor=pointer]:
+          - generic [ref=f9e526]: TinEye Reverse Image Search
+          - generic [ref=f9e527]: This is the official TinEye Chrome extension. Find out where an image came from, how it's used, or find higher resolution versions.
+        - generic [ref=f9e530] [cursor=pointer]:
+          - generic [ref=f9e531]: start.me创作的新标签页
+          - generic [ref=f9e532]: 完全个性化起始页-start.me
+        - generic [ref=f9e535] [cursor=pointer]:
+          - generic [ref=f9e536]: FeHelper(前端助手)
+          - generic [ref=f9e537]: JSON自动格式化、手动格式化，支持排序、解码、下载等，更多功能可在配置页按需安装！
+        - generic [ref=f9e540] [cursor=pointer]:
+          - generic [ref=f9e541]: Dark Reader
+          - generic [ref=f9e542]: 适用于任何网站的黑暗主题。关爱眼睛，就使用 Dark Reader 进行日常浏览。
+        - generic [ref=f9e545] [cursor=pointer]:
+          - generic [ref=f9e546]: Octotree - GitHub code tree
+          - generic [ref=f9e547]: GitHub on steroids
+        - generic [ref=f9e550] [cursor=pointer]:
+          - generic [ref=f9e551]: 音量增加 - 声音增强器
+          - generic [ref=f9e552]: 提高您的最大音量！将声音放大高达600%。使用音频均衡器控制任何选项卡的声音。
+        - generic [ref=f9e555] [cursor=pointer]:
+          - generic [ref=f9e556]: 花瓣采集插件
+          - generic [ref=f9e557]: 这个扩展程序可以让你方便地从任意网站上采集喜欢的图片、视频或者网页截图到花瓣网(huaban.com)上。这是花瓣网官方(huaban.com)提供的扩展。
+        - generic [ref=f9e560] [cursor=pointer]:
+          - generic [ref=f9e561]: Eagle for Chrome
+          - generic [ref=f9e562]: 此扩展程序可以轻松保存图像并将屏幕截图保存到 Eagle App。
+        - generic [ref=f9e565] [cursor=pointer]:
+          - generic [ref=f9e566]: "Global Speed: 视频速度控制"
+          - generic [ref=f9e567]: 设置视频和音频的默认速度。
+        - generic [ref=f9e570] [cursor=pointer]:
+          - generic [ref=f9e571]: Autofill
+          - generic [ref=f9e572]: 最受欢迎的自动填表扩展，自2010年以来提高了生产力。
+        - generic [ref=f9e575] [cursor=pointer]:
+          - generic [ref=f9e576]: Grid Ruler
+          - generic [ref=f9e577]: Create grids and measure their distance easily.
+        - generic [ref=f9e580] [cursor=pointer]:
+          - generic [ref=f9e581]: Bitwarden - 免费密码管理器
+          - generic [ref=f9e582]: 安全且免费的跨平台密码管理器。
+        - generic [ref=f9e585] [cursor=pointer]:
+          - generic [ref=f9e586]: "LastPass: Free Password Manager"
+          - generic [ref=f9e587]: LastPass, an award-winning password manager, saves your passwords and gives you secure access from every computer and mobile device.
+        - generic [ref=f9e590] [cursor=pointer]:
+          - generic [ref=f9e591]: Awesome 护眼模式
+          - generic [ref=f9e592]: Curated 护眼模式 for the most popular sites
+        - generic [ref=f9e595] [cursor=pointer]:
+          - generic [ref=f9e596]: Workona Tab Manager
+          - generic [ref=f9e597]: The world’s best tab manager
+        - generic [ref=f9e600] [cursor=pointer]:
+          - generic [ref=f9e601]: Tab Manager Plus for Chrome
+          - generic [ref=f9e602]: Quickly find open tabs, see all windows in one view, find duplicates and limit tabs per window. The best Tab Manager for Chrome.
+        - generic [ref=f9e605] [cursor=pointer]:
+          - generic [ref=f9e606]: AudioMax声音增强器
+          - generic [ref=f9e607]: 提高音量，增强低音，控制音量，多功能均衡器和方便的音量控制。体验更响亮的音乐或视频音量。
+        - generic [ref=f9e610] [cursor=pointer]:
+          - generic [ref=f9e611]: 腾讯 CoDesign 采集插件
+          - generic [ref=f9e612]: 图片素材云端管理|支持采集 PNG、JPG、GIF、WEBP 等多种素材格式；支持在线管理灵感素材，团队成员共享调用
+        - generic [ref=f9e615] [cursor=pointer]:
+          - generic [ref=f9e616]: 好网角收藏夹
+          - generic [ref=f9e617]: 右键一键图片快照网页链接，网页失效也永不丢失； 右键一键剪藏网页正文。
+        - generic [ref=f9e620] [cursor=pointer]:
+          - generic [ref=f9e621]: 迅雷下载支持
+          - generic [ref=f9e622]: 该扩展用于实现迅雷X接管Chrome浏览器的下载请求，方便的“多选下载”模式可以快速下载网页中的多个链接，并支持下载网页中的在线视频。
+    - generic [ref=f9e630]:
+      - generic [ref=f9e631]: 轻松办公，工具助你一臂之力
+      - generic [ref=f9e632]:
+        - link "隐私政策" [ref=f9e633] [cursor=pointer]:
+          - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+        - link "数据处理规则及免责声明" [ref=f9e634] [cursor=pointer]:
+          - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+      - generic [ref=f9e635]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.

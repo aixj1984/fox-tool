@@ -1,0 +1,1132 @@
+- generic [ref=f42e1]:
+  - generic [ref=f42e2]:
+    - complementary "工具分类导航" [ref=f42e3]:
+      - link "帮小忙 帮小忙 腾讯QQ浏览器在线工具箱" [ref=f42e4] [cursor=pointer]:
+        - /url: /
+        - img "帮小忙" [ref=f42e5]
+        - generic [ref=f42e6]:
+          - generic [ref=f42e7]: 帮小忙
+          - generic [ref=f42e8]: 腾讯QQ浏览器在线工具箱
+      - navigation [ref=f42e9]:
+        - list [ref=f42e10]:
+          - listitem [ref=f42e11]:
+            - link "全部" [ref=f42e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f42e14]:
+            - link "图片工具" [ref=f42e15] [cursor=pointer]:
+              - /url: /category/img
+          - listitem [ref=f42e17]:
+            - link "PDF转换工具" [ref=f42e18] [cursor=pointer]:
+              - /url: /category/pdf
+          - listitem [ref=f42e20]:
+            - link "数据换算工具" [ref=f42e21] [cursor=pointer]:
+              - /url: /category/data
+          - listitem [ref=f42e23]:
+            - link "生活娱乐工具" [ref=f42e24] [cursor=pointer]:
+              - /url: /category/life
+          - listitem [ref=f42e26]:
+            - link "教育工具" [ref=f42e27] [cursor=pointer]:
+              - /url: /category/education
+          - listitem [ref=f42e29]:
+            - link "文本工具" [ref=f42e30] [cursor=pointer]:
+              - /url: /category/text
+          - listitem [ref=f42e32]:
+            - link "开发工具" [ref=f42e33] [cursor=pointer]:
+              - /url: /category/develop
+          - listitem [ref=f42e35]:
+            - link "视频工具" [ref=f42e36] [cursor=pointer]:
+              - /url: /category/video
+    - main [ref=f42e39]:
+      - generic [ref=f42e40]:
+        - generic [ref=f42e41]:
+          - generic [ref=f42e42]:
+            - generic [ref=f42e43]:
+              - generic [ref=f42e44]: 最新工具
+              - link "更多工具" [ref=f42e45] [cursor=pointer]:
+                - /url: /
+            - generic [ref=f42e47]:
+              - link "暑期作业辅导 学习工具 作业辅导 学习无忧" [ref=f42e48] [cursor=pointer]:
+                - /url: https://browser.qq.com/mobile/article_detail/1/11/1157
+                - img "暑期作业辅导" [ref=f42e49]
+                - generic [ref=f42e50]: 学习工具
+                - generic [ref=f42e51]: 作业辅导 学习无忧
+              - link "在线录屏 在线录屏 在线录屏，支持录制指定浏览器标签页、指定窗口以及整个屏幕" [ref=f42e52] [cursor=pointer]:
+                - /url: /screen_record.html
+                - img "在线录屏" [ref=f42e53]
+                - generic [ref=f42e54]: 在线录屏
+                - generic [ref=f42e55]: 在线录屏，支持录制指定浏览器标签页、指定窗口以及整个屏幕
+              - link "Excel转PDF Excel转PDF Excel转PDF是一款专业的电子表格处理工具，能够轻松地将Excel文件转为PDF文件" [ref=f42e56] [cursor=pointer]:
+                - /url: /excel_to_pdf.html
+                - img "Excel转PDF" [ref=f42e57]
+                - generic [ref=f42e58]: Excel转PDF
+                - generic [ref=f42e59]: Excel转PDF是一款专业的电子表格处理工具，能够轻松地将Excel文件转为PDF文件
+          - generic [ref=f42e60]:
+            - generic [ref=f42e61]:
+              - generic [ref=f42e62]: 最热工具
+              - link "更多工具" [ref=f42e63] [cursor=pointer]:
+                - /url: /
+            - generic [ref=f42e65]:
+              - link "图片压缩 图片压缩 图片压缩是一款轻量级的图像压缩工具，图片压缩能够智能识别图像中的每一个元素，并对它们进行高效的压缩和优化。图片压缩还具有简单易用的界面，让你轻松地将大幅图像转换为小巧玲珑的图片。" [ref=f42e66] [cursor=pointer]:
+                - /url: /imgcompress.html
+                - img "图片压缩" [ref=f42e67]
+                - generic [ref=f42e68]: 图片压缩
+                - generic [ref=f42e69]: 图片压缩是一款轻量级的图像压缩工具，图片压缩能够智能识别图像中的每一个元素，并对它们进行高效的压缩和优化。图片压缩还具有简单易用的界面，让你轻松地将大幅图像转换为小巧玲珑的图片。
+              - link "证件照生成 证件照生成 相片生成证件照工具是一款帮助用户快速生成高质量证件照的工具。证件照生成证件照工具拥有一个简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。证件照生成证件照工具适用于各种场景和需求，例如结婚登记、签证办理、学校报名等。" [ref=f42e70] [cursor=pointer]:
+                - /url: /id_photo.html
+                - img "证件照生成" [ref=f42e71]
+                - generic [ref=f42e72]: 证件照生成
+                - generic [ref=f42e73]: 相片生成证件照工具是一款帮助用户快速生成高质量证件照的工具。证件照生成证件照工具拥有一个简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。证件照生成证件照工具适用于各种场景和需求，例如结婚登记、签证办理、学校报名等。
+              - link "垃圾分类查询 垃圾分类查询 垃圾分类查询工具是一款免费的工具，可以用来查询生活中的垃圾分类情况。这款工具提供了实时更新的垃圾分类。让用户更加清晰地了解垃圾分类的具体方法和要求。更好地理解和管理垃圾分类工作" [ref=f42e74] [cursor=pointer]:
+                - /url: /garbage.html
+                - img "垃圾分类查询" [ref=f42e75]
+                - generic [ref=f42e76]: 垃圾分类查询
+                - generic [ref=f42e77]: 垃圾分类查询工具是一款免费的工具，可以用来查询生活中的垃圾分类情况。这款工具提供了实时更新的垃圾分类。让用户更加清晰地了解垃圾分类的具体方法和要求。更好地理解和管理垃圾分类工作
+        - generic [ref=f42e78]:
+          - link "PDF转Word PDF转Word PDF转Word是一款高效的文档处理工具，旨在帮助用户轻松将PDF文件转换为可编辑的Word文档。 权益卡" [ref=f42e79] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/pdf_2_word.html
+            - img "PDF转Word" [ref=f42e80]
+            - generic [ref=f42e81]:
+              - generic [ref=f42e82]: PDF转Word
+              - generic [ref=f42e83]: PDF转Word是一款高效的文档处理工具，旨在帮助用户轻松将PDF文件转换为可编辑的Word文档。
+            - generic [ref=f42e84]: 权益卡
+          - link "PDF转Excel PDF转Excel PDF转Excel是一款高效的文档处理工具，旨在帮助用户轻松将PDF文件转换为可编辑的Excel文档。 权益卡" [ref=f42e85] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/pdf_2_excel.html
+            - img "PDF转Excel" [ref=f42e86]
+            - generic [ref=f42e87]:
+              - generic [ref=f42e88]: PDF转Excel
+              - generic [ref=f42e89]: PDF转Excel是一款高效的文档处理工具，旨在帮助用户轻松将PDF文件转换为可编辑的Excel文档。
+            - generic [ref=f42e90]: 权益卡
+          - link "PDF转HTML PDF转HTML PDF图片转HTML是一款功能强大的在线转换工具，这款工具不仅能够处理文本和向量图形，还能够将PDF中的图片准确地转换成网页元素。转换后的HTML网页保持了PDF原始页面的布局和格式，确保了在不同的浏览器和设备上都能够以原样呈现，从而提供了" [ref=f42e91] [cursor=pointer]:
+            - /url: /pdf_2_html
+            - img "PDF转HTML" [ref=f42e92]
+            - generic [ref=f42e93]:
+              - generic [ref=f42e94]: PDF转HTML
+              - generic [ref=f42e95]: PDF图片转HTML是一款功能强大的在线转换工具，这款工具不仅能够处理文本和向量图形，还能够将PDF中的图片准确地转换成网页元素。转换后的HTML网页保持了PDF原始页面的布局和格式，确保了在不同的浏览器和设备上都能够以原样呈现，从而提供了
+          - link "PDF转图片 PDF转图片 PDF转图片工具是一款专业的在线转换器，它能够将PDF文档逐页转换为独立的图片文件，或者将整个PDF文档转换为一张连续的长图。" [ref=f42e96] [cursor=pointer]:
+            - /url: /pdf_2_png
+            - img "PDF转图片" [ref=f42e97]
+            - generic [ref=f42e98]:
+              - generic [ref=f42e99]: PDF转图片
+              - generic [ref=f42e100]: PDF转图片工具是一款专业的在线转换器，它能够将PDF文档逐页转换为独立的图片文件，或者将整个PDF文档转换为一张连续的长图。
+          - link "PDF转PPT PDF转PPT PDF转PPT工具是一款用户友好的在线转换服务，专门设计用于将PDF文件转换成PowerPoint演示文稿，让您可以在互联网上轻松传播您的成果。 权益卡" [ref=f42e101] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/pdf_2_ppt.html
+            - img "PDF转PPT" [ref=f42e102]
+            - generic [ref=f42e103]:
+              - generic [ref=f42e104]: PDF转PPT
+              - generic [ref=f42e105]: PDF转PPT工具是一款用户友好的在线转换服务，专门设计用于将PDF文件转换成PowerPoint演示文稿，让您可以在互联网上轻松传播您的成果。
+            - generic [ref=f42e106]: 权益卡
+          - link "Word转PDF Word转PDF Word转PDF是一款用户友好的在线转换服务，用于将Microsoft Word文档（包括DOC和DOCX格式）转换为便携式文档格式（PDF）。" [ref=f42e107] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/word_2_pdf.html
+            - img "Word转PDF" [ref=f42e108]
+            - generic [ref=f42e109]:
+              - generic [ref=f42e110]: Word转PDF
+              - generic [ref=f42e111]: Word转PDF是一款用户友好的在线转换服务，用于将Microsoft Word文档（包括DOC和DOCX格式）转换为便携式文档格式（PDF）。
+          - link "Word格式转换 Word格式转换 Word格式转换是一款功能强大的文档格式转换工具，支持将Word文档转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：PNG、HTML或PDF。 2、点击“上传”按钮，上传需要转换的Word文档。 3、点击“转换”按钮，" [ref=f42e112] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/word_convert.html
+            - img "Word格式转换" [ref=f42e113]
+            - generic [ref=f42e114]:
+              - generic [ref=f42e115]: Word格式转换
+              - generic [ref=f42e116]: Word格式转换是一款功能强大的文档格式转换工具，支持将Word文档转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：PNG、HTML或PDF。 2、点击“上传”按钮，上传需要转换的Word文档。 3、点击“转换”按钮，
+          - link "PPT格式转换 PPT格式转换 PPT格式转换是一款功能强大的幻灯片格式转换工具，支持将PPT文件转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：图片、HTML或PDF。 2、点击“上传”按钮，上传需要转换的PPT文档。 3、点击“转换”按钮，开始将" [ref=f42e117] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ppt_convert.html
+            - img "PPT格式转换" [ref=f42e118]
+            - generic [ref=f42e119]:
+              - generic [ref=f42e120]: PPT格式转换
+              - generic [ref=f42e121]: PPT格式转换是一款功能强大的幻灯片格式转换工具，支持将PPT文件转换为图片、HTML及PDF等格式。 1、选择您希望转换到的目标格式：图片、HTML或PDF。 2、点击“上传”按钮，上传需要转换的PPT文档。 3、点击“转换”按钮，开始将
+          - link "PDF加水印 PDF加水印 PDF加水印工具是一款在线应用，它允许用户在PDF文件上添加自定义的水印信息。这项功能对于保护版权、标记文件状态或个性化文档非常有用，并能够自定义水印的位置、大小、透明度和旋转角度，以满足不同的需求和偏好。" [ref=f42e122] [cursor=pointer]:
+            - /url: /pdf_watermark
+            - img "PDF加水印" [ref=f42e123]
+            - generic [ref=f42e124]:
+              - generic [ref=f42e125]: PDF加水印
+              - generic [ref=f42e126]: PDF加水印工具是一款在线应用，它允许用户在PDF文件上添加自定义的水印信息。这项功能对于保护版权、标记文件状态或个性化文档非常有用，并能够自定义水印的位置、大小、透明度和旋转角度，以满足不同的需求和偏好。
+          - link "PDF瘦身 PDF瘦身 PDF瘦身是一款高效的在线工具，压缩PDF大小，减小传输和存储成本，适用于有较多图片的PDF文件。" [ref=f42e127] [cursor=pointer]:
+            - /url: /pdf_compress
+            - img "PDF瘦身" [ref=f42e128]
+            - generic [ref=f42e129]:
+              - generic [ref=f42e130]: PDF瘦身
+              - generic [ref=f42e131]: PDF瘦身是一款高效的在线工具，压缩PDF大小，减小传输和存储成本，适用于有较多图片的PDF文件。
+          - link "文档瘦身 文档瘦身 文档能够对文档中的PNG和JPEG图像进行高效压缩，从而显著减小文档的整体大小。这款工具特别适合包含大量图片的文档，如报告、演示文稿和电子书，帮助用户节省存储空间并提高传输效率，同时尽量保持图片的质量。 new" [ref=f42e132] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/office_reduce.html
+            - img "文档瘦身" [ref=f42e133]
+            - generic [ref=f42e134]:
+              - generic [ref=f42e135]: 文档瘦身
+              - generic [ref=f42e136]: 文档能够对文档中的PNG和JPEG图像进行高效压缩，从而显著减小文档的整体大小。这款工具特别适合包含大量图片的文档，如报告、演示文稿和电子书，帮助用户节省存储空间并提高传输效率，同时尽量保持图片的质量。
+            - generic [ref=f42e137]: new
+          - link "身份证识别 身份证识别 身份证识别工具是一种利用图片识别证件照并给出身份证相关内容的工具，身份证识别工具通过光学识别字（OCR）技术提取证件上，包括姓名、身份证号码、出生日期等信息。 限免" [ref=f42e138] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/identification.html
+            - img "身份证识别" [ref=f42e139]
+            - generic [ref=f42e140]:
+              - generic [ref=f42e141]: 身份证识别
+              - generic [ref=f42e142]: 身份证识别工具是一种利用图片识别证件照并给出身份证相关内容的工具，身份证识别工具通过光学识别字（OCR）技术提取证件上，包括姓名、身份证号码、出生日期等信息。
+            - generic [ref=f42e143]: 限免
+          - link "银行卡识别 银行卡识别 银行卡轻松读！采用尖端银行卡识别技术，快速准确提取中国大陆主流银行卡的关键信息，包括卡号、银行名称及有效期等。安全可靠，提升金融操作的便捷性和效率。您的理财好帮手，信赖之选。 限免" [ref=f42e144] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/bankcard_ocr.html
+            - img "银行卡识别" [ref=f42e145]
+            - generic [ref=f42e146]:
+              - generic [ref=f42e147]: 银行卡识别
+              - generic [ref=f42e148]: 银行卡轻松读！采用尖端银行卡识别技术，快速准确提取中国大陆主流银行卡的关键信息，包括卡号、银行名称及有效期等。安全可靠，提升金融操作的便捷性和效率。您的理财好帮手，信赖之选。
+            - generic [ref=f42e149]: 限免
+          - link "印刷体识别 印刷体识别 印刷文字，智能捕获！印刷体识别工具，让图片中的文字转化为可编辑格式变得轻而易举。精确识别，无论字体大小或风格，确保信息无缝转录。快速、高效，为您节省宝贵时间。 限免" [ref=f42e150] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/basic_ocr.html
+            - img "印刷体识别" [ref=f42e151]
+            - generic [ref=f42e152]:
+              - generic [ref=f42e153]: 印刷体识别
+              - generic [ref=f42e154]: 印刷文字，智能捕获！印刷体识别工具，让图片中的文字转化为可编辑格式变得轻而易举。精确识别，无论字体大小或风格，确保信息无缝转录。快速、高效，为您节省宝贵时间。
+            - generic [ref=f42e155]: 限免
+          - link "手写体识别 手写体识别 手写文字，一扫即识！体验先进的手写体识别工具，轻松转换图片中的手写笔迹为可编辑文本。无论笔画多么复杂，我们都能精准捕捉，让信息输入变得简单快捷。告别手动输入，拥抱智能便捷生活！ 限免" [ref=f42e156] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/handwriting_ocr.html
+            - img "手写体识别" [ref=f42e157]
+            - generic [ref=f42e158]:
+              - generic [ref=f42e159]: 手写体识别
+              - generic [ref=f42e160]: 手写文字，一扫即识！体验先进的手写体识别工具，轻松转换图片中的手写笔迹为可编辑文本。无论笔画多么复杂，我们都能精准捕捉，让信息输入变得简单快捷。告别手动输入，拥抱智能便捷生活！
+            - generic [ref=f42e161]: 限免
+          - link "广告体识别 广告体识别 广告内文，一目了然！广告体识别工具，擅长捕捉商品图片中的文字信息，无论中英文、横排竖排，甚至是旋转倾斜的场景，都能精确返回文本位置和内容。提升广告分析效率，助力营销策略精准定位。广告智能化，触手可及。 限免" [ref=f42e162] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr_advertise.html
+            - img "广告体识别" [ref=f42e163]
+            - generic [ref=f42e164]:
+              - generic [ref=f42e165]: 广告体识别
+              - generic [ref=f42e166]: 广告内文，一目了然！广告体识别工具，擅长捕捉商品图片中的文字信息，无论中英文、横排竖排，甚至是旋转倾斜的场景，都能精确返回文本位置和内容。提升广告分析效率，助力营销策略精准定位。广告智能化，触手可及。
+            - generic [ref=f42e167]: 限免
+          - link "英语识别 英语识别 英文掌握，智能无界！英语识别工具，精通图像中英文文字的智能检测与识别。无论是印刷体还是手写体，从简单数字到复杂字符，我们都能准确捕捉并返回文字位置和内容。多场景适应，让英文信息提取变得轻松自如。 限免" [ref=f42e168] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr_english.html
+            - img "英语识别" [ref=f42e169]
+            - generic [ref=f42e170]:
+              - generic [ref=f42e171]: 英语识别
+              - generic [ref=f42e172]: 英文掌握，智能无界！英语识别工具，精通图像中英文文字的智能检测与识别。无论是印刷体还是手写体，从简单数字到复杂字符，我们都能准确捕捉并返回文字位置和内容。多场景适应，让英文信息提取变得轻松自如。
+            - generic [ref=f42e173]: 限免
+          - link "护照识别 护照识别 全球通行，一扫即知！护照识别工具，专业支持中国大陆及港澳台地区，乃至全球各国护照个人资料页的精准识别。多字段检测，快速获取关键信息，让边境通关、信息录入变得轻松高效。安全出行，从智能开始。 限免" [ref=f42e174] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/passport_ocr.html
+            - img "护照识别" [ref=f42e175]
+            - generic [ref=f42e176]:
+              - generic [ref=f42e177]: 护照识别
+              - generic [ref=f42e178]: 全球通行，一扫即知！护照识别工具，专业支持中国大陆及港澳台地区，乃至全球各国护照个人资料页的精准识别。多字段检测，快速获取关键信息，让边境通关、信息录入变得轻松高效。安全出行，从智能开始。
+            - generic [ref=f42e179]: 限免
+          - link "PDF签名 PDF签名 签署无忧，效率提升！PDF签名工具，为您提供快速、安全的电子签名解决方案。无需打印，直接在PDF文档上添加个人或公司签名。保障文档完整性，支持法律效力，助力商务高效运转。 new" [ref=f42e180] [cursor=pointer]:
+            - /url: /pdf_sign
+            - img "PDF签名" [ref=f42e181]
+            - generic [ref=f42e182]:
+              - generic [ref=f42e183]: PDF签名
+              - generic [ref=f42e184]: 签署无忧，效率提升！PDF签名工具，为您提供快速、安全的电子签名解决方案。无需打印，直接在PDF文档上添加个人或公司签名。保障文档完整性，支持法律效力，助力商务高效运转。
+            - generic [ref=f42e185]: new
+          - link "运单识别 运单识别 运单管理，智能化简！运单识别工具，轻松读取主流电子运单格式，精确提取收寄件人信息、联系电话、地址及运单号等关键数据。无论是快递物流还是仓储管理，我们都能提高您的工作效率，简化流程。 限免" [ref=f42e186] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/waybill.html
+            - img "运单识别" [ref=f42e187]
+            - generic [ref=f42e188]:
+              - generic [ref=f42e189]: 运单识别
+              - generic [ref=f42e190]: 运单管理，智能化简！运单识别工具，轻松读取主流电子运单格式，精确提取收寄件人信息、联系电话、地址及运单号等关键数据。无论是快递物流还是仓储管理，我们都能提高您的工作效率，简化流程。
+            - generic [ref=f42e191]: 限免
+          - link "集装箱识别 集装箱识别 物流优化，智能加速！集装箱识别工具，专业解读箱门信息，全面识别箱号、类型、重量数据等关键字段。即使在信息不完整或模糊的情况下，也能提供准确告警。提升货运效率，保障物流安全，是您物流管理的得力助手。 限免" [ref=f42e192] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/container_ocr.html
+            - img "集装箱识别" [ref=f42e193]
+            - generic [ref=f42e194]:
+              - generic [ref=f42e195]: 集装箱识别
+              - generic [ref=f42e196]: 物流优化，智能加速！集装箱识别工具，专业解读箱门信息，全面识别箱号、类型、重量数据等关键字段。即使在信息不完整或模糊的情况下，也能提供准确告警。提升货运效率，保障物流安全，是您物流管理的得力助手。
+            - generic [ref=f42e197]: 限免
+          - link "车辆证件识别 车辆证件识别 车证一扫，信息全掌握！车辆证件识别工具，精准定位并识别驾驶证、行驶证及机动车登记证书的所有关键字段。从证号到发证单位，从号牌号码到发证日期，每一项数据都不放过。简化车辆管理流程，提升行政效率，确保交通安全。 限免" [ref=f42e198] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/carcard_ocr.html
+            - img "车辆证件识别" [ref=f42e199]
+            - generic [ref=f42e200]:
+              - generic [ref=f42e201]: 车辆证件识别
+              - generic [ref=f42e202]: 车证一扫，信息全掌握！车辆证件识别工具，精准定位并识别驾驶证、行驶证及机动车登记证书的所有关键字段。从证号到发证单位，从号牌号码到发证日期，每一项数据都不放过。简化车辆管理流程，提升行政效率，确保交通安全。
+            - generic [ref=f42e203]: 限免
+          - link "营业执照识别 营业执照识别 企业信任，智能验证！营业执照识别工具，迅速准确捕获执照上的关键信息，如注册号、公司名、地址、法人、注册资本、成立日期及经营范围等。简化企业核查流程，确保合规性，是您商务审查的可靠伙伴。 限免" [ref=f42e204] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr_bizLicense.html
+            - img "营业执照识别" [ref=f42e205]
+            - generic [ref=f42e206]:
+              - generic [ref=f42e207]: 营业执照识别
+              - generic [ref=f42e208]: 企业信任，智能验证！营业执照识别工具，迅速准确捕获执照上的关键信息，如注册号、公司名、地址、法人、注册资本、成立日期及经营范围等。简化企业核查流程，确保合规性，是您商务审查的可靠伙伴。
+            - generic [ref=f42e209]: 限免
+          - link "名片识别 名片识别 商务互联，智能捕捉！名片识别工具，自动定位并精确识别名片上的各项信息，包括姓名、联系电话、邮箱、公司名称、部门、职位、网址、地址及社交账号等。快速转化为数字信息，助力您的商务网络扩展，提升效率。 限免" [ref=f42e210] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr_businesscard.html
+            - img "名片识别" [ref=f42e211]
+            - generic [ref=f42e212]:
+              - generic [ref=f42e213]: 名片识别
+              - generic [ref=f42e214]: 商务互联，智能捕捉！名片识别工具，自动定位并精确识别名片上的各项信息，包括姓名、联系电话、邮箱、公司名称、部门、职位、网址、地址及社交账号等。快速转化为数字信息，助力您的商务网络扩展，提升效率。
+            - generic [ref=f42e215]: 限免
+          - link "港澳台证件识别 港澳台证件识别 跨境通行，智能辨识！港澳台证件识别工具，专业支持卡式通行证的全面识别，涵盖签发地、机关、有效期、性别、生日、英文名、姓名、证号等字段。无论是港澳来往内地通行证、台湾居民通行证，还是港澳台居住证，我们都能提供精确的信息读取，简化您的行政管理和 限免" [ref=f42e216] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr_permit.html
+            - img "港澳台证件识别" [ref=f42e217]
+            - generic [ref=f42e218]:
+              - generic [ref=f42e219]: 港澳台证件识别
+              - generic [ref=f42e220]: 跨境通行，智能辨识！港澳台证件识别工具，专业支持卡式通行证的全面识别，涵盖签发地、机关、有效期、性别、生日、英文名、姓名、证号等字段。无论是港澳来往内地通行证、台湾居民通行证，还是港澳台居住证，我们都能提供精确的信息读取，简化您的行政管理和
+            - generic [ref=f42e221]: 限免
+          - link "银行回单识别 银行回单识别 财务核对快人一步，银行回单识别工具，精确捕获回单上的交易详情，包括账号、金额、时间等关键信息。自动化处理，提升财务效率，确保账务准确无误，是企业财务管理的强大助手。 限免" [ref=f42e222] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/bankslip_ocr.html
+            - img "银行回单识别" [ref=f42e223]
+            - generic [ref=f42e224]:
+              - generic [ref=f42e225]: 银行回单识别
+              - generic [ref=f42e226]: 财务核对快人一步，银行回单识别工具，精确捕获回单上的交易详情，包括账号、金额、时间等关键信息。自动化处理，提升财务效率，确保账务准确无误，是企业财务管理的强大助手。
+            - generic [ref=f42e227]: 限免
+          - link "完税证明识别 完税证明识别 税务处理，智能化简！完税证明识别工具，迅速读取并核实证明文件上的关键税务信息，如税种、金额、缴税日期等。确保税务记录的准确性与合规性，为企业和个人提供便捷的税务管理解决方案。 限免" [ref=f42e228] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr_dutypaidproof.html
+            - img "完税证明识别" [ref=f42e229]
+            - generic [ref=f42e230]:
+              - generic [ref=f42e231]: 完税证明识别
+              - generic [ref=f42e232]: 税务处理，智能化简！完税证明识别工具，迅速读取并核实证明文件上的关键税务信息，如税种、金额、缴税日期等。确保税务记录的准确性与合规性，为企业和个人提供便捷的税务管理解决方案。
+            - generic [ref=f42e233]: 限免
+          - link "医疗票据识别 医疗票据识别 医疗报销更轻松，医疗票据识别工具，专业解析各类医疗票据，自动提取费用、项目、日期等信息。一键上传，即刻识别，简化报销流程，是个人和企业医疗费用管理的高效助手。 限免" [ref=f42e234] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr_recognize_medical_invoice.html
+            - img "医疗票据识别" [ref=f42e235]
+            - generic [ref=f42e236]:
+              - generic [ref=f42e237]: 医疗票据识别
+              - generic [ref=f42e238]: 医疗报销更轻松，医疗票据识别工具，专业解析各类医疗票据，自动提取费用、项目、日期等信息。一键上传，即刻识别，简化报销流程，是个人和企业医疗费用管理的高效助手。
+            - generic [ref=f42e239]: 限免
+          - link "网约车行程单识别 网约车行程单识别 财务核对快人一步，银行回单识别工具，精确捕获回单上的交易详情，包括账号、金额、时间等关键信息。自动化处理，提升财务效率，确保账务准确无误，是企业财务管理的强大助手。 限免" [ref=f42e240] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/onlinetaxi_ocr.html
+            - img "网约车行程单识别" [ref=f42e241]
+            - generic [ref=f42e242]:
+              - generic [ref=f42e243]: 网约车行程单识别
+              - generic [ref=f42e244]: 财务核对快人一步，银行回单识别工具，精确捕获回单上的交易详情，包括账号、金额、时间等关键信息。自动化处理，提升财务效率，确保账务准确无误，是企业财务管理的强大助手。
+            - generic [ref=f42e245]: 限免
+          - link "人脸年龄选择 人脸年龄选择 人脸年龄选择是一款根据自己照片来改变年龄的在线工具，是一种基于人脸图像的年龄的计算方法。用户可以根据工具随心调节照片来获取自己不同年龄的容貌，是一款很不错的图片处理工具。 hot" [ref=f42e246] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/face_age_transformation.html
+            - img "人脸年龄选择" [ref=f42e247]
+            - generic [ref=f42e248]:
+              - generic [ref=f42e249]: 人脸年龄选择
+              - generic [ref=f42e250]: 人脸年龄选择是一款根据自己照片来改变年龄的在线工具，是一种基于人脸图像的年龄的计算方法。用户可以根据工具随心调节照片来获取自己不同年龄的容貌，是一款很不错的图片处理工具。
+            - generic [ref=f42e251]: hot
+          - link "图片编辑器 图片编辑器 图片编辑器集合了多种实用的功能，包括图片裁剪、图片滤镜、图片旋转、图片翻转、图片画图、图片添加文字等。 new" [ref=f42e252] [cursor=pointer]:
+            - /url: /img_edit_canvas
+            - img "图片编辑器" [ref=f42e253]
+            - generic [ref=f42e254]:
+              - generic [ref=f42e255]: 图片编辑器
+              - generic [ref=f42e256]: 图片编辑器集合了多种实用的功能，包括图片裁剪、图片滤镜、图片旋转、图片翻转、图片画图、图片添加文字等。
+            - generic [ref=f42e257]: new
+          - link "密码安全检测 密码安全检测 保护您的数字安全！只需输入密码，我们的密码安全检测工具即刻为您进行全面检测。快速评估密码强度，提供改进建议，确保您的账户防护坚不可摧。安全隐私，从强密码开始。 腾讯管家" [ref=f42e258] [cursor=pointer]:
+            - /url: /password_check
+            - img "密码安全检测" [ref=f42e259]
+            - generic [ref=f42e260]:
+              - generic [ref=f42e261]: 密码安全检测
+              - generic [ref=f42e262]: 保护您的数字安全！只需输入密码，我们的密码安全检测工具即刻为您进行全面检测。快速评估密码强度，提供改进建议，确保您的账户防护坚不可摧。安全隐私，从强密码开始。
+            - generic [ref=f42e263]: 腾讯管家
+          - link "文件安全检测 文件安全检测 文件防护，一扫即净！上传任意文件，我们的文件安全检测工具立即展开深度检测。快速识别潜在威胁，确保文件无病毒、无恶意软件，保障您的数据安全。信赖我们，让安全检测变得简单高效。 腾讯管家" [ref=f42e264] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/file_scan.html
+            - img "文件安全检测" [ref=f42e265]
+            - generic [ref=f42e266]:
+              - generic [ref=f42e267]: 文件安全检测
+              - generic [ref=f42e268]: 文件防护，一扫即净！上传任意文件，我们的文件安全检测工具立即展开深度检测。快速识别潜在威胁，确保文件无病毒、无恶意软件，保障您的数据安全。信赖我们，让安全检测变得简单高效。
+            - generic [ref=f42e269]: 腾讯管家
+          - link "手机安装包检测 手机安装包检测 手机软件，安全至上！上传您的手机安装包，让我们的检测工具为您提供全面的软件风险查询。从权限审查到行为分析，确保每个应用安全可靠，无隐患。安心安装，放心使用，我们守护您的数字生活。 腾讯管家" [ref=f42e270] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/app_inspector.html
+            - img "手机安装包检测" [ref=f42e271]
+            - generic [ref=f42e272]:
+              - generic [ref=f42e273]: 手机安装包检测
+              - generic [ref=f42e274]: 手机软件，安全至上！上传您的手机安装包，让我们的检测工具为您提供全面的软件风险查询。从权限审查到行为分析，确保每个应用安全可靠，无隐患。安心安装，放心使用，我们守护您的数字生活。
+            - generic [ref=f42e275]: 腾讯管家
+          - link "搜狗百宝箱 搜狗百宝箱 搜狗百宝箱，您的全能助手！集成日常工具、投资理财、个人信息管理、语言翻译、编码字符等功能，满足您生活和工作的多样需求。一站式解决方案，让复杂生活变得简单高效。搜狗百宝箱，智能生活，触手可及。 搜狗" [ref=f42e276] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/sogou_box.html
+            - img "搜狗百宝箱" [ref=f42e277]
+            - generic [ref=f42e278]:
+              - generic [ref=f42e279]: 搜狗百宝箱
+              - generic [ref=f42e280]: 搜狗百宝箱，您的全能助手！集成日常工具、投资理财、个人信息管理、语言翻译、编码字符等功能，满足您生活和工作的多样需求。一站式解决方案，让复杂生活变得简单高效。搜狗百宝箱，智能生活，触手可及。
+            - generic [ref=f42e281]: 搜狗
+          - link "合同验签 合同验签 确保合同完整性，信任每一笔签署！上传经腾讯电子签完成签署的文件，使用我们的合同验签工具进行严格检测，确保文件自签署之日起未遭篡改。保护合同安全，维护交易真实性，让每一份合同都值得信赖。 腾讯电子签" [ref=f42e282] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/contract_verification.html
+            - img "合同验签" [ref=f42e283]
+            - generic [ref=f42e284]:
+              - generic [ref=f42e285]: 合同验签
+              - generic [ref=f42e286]: 确保合同完整性，信任每一笔签署！上传经腾讯电子签完成签署的文件，使用我们的合同验签工具进行严格检测，确保文件自签署之日起未遭篡改。保护合同安全，维护交易真实性，让每一份合同都值得信赖。
+            - generic [ref=f42e287]: 腾讯电子签
+          - link "合同对比 合同对比 合同审核，智能高效！上传原版及新版合同，让合同对比工具自动扫描差异，精确定位每一个改动点。节省人工审核时间，防止遗漏关键条款变更，确保合同修改清晰透明。合同管理，从此简单。 腾讯电子签" [ref=f42e288] [cursor=pointer]:
+            - /url: /contract_comparison
+            - img "合同对比" [ref=f42e289]
+            - generic [ref=f42e290]:
+              - generic [ref=f42e291]: 合同对比
+              - generic [ref=f42e292]: 合同审核，智能高效！上传原版及新版合同，让合同对比工具自动扫描差异，精确定位每一个改动点。节省人工审核时间，防止遗漏关键条款变更，确保合同修改清晰透明。合同管理，从此简单。
+            - generic [ref=f42e293]: 腾讯电子签
+          - link "图片转PDF 图片转PDF 图片转PDF专为将多张图片合并转换为PDF文件而设计，无论您是需要将照片、扫描的文档、截图等图片格式（如JPG、PNG等）转换为一个PDF文件，这款工具都能快速高效地完成任务。" [ref=f42e294] [cursor=pointer]:
+            - /url: /img_2_pdf_convert
+            - img "图片转PDF" [ref=f42e295]
+            - generic [ref=f42e296]:
+              - generic [ref=f42e297]: 图片转PDF
+              - generic [ref=f42e298]: 图片转PDF专为将多张图片合并转换为PDF文件而设计，无论您是需要将照片、扫描的文档、截图等图片格式（如JPG、PNG等）转换为一个PDF文件，这款工具都能快速高效地完成任务。
+          - link "PPT转PDF PPT转PDF PPT转PDF是一款在线工具，能够快速将PowerPoint演示文稿（PPT或PPTX格式）转换为PDF文件，确保格式和布局一致，方便分享和打印。" [ref=f42e299] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ppt_2_pdf.html
+            - img "PPT转PDF" [ref=f42e300]
+            - generic [ref=f42e301]:
+              - generic [ref=f42e302]: PPT转PDF
+              - generic [ref=f42e303]: PPT转PDF是一款在线工具，能够快速将PowerPoint演示文稿（PPT或PPTX格式）转换为PDF文件，确保格式和布局一致，方便分享和打印。
+          - link "搜狗PDF文件搜索 搜狗PDF文件搜索 搜狗PDF文件搜索是一款强大的在线工具，专为帮助用户在互联网上快速搜索和定位特定的PDF文件。通过利用搜狗搜索引擎的强大功能，这款工具能够高效地在海量网页中找到包含您所需内容的PDF文件，极大地提高了信息检索的效率。 new" [ref=f42e304] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/pdf_search.html
+            - img "搜狗PDF文件搜索" [ref=f42e305]
+            - generic [ref=f42e306]:
+              - generic [ref=f42e307]: 搜狗PDF文件搜索
+              - generic [ref=f42e308]: 搜狗PDF文件搜索是一款强大的在线工具，专为帮助用户在互联网上快速搜索和定位特定的PDF文件。通过利用搜狗搜索引擎的强大功能，这款工具能够高效地在海量网页中找到包含您所需内容的PDF文件，极大地提高了信息检索的效率。
+            - generic [ref=f42e309]: new
+          - link "PDF拆分 PDF拆分 PDF拆分是一款便捷的在线工具，专为从PDF文件中提取指定页面并生成新的PDF文件而设计。无论您是需要分离特定章节、提取重要页面，这款工具都能快速高效地完成任务，帮助您更好地管理和使用PDF文件。 hot" [ref=f42e310] [cursor=pointer]:
+            - /url: /pdf_split
+            - img "PDF拆分" [ref=f42e311]
+            - generic [ref=f42e312]:
+              - generic [ref=f42e313]: PDF拆分
+              - generic [ref=f42e314]: PDF拆分是一款便捷的在线工具，专为从PDF文件中提取指定页面并生成新的PDF文件而设计。无论您是需要分离特定章节、提取重要页面，这款工具都能快速高效地完成任务，帮助您更好地管理和使用PDF文件。
+            - generic [ref=f42e315]: hot
+          - link "PDF合并 PDF合并 从若干PDF中选择指定页面组成新的PDF hot" [ref=f42e316] [cursor=pointer]:
+            - /url: /pdf_merge
+            - img "PDF合并" [ref=f42e317]
+            - generic [ref=f42e318]:
+              - generic [ref=f42e319]: PDF合并
+              - generic [ref=f42e320]: 从若干PDF中选择指定页面组成新的PDF
+            - generic [ref=f42e321]: hot
+          - link "转纯图PDF 转纯图PDF 把PDF转为纯图版，防止复制篡改" [ref=f42e322] [cursor=pointer]:
+            - /url: /pdf_imagefy
+            - img "转纯图PDF" [ref=f42e323]
+            - generic [ref=f42e324]:
+              - generic [ref=f42e325]: 转纯图PDF
+              - generic [ref=f42e326]: 把PDF转为纯图版，防止复制篡改
+          - link "PDF页面管理 PDF页面管理 PDF页面管理是一款多功能的在线工具，专为管理和编辑PDF文件中的页面而设计。通过这款工具，您可以轻松添加、删除、旋转PDF页面，并调整页面顺序，从而优化和定制您的PDF文档。 hot" [ref=f42e327] [cursor=pointer]:
+            - /url: /pdf_page_manage
+            - img "PDF页面管理" [ref=f42e328]
+            - generic [ref=f42e329]:
+              - generic [ref=f42e330]: PDF页面管理
+              - generic [ref=f42e331]: PDF页面管理是一款多功能的在线工具，专为管理和编辑PDF文件中的页面而设计。通过这款工具，您可以轻松添加、删除、旋转PDF页面，并调整页面顺序，从而优化和定制您的PDF文档。
+            - generic [ref=f42e332]: hot
+          - link "PDF图片提取 PDF图片提取 PDF图片提取是一款专为从PDF文件中提取图片而设计的在线工具。无论您是需要获取PDF文档中的插图、照片、图表或其他图像内容，这款工具都能快速高效地完成任务，帮助您轻松提取并保存所需的图片资源。" [ref=f42e333] [cursor=pointer]:
+            - /url: /pdf_img_extract
+            - img "PDF图片提取" [ref=f42e334]
+            - generic [ref=f42e335]:
+              - generic [ref=f42e336]: PDF图片提取
+              - generic [ref=f42e337]: PDF图片提取是一款专为从PDF文件中提取图片而设计的在线工具。无论您是需要获取PDF文档中的插图、照片、图表或其他图像内容，这款工具都能快速高效地完成任务，帮助您轻松提取并保存所需的图片资源。
+          - link "PDF加解密 PDF加解密 PDF加解密是一款功能强大的在线工具，专为为PDF文件添加或移除密码保护而设计。" [ref=f42e338] [cursor=pointer]:
+            - /url: /pdf_password
+            - img "PDF加解密" [ref=f42e339]
+            - generic [ref=f42e340]:
+              - generic [ref=f42e341]: PDF加解密
+              - generic [ref=f42e342]: PDF加解密是一款功能强大的在线工具，专为为PDF文件添加或移除密码保护而设计。
+          - link "PDF页面裁剪 PDF页面裁剪 PDF页面裁剪是一款实用的在线工具，专为对PDF文件的页面进行裁剪而设计。通过这款工具，您可以自定义裁剪区域，对PDF的所有页面进行统一裁剪，适用于去除页面白边、调整页面内容区域等需求。 new" [ref=f42e343] [cursor=pointer]:
+            - /url: /pdf_crop
+            - img "PDF页面裁剪" [ref=f42e344]
+            - generic [ref=f42e345]:
+              - generic [ref=f42e346]: PDF页面裁剪
+              - generic [ref=f42e347]: PDF页面裁剪是一款实用的在线工具，专为对PDF文件的页面进行裁剪而设计。通过这款工具，您可以自定义裁剪区域，对PDF的所有页面进行统一裁剪，适用于去除页面白边、调整页面内容区域等需求。
+            - generic [ref=f42e348]: new
+          - link "修改PDF元数据 修改PDF元数据 通过这款工具，您可以轻松修改PDF文件的作者、主题、关键词、内容创作者等信息。无论是为了整理文档、提高搜索效率，还是为了保护隐私，修改PDF元数据工具都能满足您的需求。 new" [ref=f42e349] [cursor=pointer]:
+            - /url: /pdf_metadata
+            - img "修改PDF元数据" [ref=f42e350]
+            - generic [ref=f42e351]:
+              - generic [ref=f42e352]: 修改PDF元数据
+              - generic [ref=f42e353]: 通过这款工具，您可以轻松修改PDF文件的作者、主题、关键词、内容创作者等信息。无论是为了整理文档、提高搜索效率，还是为了保护隐私，修改PDF元数据工具都能满足您的需求。
+            - generic [ref=f42e354]: new
+          - link "字帖生成 字帖生成 字帖生成是一款在线工具，专为生成个性化字帖而设计。通过这款工具，您可以选择不同的模板、年级，快速生成适合练习书写的字帖。 推荐" [ref=f42e355] [cursor=pointer]:
+            - /url: /zitie_new
+            - img "字帖生成" [ref=f42e356]
+            - generic [ref=f42e357]:
+              - generic [ref=f42e358]: 字帖生成
+              - generic [ref=f42e359]: 字帖生成是一款在线工具，专为生成个性化字帖而设计。通过这款工具，您可以选择不同的模板、年级，快速生成适合练习书写的字帖。
+            - generic [ref=f42e360]: 推荐
+          - link "Excel格式转换 Excel格式转换 Excel格式转换是一款多功能的在线工具，专为将Excel文件（XLS或XLSX格式）转换为其他常见文件格式而设计。 new" [ref=f42e361] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/excel_convert.html
+            - img "Excel格式转换" [ref=f42e362]
+            - generic [ref=f42e363]:
+              - generic [ref=f42e364]: Excel格式转换
+              - generic [ref=f42e365]: Excel格式转换是一款多功能的在线工具，专为将Excel文件（XLS或XLSX格式）转换为其他常见文件格式而设计。
+            - generic [ref=f42e366]: new
+          - link "图片转Excel 图片转Excel 图片转Excel工具通过先进的图像识别技术，自动识别图片中的表格内容，并将其转换为可编辑的Excel格式。 权益卡" [ref=f42e367] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/table_recognize.html
+            - img "图片转Excel" [ref=f42e368]
+            - generic [ref=f42e369]:
+              - generic [ref=f42e370]: 图片转Excel
+              - generic [ref=f42e371]: 图片转Excel工具通过先进的图像识别技术，自动识别图片中的表格内容，并将其转换为可编辑的Excel格式。
+            - generic [ref=f42e372]: 权益卡
+          - link "今天吃什么 今天吃什么 这是一款很不错做决定吃什么的工具，不用再为每天吃什么而烦恼了。让你实现快速、轻松的选餐过程，让你在日常生活中更加方便和快捷地选择健康优质的食物 hot" [ref=f42e373] [cursor=pointer]:
+            - /url: /whattoeat
+            - img "今天吃什么" [ref=f42e374]
+            - generic [ref=f42e375]:
+              - generic [ref=f42e376]: 今天吃什么
+              - generic [ref=f42e377]: 这是一款很不错做决定吃什么的工具，不用再为每天吃什么而烦恼了。让你实现快速、轻松的选餐过程，让你在日常生活中更加方便和快捷地选择健康优质的食物
+            - generic [ref=f42e378]: hot
+          - link "文本转语音 文本转语音 文本转语音是一款多功能、高效率的文本转换为语音的在线工具。它可以将各种类型的文本转换为高质量的语音，包括段落、文章、电子邮件等等。文本转语音占用资源少、转换速度快，并且转换一个大段落的文本到语音，非常适合新闻报道、电话客服、在线购物等领域使 hot" [ref=f42e379] [cursor=pointer]:
+            - /url: /tts
+            - img "文本转语音" [ref=f42e380]
+            - generic [ref=f42e381]:
+              - generic [ref=f42e382]: 文本转语音
+              - generic [ref=f42e383]: 文本转语音是一款多功能、高效率的文本转换为语音的在线工具。它可以将各种类型的文本转换为高质量的语音，包括段落、文章、电子邮件等等。文本转语音占用资源少、转换速度快，并且转换一个大段落的文本到语音，非常适合新闻报道、电话客服、在线购物等领域使
+            - generic [ref=f42e384]: hot
+          - link "提取文字 提取文字 这款产品是一款专业的照片提取文字软件，可以将任何类型的照片(包括证件照、风景照、人物照等)中的文本进行提取并保存到电脑中。它提供了多种提取模式和算法，可以准确识别照片中的文字。使得照片提取文字更加快捷、方便、灵活 权益卡" [ref=f42e385] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/ocr.html
+            - img "提取文字" [ref=f42e386]
+            - generic [ref=f42e387]:
+              - generic [ref=f42e388]: 提取文字
+              - generic [ref=f42e389]: 这款产品是一款专业的照片提取文字软件，可以将任何类型的照片(包括证件照、风景照、人物照等)中的文本进行提取并保存到电脑中。它提供了多种提取模式和算法，可以准确识别照片中的文字。使得照片提取文字更加快捷、方便、灵活
+            - generic [ref=f42e390]: 权益卡
+          - link "亲戚关系计算 亲戚关系计算 亲戚关系计算可以帮助用户快速计算两个或多个对象之间复杂的亲戚关系。亲戚关系计算操作简单易用，只需要打开工具，选择需要计算的亲戚关系，点击“计算”按钮即可得到准确的计算结果。方便用户根据实际情况进行灵活选择和使用。 hot" [ref=f42e391] [cursor=pointer]:
+            - /url: /relatives_name
+            - img "亲戚关系计算" [ref=f42e392]
+            - generic [ref=f42e393]:
+              - generic [ref=f42e394]: 亲戚关系计算
+              - generic [ref=f42e395]: 亲戚关系计算可以帮助用户快速计算两个或多个对象之间复杂的亲戚关系。亲戚关系计算操作简单易用，只需要打开工具，选择需要计算的亲戚关系，点击“计算”按钮即可得到准确的计算结果。方便用户根据实际情况进行灵活选择和使用。
+            - generic [ref=f42e396]: hot
+          - link "PDF加页码 PDF加页码 PDF加页码是一款便捷的在线工具，专为在PDF文件中添加页码而设计。通过这款工具，您可以轻松为PDF文件的每一页添加页码，提升文档的专业性和可读性。无论是用于报告、论文、电子书还是其他文档，PDF加页码工具都能满足您的需求。 new" [ref=f42e397] [cursor=pointer]:
+            - /url: /pdf_page_number
+            - img "PDF加页码" [ref=f42e398]
+            - generic [ref=f42e399]:
+              - generic [ref=f42e400]: PDF加页码
+              - generic [ref=f42e401]: PDF加页码是一款便捷的在线工具，专为在PDF文件中添加页码而设计。通过这款工具，您可以轻松为PDF文件的每一页添加页码，提升文档的专业性和可读性。无论是用于报告、论文、电子书还是其他文档，PDF加页码工具都能满足您的需求。
+            - generic [ref=f42e402]: new
+          - link "修改PDF页面尺寸 修改PDF页面尺寸 修改PDF页面的尺寸，如修改为A3、A4等，方便打印。 new" [ref=f42e403] [cursor=pointer]:
+            - /url: /pdf_pagesize
+            - img "修改PDF页面尺寸" [ref=f42e404]
+            - generic [ref=f42e405]:
+              - generic [ref=f42e406]: 修改PDF页面尺寸
+              - generic [ref=f42e407]: 修改PDF页面的尺寸，如修改为A3、A4等，方便打印。
+            - generic [ref=f42e408]: new
+          - link "高校查询 高校查询 高校查询可以快速找到中国境内知名大学的相关信息， 应用汇聚了全国各地的知名大学，包括清华大学、北京大学、南京大学、浙江大学、复旦大学、上海交通大学等等。能够帮助高考学生和家长们更好的选择学校。" [ref=f42e409] [cursor=pointer]:
+            - /url: /school
+            - img "高校查询" [ref=f42e410]
+            - generic [ref=f42e411]:
+              - generic [ref=f42e412]: 高校查询
+              - generic [ref=f42e413]: 高校查询可以快速找到中国境内知名大学的相关信息， 应用汇聚了全国各地的知名大学，包括清华大学、北京大学、南京大学、浙江大学、复旦大学、上海交通大学等等。能够帮助高考学生和家长们更好的选择学校。
+          - link "图片转字符画 图片转字符画 图片转字符画可以将任意图片转换为由字符组成的艺术作品，适用于社交媒体分享、个性化设计和编程项目等多种场景。字符画不仅独特，还能为您的作品增添创意和趣味。 hot" [ref=f42e414] [cursor=pointer]:
+            - /url: /img_2_text
+            - img "图片转字符画" [ref=f42e415]
+            - generic [ref=f42e416]:
+              - generic [ref=f42e417]: 图片转字符画
+              - generic [ref=f42e418]: 图片转字符画可以将任意图片转换为由字符组成的艺术作品，适用于社交媒体分享、个性化设计和编程项目等多种场景。字符画不仅独特，还能为您的作品增添创意和趣味。
+            - generic [ref=f42e419]: hot
+          - link "人脸性别转换 人脸性别转换 人脸性别转换是一款先进的在线工具，专为将人脸照片进行性别转换而设计。通过利用深度学习和图像处理技术，这款工具能够将照片中的人脸转换为另一性别的样貌，生成逼真的转换效果。无论是用于娱乐、创意设计，还是研究分析，人脸性别转换工具都能满足您的需求" [ref=f42e420] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/face_gender_transformation.html
+            - img "人脸性别转换" [ref=f42e421]
+            - generic [ref=f42e422]:
+              - generic [ref=f42e423]: 人脸性别转换
+              - generic [ref=f42e424]: 人脸性别转换是一款先进的在线工具，专为将人脸照片进行性别转换而设计。通过利用深度学习和图像处理技术，这款工具能够将照片中的人脸转换为另一性别的样貌，生成逼真的转换效果。无论是用于娱乐、创意设计，还是研究分析，人脸性别转换工具都能满足您的需求
+          - link "卡路里查询 卡路里查询 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。" [ref=f42e425] [cursor=pointer]:
+            - /url: /calories
+            - img "卡路里查询" [ref=f42e426]
+            - generic [ref=f42e427]:
+              - generic [ref=f42e428]: 卡路里查询
+              - generic [ref=f42e429]: 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。
+          - link "增加图片大小 增加图片大小 增加图片大小是一款实用的在线工具，专为放大和调整图片尺寸而设计。通过这款工具，您可以轻松放大图片的大小，同时尽量保持图片的清晰度和质量。无论是用于打印、设计项目，还是社交媒体发布，增加图片大小工具都能满足您的需求。" [ref=f42e430] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_enlarge.html
+            - img "增加图片大小" [ref=f42e431]
+            - generic [ref=f42e432]:
+              - generic [ref=f42e433]: 增加图片大小
+              - generic [ref=f42e434]: 增加图片大小是一款实用的在线工具，专为放大和调整图片尺寸而设计。通过这款工具，您可以轻松放大图片的大小，同时尽量保持图片的清晰度和质量。无论是用于打印、设计项目，还是社交媒体发布，增加图片大小工具都能满足您的需求。
+          - link "发票提取 发票提取 发票提取是一款高效的在线工具，从pdf或图片中提取发票信息并导出为excel。工具通过先进的光学字符识别（OCR）技术，这款工具能够自动识别并提取发票中的重要数据，如发票号码、日期、金额、供应商信息等，极大地提高了数据录入和管理的效率。 权益卡" [ref=f42e435] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/invoice_extract.html
+            - img "发票提取" [ref=f42e436]
+            - generic [ref=f42e437]:
+              - generic [ref=f42e438]: 发票提取
+              - generic [ref=f42e439]: 发票提取是一款高效的在线工具，从pdf或图片中提取发票信息并导出为excel。工具通过先进的光学字符识别（OCR）技术，这款工具能够自动识别并提取发票中的重要数据，如发票号码、日期、金额、供应商信息等，极大地提高了数据录入和管理的效率。
+            - generic [ref=f42e440]: 权益卡
+          - 'link "颜色转换 颜色转换 颜色代码转换工具可以帮助用户将多种颜色代码转换为Hex、RGB或HSL格式，例如： Hex格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) RGB格式的颜色代码转" [ref=f42e441] [cursor=pointer]':
+            - /url: /colortrans
+            - img "颜色转换" [ref=f42e442]
+            - generic [ref=f42e443]:
+              - generic [ref=f42e444]: 颜色转换
+              - generic [ref=f42e445]: "颜色代码转换工具可以帮助用户将多种颜色代码转换为Hex、RGB或HSL格式，例如： Hex格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) RGB格式的颜色代码转"
+          - link "图片日漫滤镜 图片日漫滤镜 图片日漫滤镜是一款有趣且实用的在线工具，专为将普通照片转换为具有日漫风格的图片而设计。通过这款工具，您可以轻松为照片添加日漫滤镜效果，使其呈现出独特的漫画风格。" [ref=f42e446] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_anime_filter.html
+            - img "图片日漫滤镜" [ref=f42e447]
+            - generic [ref=f42e448]:
+              - generic [ref=f42e449]: 图片日漫滤镜
+              - generic [ref=f42e450]: 图片日漫滤镜是一款有趣且实用的在线工具，专为将普通照片转换为具有日漫风格的图片而设计。通过这款工具，您可以轻松为照片添加日漫滤镜效果，使其呈现出独特的漫画风格。
+          - link "头像二次元 头像二次元 头像二次元是一款有趣的在线工具，专为将普通头像照片转换为二次元风格的图片而设计。通过先进的图像处理和风格转换技术，这款工具能够将您的头像照片转换为具有二次元动漫风格的图像，使其更加生动和个性化。" [ref=f42e451] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_face_anime.html
+            - img "头像二次元" [ref=f42e452]
+            - generic [ref=f42e453]:
+              - generic [ref=f42e454]: 头像二次元
+              - generic [ref=f42e455]: 头像二次元是一款有趣的在线工具，专为将普通头像照片转换为二次元风格的图片而设计。通过先进的图像处理和风格转换技术，这款工具能够将您的头像照片转换为具有二次元动漫风格的图像，使其更加生动和个性化。
+          - link "美化你的头像 美化你的头像 美化你的头像是一款功能强大的在线工具，通过这款工具，您可以选择喜欢的效果轻松对头像进行美化处理。" [ref=f42e456] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_module_face_stylize.html
+            - img "美化你的头像" [ref=f42e457]
+            - generic [ref=f42e458]:
+              - generic [ref=f42e459]: 美化你的头像
+              - generic [ref=f42e460]: 美化你的头像是一款功能强大的在线工具，通过这款工具，您可以选择喜欢的效果轻松对头像进行美化处理。
+          - link "油画滤镜 油画滤镜 油画滤镜专为将普通照片转换为油画风格的艺术作品而设计，通过这款工具，您可以轻松为照片添加油画滤镜效果，使其呈现出独特的油画质感和艺术氛围。" [ref=f42e461] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_painting_filter.html
+            - img "油画滤镜" [ref=f42e462]
+            - generic [ref=f42e463]:
+              - generic [ref=f42e464]: 油画滤镜
+              - generic [ref=f42e465]: 油画滤镜专为将普通照片转换为油画风格的艺术作品而设计，通过这款工具，您可以轻松为照片添加油画滤镜效果，使其呈现出独特的油画质感和艺术氛围。
+          - link "人像分割 人像分割 人像分割是一款先进的在线工具，专为从图片中自动分割出人像而设计。通过利用深度学习和图像处理技术，这款工具能够精确识别并分割出图片中的人像部分，生成透明背景的人像图像。无论是用于照片编辑、创意设计，还是其他专业用途，人像分割工具都能满足您的需" [ref=f42e466] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_human_split.html
+            - img "人像分割" [ref=f42e467]
+            - generic [ref=f42e468]:
+              - generic [ref=f42e469]: 人像分割
+              - generic [ref=f42e470]: 人像分割是一款先进的在线工具，专为从图片中自动分割出人像而设计。通过利用深度学习和图像处理技术，这款工具能够精确识别并分割出图片中的人像部分，生成透明背景的人像图像。无论是用于照片编辑、创意设计，还是其他专业用途，人像分割工具都能满足您的需
+          - link "照片美化 照片美化 这款产品是一款免费的图像修饰软件，可以帮助您修改和润色您的照片，这款图片美化工具不仅功能强大，而且操作简单，适合所有水平的用户。如果您想对照片进行简单的修改和提高质量，那么它是最好的选择。特色与优势：该产品简单易用，人人都能上手。使您在几分" [ref=f42e471] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_pic_beauty.html
+            - img "照片美化" [ref=f42e472]
+            - generic [ref=f42e473]:
+              - generic [ref=f42e474]: 照片美化
+              - generic [ref=f42e475]: 这款产品是一款免费的图像修饰软件，可以帮助您修改和润色您的照片，这款图片美化工具不仅功能强大，而且操作简单，适合所有水平的用户。如果您想对照片进行简单的修改和提高质量，那么它是最好的选择。特色与优势：该产品简单易用，人人都能上手。使您在几分
+          - link "文档图片扭曲恢复 文档图片扭曲恢复 文档图片扭曲恢复是一款专为修复和校正文档图片中扭曲或变形部分的在线工具。通过这款工具，您可以轻松恢复扫描文档、拍摄照片中的扭曲或变形区域，使其恢复到原始的平整状态。无论是用于学术资料、工作文档，还是个人记录，文档图片扭曲恢复工具都能满足您的" [ref=f42e476] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/doc_wrap.html
+            - img "文档图片扭曲恢复" [ref=f42e477]
+            - generic [ref=f42e478]:
+              - generic [ref=f42e479]: 文档图片扭曲恢复
+              - generic [ref=f42e480]: 文档图片扭曲恢复是一款专为修复和校正文档图片中扭曲或变形部分的在线工具。通过这款工具，您可以轻松恢复扫描文档、拍摄照片中的扭曲或变形区域，使其恢复到原始的平整状态。无论是用于学术资料、工作文档，还是个人记录，文档图片扭曲恢复工具都能满足您的
+          - link "图片修复 图片修复 图片修复工具是一款免费的图片处理工具，用户可以使用它快速修复老化和模糊的照片，使照片恢复到高清状态，满足用户对照片的高清述求" [ref=f42e481] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_fix.html
+            - img "图片修复" [ref=f42e482]
+            - generic [ref=f42e483]:
+              - generic [ref=f42e484]: 图片修复
+              - generic [ref=f42e485]: 图片修复工具是一款免费的图片处理工具，用户可以使用它快速修复老化和模糊的照片，使照片恢复到高清状态，满足用户对照片的高清述求
+          - link "图片去摩尔纹 图片去摩尔纹 图片去摩尔纹产品是一款在线免费的图片处理工具，这款图片在去除摩尔纹工具在出去摩尔纹的同时提高图像的质量。该产品的处理速度较快，且操作简单，适用于各种类型的照片" [ref=f42e486] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/image_enhance.html
+            - img "图片去摩尔纹" [ref=f42e487]
+            - generic [ref=f42e488]:
+              - generic [ref=f42e489]: 图片去摩尔纹
+              - generic [ref=f42e490]: 图片去摩尔纹产品是一款在线免费的图片处理工具，这款图片在去除摩尔纹工具在出去摩尔纹的同时提高图像的质量。该产品的处理速度较快，且操作简单，适用于各种类型的照片
+          - link "多人卡通画 多人卡通画 图片生成卡通画是一款图片处理工具，用户可以通过该软件将自己喜欢的图片添加到卡通风的人物中，从而创造出独特的卡通风人物形象。图片生成卡通画是一款非常好玩且实用的图像处理软件。对于想要创造独特而有趣的卡通风人物形象的的用户来说，照片生成通画是一" [ref=f42e491] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_ai_cartoon.html
+            - img "多人卡通画" [ref=f42e492]
+            - generic [ref=f42e493]:
+              - generic [ref=f42e494]: 多人卡通画
+              - generic [ref=f42e495]: 图片生成卡通画是一款图片处理工具，用户可以通过该软件将自己喜欢的图片添加到卡通风的人物中，从而创造出独特的卡通风人物形象。图片生成卡通画是一款非常好玩且实用的图像处理软件。对于想要创造独特而有趣的卡通风人物形象的的用户来说，照片生成通画是一
+          - link "童话脸 童话脸 童话脸是一款基于AI技术和图像处理的图像处理工具。童话脸可以帮助用户通过上传自己或其他人的照片，将其转换为童话故事中的经典角色形象，非常适合那些喜欢童话故事的玩家们。" [ref=f42e496] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_ai_face.html
+            - img "童话脸" [ref=f42e497]
+            - generic [ref=f42e498]:
+              - generic [ref=f42e499]: 童话脸
+              - generic [ref=f42e500]: 童话脸是一款基于AI技术和图像处理的图像处理工具。童话脸可以帮助用户通过上传自己或其他人的照片，将其转换为童话故事中的经典角色形象，非常适合那些喜欢童话故事的玩家们。
+          - link "乔丹风格化 乔丹风格化 乔丹风格化是一款创意十足的在线工具，专为将普通照片转换为具有迈克尔·乔丹风格的艺术作品而设计。通过这款工具，您可以将照片应用乔丹风格的滤镜和效果，使其呈现出独特的篮球文化和运动精神。无论是用于社交媒体分享、创意设计，还是个人收藏，乔丹风格化" [ref=f42e501] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_ai_jordanstyle.html
+            - img "乔丹风格化" [ref=f42e502]
+            - generic [ref=f42e503]:
+              - generic [ref=f42e504]: 乔丹风格化
+              - generic [ref=f42e505]: 乔丹风格化是一款创意十足的在线工具，专为将普通照片转换为具有迈克尔·乔丹风格的艺术作品而设计。通过这款工具，您可以将照片应用乔丹风格的滤镜和效果，使其呈现出独特的篮球文化和运动精神。无论是用于社交媒体分享、创意设计，还是个人收藏，乔丹风格化
+          - link "国漫水彩风 国漫水彩风 国漫水彩风专为将普通照片转换为具有中国漫画（国漫）水彩风格的艺术作品而设计。通过这款工具，您可以将照片应用国漫水彩风格的滤镜和效果，使其呈现出独特的东方美学和艺术氛围。" [ref=f42e506] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/img_ai_watercolor.html
+            - img "国漫水彩风" [ref=f42e507]
+            - generic [ref=f42e508]:
+              - generic [ref=f42e509]: 国漫水彩风
+              - generic [ref=f42e510]: 国漫水彩风专为将普通照片转换为具有中国漫画（国漫）水彩风格的艺术作品而设计。通过这款工具，您可以将照片应用国漫水彩风格的滤镜和效果，使其呈现出独特的东方美学和艺术氛围。
+          - link "头像挂饰 头像挂饰 您可以选择在自己的原有头像上增加心仪的挂饰或是DIY定制头像。同时也可以通过编辑头像来加上家族徽记或是写下节日问候的话语 new" [ref=f42e511] [cursor=pointer]:
+            - /url: /avatar_pendant
+            - img "头像挂饰" [ref=f42e512]
+            - generic [ref=f42e513]:
+              - generic [ref=f42e514]: 头像挂饰
+              - generic [ref=f42e515]: 您可以选择在自己的原有头像上增加心仪的挂饰或是DIY定制头像。同时也可以通过编辑头像来加上家族徽记或是写下节日问候的话语
+            - generic [ref=f42e516]: new
+          - link "字数计算 字数计算 字数计算专为快速计算文本中的字数、字符数、单词数和句子数而设计。无论您是需要统计文章的字数、检查字符限制，还是进行文本分析，这款工具都能帮助您高效完成任务。" [ref=f42e517] [cursor=pointer]:
+            - /url: /wordcount
+            - img "字数计算" [ref=f42e518]
+            - generic [ref=f42e519]:
+              - generic [ref=f42e520]: 字数计算
+              - generic [ref=f42e521]: 字数计算专为快速计算文本中的字数、字符数、单词数和句子数而设计。无论您是需要统计文章的字数、检查字符限制，还是进行文本分析，这款工具都能帮助您高效完成任务。
+          - link "英文创业公司/项目名生成 英文创业公司/项目名生成 英文创业公司/项目名生成是一款创意丰富的在线工具，专为帮助创业者和项目团队快速生成独特且有吸引力的英文公司或项目名称而设计。通过这款工具，您可以根据行业、关键词和风格偏好，生成多个符合您需求的名称选项，极大地提高了命名效率和创意灵感。" [ref=f42e522] [cursor=pointer]:
+            - /url: /startupname
+            - img "英文创业公司/项目名生成" [ref=f42e523]
+            - generic [ref=f42e524]:
+              - generic [ref=f42e525]: 英文创业公司/项目名生成
+              - generic [ref=f42e526]: 英文创业公司/项目名生成是一款创意丰富的在线工具，专为帮助创业者和项目团队快速生成独特且有吸引力的英文公司或项目名称而设计。通过这款工具，您可以根据行业、关键词和风格偏好，生成多个符合您需求的名称选项，极大地提高了命名效率和创意灵感。
+          - link "手持弹幕LED 手持弹幕LED 手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上，用于各种场合如演唱会、体育赛事、聚会等，增加互动性和趣味性。" [ref=f42e527] [cursor=pointer]:
+            - /url: /led
+            - img "手持弹幕LED" [ref=f42e528]
+            - generic [ref=f42e529]:
+              - generic [ref=f42e530]: 手持弹幕LED
+              - generic [ref=f42e531]: 手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上，用于各种场合如演唱会、体育赛事、聚会等，增加互动性和趣味性。
+          - link "JSON diff JSON diff JSON diff工具用于比较两个JSON对象之间的差异，这个工具可以用于比较配置文件的变化、版本控制等场景。使用该工具，您可以输入两个JSON对象，它会自动比较这两个对象，并生成一个描述它们之间差异的JSON对象。使用JSON diff工" [ref=f42e532] [cursor=pointer]:
+            - /url: /jsondiff
+            - img "JSON diff" [ref=f42e533]
+            - generic [ref=f42e534]:
+              - generic [ref=f42e535]: JSON diff
+              - generic [ref=f42e536]: JSON diff工具用于比较两个JSON对象之间的差异，这个工具可以用于比较配置文件的变化、版本控制等场景。使用该工具，您可以输入两个JSON对象，它会自动比较这两个对象，并生成一个描述它们之间差异的JSON对象。使用JSON diff工
+          - link "JSON校验 JSON校验 JSON检验是一款免费的、高效的Json检验工具，适合所有JavaScript开发人员使用，旨在通过实时监测和分析Json文件来诊断和排除潜在的JavaScript错误" [ref=f42e537] [cursor=pointer]:
+            - /url: /jsoncheck
+            - img "JSON校验" [ref=f42e538]
+            - generic [ref=f42e539]:
+              - generic [ref=f42e540]: JSON校验
+              - generic [ref=f42e541]: JSON检验是一款免费的、高效的Json检验工具，适合所有JavaScript开发人员使用，旨在通过实时监测和分析Json文件来诊断和排除潜在的JavaScript错误
+          - link "文本颜艺 文本颜艺 文本颜艺工具收录了大量的可爱颜文字，可以点击喜欢的颜文字进行复制。" [ref=f42e542] [cursor=pointer]:
+            - /url: /emoji
+            - img "文本颜艺" [ref=f42e543]
+            - generic [ref=f42e544]:
+              - generic [ref=f42e545]: 文本颜艺
+              - generic [ref=f42e546]: 文本颜艺工具收录了大量的可爱颜文字，可以点击喜欢的颜文字进行复制。
+          - link "古诗词取名 古诗词取名 古诗词取名在古诗词中提取灵感，为人名、公司名、项目名等进行命名而设计。您可以选择特定的古诗词，生成具有诗意和文化内涵的名字。" [ref=f42e547] [cursor=pointer]:
+            - /url: /makename
+            - img "古诗词取名" [ref=f42e548]
+            - generic [ref=f42e549]:
+              - generic [ref=f42e550]: 古诗词取名
+              - generic [ref=f42e551]: 古诗词取名在古诗词中提取灵感，为人名、公司名、项目名等进行命名而设计。您可以选择特定的古诗词，生成具有诗意和文化内涵的名字。
+          - link "车牌归属地 车牌归属地 车牌在线查询工具，它提供全国各地车牌的序号，用户可以根据车牌查询用具快速了解车牌号属于的省市。同时，应用程序界面简洁易用，操作相对方便，非常适合车主使用" [ref=f42e552] [cursor=pointer]:
+            - /url: /carnumber
+            - img "车牌归属地" [ref=f42e553]
+            - generic [ref=f42e554]:
+              - generic [ref=f42e555]: 车牌归属地
+              - generic [ref=f42e556]: 车牌在线查询工具，它提供全国各地车牌的序号，用户可以根据车牌查询用具快速了解车牌号属于的省市。同时，应用程序界面简洁易用，操作相对方便，非常适合车主使用
+          - link "电话区号查询 电话区号查询 电话区号查询工具，它提供了各地电话的序号，用户根据需要拨打的电话快速了解，所拨打的电话数据那个地区，同时，应用程序界面简洁易用，操作相对方便，非常适合手机用户使用" [ref=f42e557] [cursor=pointer]:
+            - /url: /phonenumber
+            - img "电话区号查询" [ref=f42e558]
+            - generic [ref=f42e559]:
+              - generic [ref=f42e560]: 电话区号查询
+              - generic [ref=f42e561]: 电话区号查询工具，它提供了各地电话的序号，用户根据需要拨打的电话快速了解，所拨打的电话数据那个地区，同时，应用程序界面简洁易用，操作相对方便，非常适合手机用户使用
+          - link "英文人名生成 英文人名生成 英文名生成可以帮助用户快速生成各种不同的英文名字，无论您是需要为小说角色、游戏角色、社交媒体账号，这款工具都能提供多种选项，满足您的需求。" [ref=f42e562] [cursor=pointer]:
+            - /url: /fakeword
+            - img "英文人名生成" [ref=f42e563]
+            - generic [ref=f42e564]:
+              - generic [ref=f42e565]: 英文人名生成
+              - generic [ref=f42e566]: 英文名生成可以帮助用户快速生成各种不同的英文名字，无论您是需要为小说角色、游戏角色、社交媒体账号，这款工具都能提供多种选项，满足您的需求。
+          - link "温度转换 温度转换 温度转换专为将不同温度单位之间进行转换而设计。通过这款工具，您可以轻松将温度从摄氏度（Celsius）、华氏度（Fahrenheit）和开尔文（Kelvin）等单位之间进行转换，满足各种科学研究、日常生活和工作需求。" [ref=f42e567] [cursor=pointer]:
+            - /url: /temperaturetrans
+            - img "温度转换" [ref=f42e568]
+            - generic [ref=f42e569]:
+              - generic [ref=f42e570]: 温度转换
+              - generic [ref=f42e571]: 温度转换专为将不同温度单位之间进行转换而设计。通过这款工具，您可以轻松将温度从摄氏度（Celsius）、华氏度（Fahrenheit）和开尔文（Kelvin）等单位之间进行转换，满足各种科学研究、日常生活和工作需求。
+          - link "投资收益计算 投资收益计算 通过这款工具，您可以轻松输入投资金额、投资期限、年化收益率等参数，快速计算出投资的总收益和年化收益率，帮助您更好地进行投资决策和财务规划。" [ref=f42e572] [cursor=pointer]:
+            - /url: /invest
+            - img "投资收益计算" [ref=f42e573]
+            - generic [ref=f42e574]:
+              - generic [ref=f42e575]: 投资收益计算
+              - generic [ref=f42e576]: 通过这款工具，您可以轻松输入投资金额、投资期限、年化收益率等参数，快速计算出投资的总收益和年化收益率，帮助您更好地进行投资决策和财务规划。
+          - link "血型遗传规律 血型遗传规律 血型遗传是一款专业的的血型遗传查询工具，可以为用户提供全面的血型遗传信息可以快速计算出后代血型，可以为您带来非常重要的参考和信息帮助" [ref=f42e577] [cursor=pointer]:
+            - /url: /bloodtype
+            - img "血型遗传规律" [ref=f42e578]
+            - generic [ref=f42e579]:
+              - generic [ref=f42e580]: 血型遗传规律
+              - generic [ref=f42e581]: 血型遗传是一款专业的的血型遗传查询工具，可以为用户提供全面的血型遗传信息可以快速计算出后代血型，可以为您带来非常重要的参考和信息帮助
+          - link "五险一金计算 五险一金计算 五险一金计算是一款实用的在线工具，专为帮助用户计算五险一金缴费金额而设计。通过这款工具，您可以根据税前月薪、社保基数、公积金基数、是否汇缴公积金、单位与个人汇缴比例等参数，快速计算出个人和单位需要缴纳的五险一金金额，帮助您更好地了解和管理个" [ref=f42e582] [cursor=pointer]:
+            - /url: /wuxianyijin
+            - img "五险一金计算" [ref=f42e583]
+            - generic [ref=f42e584]:
+              - generic [ref=f42e585]: 五险一金计算
+              - generic [ref=f42e586]: 五险一金计算是一款实用的在线工具，专为帮助用户计算五险一金缴费金额而设计。通过这款工具，您可以根据税前月薪、社保基数、公积金基数、是否汇缴公积金、单位与个人汇缴比例等参数，快速计算出个人和单位需要缴纳的五险一金金额，帮助您更好地了解和管理个
+          - link "md5加密 md5加密 MD5加密工具是一款安全高效的密码强度评估工具，可以方便地用于各种在线活动和应用程序中。它基于流行的 MD5 算法，是一款安全、可靠、易用的密码强度评估工具，可帮助用户有效地保护敏感信息和隐私。" [ref=f42e587] [cursor=pointer]:
+            - /url: /md5
+            - img "md5加密" [ref=f42e588]
+            - generic [ref=f42e589]:
+              - generic [ref=f42e590]: md5加密
+              - generic [ref=f42e591]: MD5加密工具是一款安全高效的密码强度评估工具，可以方便地用于各种在线活动和应用程序中。它基于流行的 MD5 算法，是一款安全、可靠、易用的密码强度评估工具，可帮助用户有效地保护敏感信息和隐私。
+          - link "进制转换 进制转换 进制转换是一款实用的在线工具，专为将数字在不同进制之间进行转换而设计。通过这款工具，您可以轻松将数字在二进制、八进制、十进制和十六进制等进制之间进行转换，满足各种编程、数学和工程需求。" [ref=f42e592] [cursor=pointer]:
+            - /url: /hexconvert
+            - img "进制转换" [ref=f42e593]
+            - generic [ref=f42e594]:
+              - generic [ref=f42e595]: 进制转换
+              - generic [ref=f42e596]: 进制转换是一款实用的在线工具，专为将数字在不同进制之间进行转换而设计。通过这款工具，您可以轻松将数字在二进制、八进制、十进制和十六进制等进制之间进行转换，满足各种编程、数学和工程需求。
+          - link "简体繁体转换 简体繁体转换 简体繁体转换是一款便捷的在线工具，专为将简体中文和繁体中文之间进行转换而设计。通过这款工具，您可以轻松将文本从简体中文转换为繁体中文，或从繁体中文转换为简体中文，满足各种语言处理、文档编辑和跨地区交流的需求。" [ref=f42e597] [cursor=pointer]:
+            - /url: /chinese
+            - img "简体繁体转换" [ref=f42e598]
+            - generic [ref=f42e599]:
+              - generic [ref=f42e600]: 简体繁体转换
+              - generic [ref=f42e601]: 简体繁体转换是一款便捷的在线工具，专为将简体中文和繁体中文之间进行转换而设计。通过这款工具，您可以轻松将文本从简体中文转换为繁体中文，或从繁体中文转换为简体中文，满足各种语言处理、文档编辑和跨地区交流的需求。
+          - link "房贷计算 房贷计算 房贷计算是一款实用的在线工具，专为帮助用户计算房屋贷款的月供、总利息和还款总额而设计。通过这款工具，您可以根据贷款金额、贷款期限、利率等参数，快速计算出每月需要偿还的金额，帮助您更好地进行财务规划和购房决策。" [ref=f42e602] [cursor=pointer]:
+            - /url: /mortgage
+            - img "房贷计算" [ref=f42e603]
+            - generic [ref=f42e604]:
+              - generic [ref=f42e605]: 房贷计算
+              - generic [ref=f42e606]: 房贷计算是一款实用的在线工具，专为帮助用户计算房屋贷款的月供、总利息和还款总额而设计。通过这款工具，您可以根据贷款金额、贷款期限、利率等参数，快速计算出每月需要偿还的金额，帮助您更好地进行财务规划和购房决策。
+          - link "Unicode编解码 Unicode编解码 Unicode编解码是一款实用的在线工具，专为将文本进行Unicode编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为Unicode编码形式，或将Unicode编码转换回普通文本，满足各种编程、数据处理和文本处理需求。" [ref=f42e607] [cursor=pointer]:
+            - /url: /unicode
+            - img "Unicode编解码" [ref=f42e608]
+            - generic [ref=f42e609]:
+              - generic [ref=f42e610]: Unicode编解码
+              - generic [ref=f42e611]: Unicode编解码是一款实用的在线工具，专为将文本进行Unicode编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为Unicode编码形式，或将Unicode编码转换回普通文本，满足各种编程、数据处理和文本处理需求。
+          - link "url编解码 url编解码 URL编解码是一款实用的在线工具，专为将URL（统一资源定位符）进行编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为URL编码形式，或将URL编码转换回普通文本，满足各种网页开发、数据传输和文本处理需求。" [ref=f42e612] [cursor=pointer]:
+            - /url: /urlencode
+            - img "url编解码" [ref=f42e613]
+            - generic [ref=f42e614]:
+              - generic [ref=f42e615]: url编解码
+              - generic [ref=f42e616]: URL编解码是一款实用的在线工具，专为将URL（统一资源定位符）进行编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为URL编码形式，或将URL编码转换回普通文本，满足各种网页开发、数据传输和文本处理需求。
+          - link "数字大小写转换 数字大小写转换 数字大写和小写是一款免费且开源的数字大小写转换工具。它提供了全面的字母表，允许您轻松地将任何数字转换为大写或小写。它可以将阿拉伯数字或罗马数字转换为大写或小写，从而使其在文档撰写、数据处理和图形制作等方面得到更广泛的应用。 数字大写和小写功" [ref=f42e617] [cursor=pointer]:
+            - /url: /num2zh
+            - img "数字大小写转换" [ref=f42e618]
+            - generic [ref=f42e619]:
+              - generic [ref=f42e620]: 数字大小写转换
+              - generic [ref=f42e621]: 数字大写和小写是一款免费且开源的数字大小写转换工具。它提供了全面的字母表，允许您轻松地将任何数字转换为大写或小写。它可以将阿拉伯数字或罗马数字转换为大写或小写，从而使其在文档撰写、数据处理和图形制作等方面得到更广泛的应用。 数字大写和小写功
+          - link "BMI计算 BMI计算 BMI是一种常用的健康指标，通过体重和身高的比例来评估一个人的体重是否在健康范围内。通过这款工具，您可以快速计算出您的BMI值，并了解您的体重状况，帮助您更好地进行健康管理。" [ref=f42e622] [cursor=pointer]:
+            - /url: /bmi
+            - img "BMI计算" [ref=f42e623]
+            - generic [ref=f42e624]:
+              - generic [ref=f42e625]: BMI计算
+              - generic [ref=f42e626]: BMI是一种常用的健康指标，通过体重和身高的比例来评估一个人的体重是否在健康范围内。通过这款工具，您可以快速计算出您的BMI值，并了解您的体重状况，帮助您更好地进行健康管理。
+          - link "IP归属地 IP归属地 IP归属地查询是一款免费的网络故障排除工具。它可以帮助用户快速查找互联网上的IP地址及其对应的地理位置。IP归属地查询是一款非常实用的网络故障排除工具，适合广大网民和网络管理员使用" [ref=f42e627] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/iplocation.html
+            - img "IP归属地" [ref=f42e628]
+            - generic [ref=f42e629]:
+              - generic [ref=f42e630]: IP归属地
+              - generic [ref=f42e631]: IP归属地查询是一款免费的网络故障排除工具。它可以帮助用户快速查找互联网上的IP地址及其对应的地理位置。IP归属地查询是一款非常实用的网络故障排除工具，适合广大网民和网络管理员使用
+          - link "文本比较 文本比较 文本比较是一款实用的在线工具，专为比较两个文本内容的差异而设计。通过这款工具，您可以轻松输入或上传两个文本，快速找出它们之间的不同之处，包括新增、删除和修改的部分，帮助您更好地进行文档校对、代码审查和内容对比。" [ref=f42e632] [cursor=pointer]:
+            - /url: /textdiff
+            - img "文本比较" [ref=f42e633]
+            - generic [ref=f42e634]:
+              - generic [ref=f42e635]: 文本比较
+              - generic [ref=f42e636]: 文本比较是一款实用的在线工具，专为比较两个文本内容的差异而设计。通过这款工具，您可以轻松输入或上传两个文本，快速找出它们之间的不同之处，包括新增、删除和修改的部分，帮助您更好地进行文档校对、代码审查和内容对比。
+          - link "JSON格式化 JSON格式化 JSON格式化是一款实用的在线工具，专为将JSON数据进行格式化和美化而设计。通过这款工具，您可以轻松将杂乱无章的JSON数据转换为结构清晰、易于阅读的格式，帮助您更好地进行数据分析、调试和开发工作。" [ref=f42e637] [cursor=pointer]:
+            - /url: /jsonbeautify
+            - img "JSON格式化" [ref=f42e638]
+            - generic [ref=f42e639]:
+              - generic [ref=f42e640]: JSON格式化
+              - generic [ref=f42e641]: JSON格式化是一款实用的在线工具，专为将JSON数据进行格式化和美化而设计。通过这款工具，您可以轻松将杂乱无章的JSON数据转换为结构清晰、易于阅读的格式，帮助您更好地进行数据分析、调试和开发工作。
+          - link "时间戳转换 时间戳转换 时间戳转换是一款实用的在线工具，专为将时间戳（Unix时间戳）转换为人类可读的日期时间格式，或将日期时间转换为时间戳而设计。通过这款工具，您可以轻松进行时间戳和日期时间之间的相互转换，满足各种编程、数据处理和时间管理需求。" [ref=f42e642] [cursor=pointer]:
+            - /url: /timestamp
+            - img "时间戳转换" [ref=f42e643]
+            - generic [ref=f42e644]:
+              - generic [ref=f42e645]: 时间戳转换
+              - generic [ref=f42e646]: 时间戳转换是一款实用的在线工具，专为将时间戳（Unix时间戳）转换为人类可读的日期时间格式，或将日期时间转换为时间戳而设计。通过这款工具，您可以轻松进行时间戳和日期时间之间的相互转换，满足各种编程、数据处理和时间管理需求。
+          - link "在线加解密 在线加解密 在线加解密是一款免费的、功能丰富的信息安全工具。 在线加解密基于最新的加密和解密技术研制而成，支持目前市场上大多数主流密码算法。可以自动生成哈希值和签名，确保了用户的隐私和安全。 在线加解密操作简单易用，只需打开应用程序，点击“开始加密”按" [ref=f42e647] [cursor=pointer]:
+            - /url: /crypto
+            - img "在线加解密" [ref=f42e648]
+            - generic [ref=f42e649]:
+              - generic [ref=f42e650]: 在线加解密
+              - generic [ref=f42e651]: 在线加解密是一款免费的、功能丰富的信息安全工具。 在线加解密基于最新的加密和解密技术研制而成，支持目前市场上大多数主流密码算法。可以自动生成哈希值和签名，确保了用户的隐私和安全。 在线加解密操作简单易用，只需打开应用程序，点击“开始加密”按
+          - link "GIF分解 GIF分解 GIF分解是一款实用的在线工具，专为将GIF动画分解为单帧图片而设计。通过这款工具，您可以轻松将一个GIF文件中的每一帧提取出来，保存为独立的图片文件，便于进一步编辑、分析或使用。无论是用于创意设计、动画制作，还是其他图像处理需求，GIF分" [ref=f42e652] [cursor=pointer]:
+            - /url: /gifsplitter
+            - img "GIF分解" [ref=f42e653]
+            - generic [ref=f42e654]:
+              - generic [ref=f42e655]: GIF分解
+              - generic [ref=f42e656]: GIF分解是一款实用的在线工具，专为将GIF动画分解为单帧图片而设计。通过这款工具，您可以轻松将一个GIF文件中的每一帧提取出来，保存为独立的图片文件，便于进一步编辑、分析或使用。无论是用于创意设计、动画制作，还是其他图像处理需求，GIF分
+          - link "URL解析 URL解析 URL解析是一款免费的在线域名处理工具，可以帮助您快速理解如何解析常见的URL格式，获取到域名请求方法，让你更快理解站点请求方式，无论您是新手还是专家都可以提高你的工作效率" [ref=f42e657] [cursor=pointer]:
+            - /url: /urlparse
+            - img "URL解析" [ref=f42e658]
+            - generic [ref=f42e659]:
+              - generic [ref=f42e660]: URL解析
+              - generic [ref=f42e661]: URL解析是一款免费的在线域名处理工具，可以帮助您快速理解如何解析常见的URL格式，获取到域名请求方法，让你更快理解站点请求方式，无论您是新手还是专家都可以提高你的工作效率
+          - link "历史朝代查询 历史朝代查询 历史朝代查询是一款教育性和实用性兼备的在线工具，专为帮助用户快速查询和了解各个历史朝代的相关信息而设计。通过这款工具，您可以轻松获取各个朝代的起止时间、重要事件、著名人物等信息，帮助您更好地学习和理解历史。" [ref=f42e662] [cursor=pointer]:
+            - /url: /dynasties
+            - img "历史朝代查询" [ref=f42e663]
+            - generic [ref=f42e664]:
+              - generic [ref=f42e665]: 历史朝代查询
+              - generic [ref=f42e666]: 历史朝代查询是一款教育性和实用性兼备的在线工具，专为帮助用户快速查询和了解各个历史朝代的相关信息而设计。通过这款工具，您可以轻松获取各个朝代的起止时间、重要事件、著名人物等信息，帮助您更好地学习和理解历史。
+          - link "各国首都 各国首都 各国首都查询是一款实用的在线工具，专为帮助用户快速查询世界各国首都而设计。通过这款工具，您可以轻松获取各个国家的首都信息，帮助您更好地了解世界地理知识，满足学习、工作和旅行等需求。" [ref=f42e667] [cursor=pointer]:
+            - /url: /capital
+            - img "各国首都" [ref=f42e668]
+            - generic [ref=f42e669]:
+              - generic [ref=f42e670]: 各国首都
+              - generic [ref=f42e671]: 各国首都查询是一款实用的在线工具，专为帮助用户快速查询世界各国首都而设计。通过这款工具，您可以轻松获取各个国家的首都信息，帮助您更好地了解世界地理知识，满足学习、工作和旅行等需求。
+          - link "日期计算 日期计算 日期计算是一款实用的在线工具，专为进行各种日期相关的计算而设计。通过这款工具，您可以轻松计算两个日期之间的天数、添加或减去特定天数、计算特定日期的星期几等，满足各种日常生活、工作和项目管理需求。" [ref=f42e672] [cursor=pointer]:
+            - /url: /datecal
+            - img "日期计算" [ref=f42e673]
+            - generic [ref=f42e674]:
+              - generic [ref=f42e675]: 日期计算
+              - generic [ref=f42e676]: 日期计算是一款实用的在线工具，专为进行各种日期相关的计算而设计。通过这款工具，您可以轻松计算两个日期之间的天数、添加或减去特定天数、计算特定日期的星期几等，满足各种日常生活、工作和项目管理需求。
+          - link "计算器 计算器 计算器是一款功能强大、实用的计算工具，适用于各种数学计算场景。该工具包含了多种数学函数、计算公式和各种数据类型，可以使用户轻松地进行乘除、开方、指数、三角函数运算等各种数学计算。 该软件还具有较好的性能和可靠性，能够满足长时间运行和多任务处" [ref=f42e677] [cursor=pointer]:
+            - /url: /calculator
+            - img "计算器" [ref=f42e678]
+            - generic [ref=f42e679]:
+              - generic [ref=f42e680]: 计算器
+              - generic [ref=f42e681]: 计算器是一款功能强大、实用的计算工具，适用于各种数学计算场景。该工具包含了多种数学函数、计算公式和各种数据类型，可以使用户轻松地进行乘除、开方、指数、三角函数运算等各种数学计算。 该软件还具有较好的性能和可靠性，能够满足长时间运行和多任务处
+          - link "随机密码生成 随机密码生成 随机密码生成专为生成强大且安全的随机密码而设计。通过这款工具，您可以根据指定的长度和字符类型，快速生成高强度的随机密码，帮助您保护账户安全，防止密码被破解。" [ref=f42e682] [cursor=pointer]:
+            - /url: /pwdgenerator
+            - img "随机密码生成" [ref=f42e683]
+            - generic [ref=f42e684]:
+              - generic [ref=f42e685]: 随机密码生成
+              - generic [ref=f42e686]: 随机密码生成专为生成强大且安全的随机密码而设计。通过这款工具，您可以根据指定的长度和字符类型，快速生成高强度的随机密码，帮助您保护账户安全，防止密码被破解。
+          - link "长度转换 长度转换 长度转换是一款功能强大、实用的换算工具，可以将数据进行长度进行换算，例如厘米、米、千米、公里等。非常适合学生、老师、小孩、工匠等对长度有重要需求的人群使用" [ref=f42e687] [cursor=pointer]:
+            - /url: /lengthconvert
+            - img "长度转换" [ref=f42e688]
+            - generic [ref=f42e689]:
+              - generic [ref=f42e690]: 长度转换
+              - generic [ref=f42e691]: 长度转换是一款功能强大、实用的换算工具，可以将数据进行长度进行换算，例如厘米、米、千米、公里等。非常适合学生、老师、小孩、工匠等对长度有重要需求的人群使用
+          - link "随机数生成 随机数生成 随机数生成是一款实用的在线工具，专为生成随机数而设计。通过这款工具，您可以根据指定的范围和数量，快速生成一组随机数，满足各种编程、统计分析、抽奖活动和日常需求。" [ref=f42e692] [cursor=pointer]:
+            - /url: /random
+            - img "随机数生成" [ref=f42e693]
+            - generic [ref=f42e694]:
+              - generic [ref=f42e695]: 随机数生成
+              - generic [ref=f42e696]: 随机数生成是一款实用的在线工具，专为生成随机数而设计。通过这款工具，您可以根据指定的范围和数量，快速生成一组随机数，满足各种编程、统计分析、抽奖活动和日常需求。
+          - link "base64编码 base64编码 Base64编码是一种常用的数据编码方式，能够将二进制数据转换为文本格式，便于在网络传输和数据存储中使用。通过这款工具，您可以轻松进行Base64编码和解码，满足各种编程、数据处理和网络传输需求。" [ref=f42e697] [cursor=pointer]:
+            - /url: /base64
+            - img "base64编码" [ref=f42e698]
+            - generic [ref=f42e699]:
+              - generic [ref=f42e700]: base64编码
+              - generic [ref=f42e701]: Base64编码是一种常用的数据编码方式，能够将二进制数据转换为文本格式，便于在网络传输和数据存储中使用。通过这款工具，您可以轻松进行Base64编码和解码，满足各种编程、数据处理和网络传输需求。
+          - link "二维码生成 二维码生成 二维码生成是一款实用的在线工具，专为将文本、URL、联系方式等信息生成二维码而设计。通过这款工具，您可以轻松创建包含各种信息的二维码，便于在社交媒体分享、名片制作、营销推广和日常生活中使用。" [ref=f42e702] [cursor=pointer]:
+            - /url: /qrcode
+            - img "二维码生成" [ref=f42e703]
+            - generic [ref=f42e704]:
+              - generic [ref=f42e705]: 二维码生成
+              - generic [ref=f42e706]: 二维码生成是一款实用的在线工具，专为将文本、URL、联系方式等信息生成二维码而设计。通过这款工具，您可以轻松创建包含各种信息的二维码，便于在社交媒体分享、名片制作、营销推广和日常生活中使用。
+          - link "视频转gif 视频转gif 视频转GIF是一款实用的在线工具，专为将视频文件转换为GIF动画而设计。通过这款工具，您可以轻松将视频中的精彩片段提取并转换为GIF格式，便于在社交媒体、聊天应用和其他平台上分享和使用。" [ref=f42e707] [cursor=pointer]:
+            - /url: /video_2_gif
+            - img "视频转gif" [ref=f42e708]
+            - generic [ref=f42e709]:
+              - generic [ref=f42e710]: 视频转gif
+              - generic [ref=f42e711]: 视频转GIF是一款实用的在线工具，专为将视频文件转换为GIF动画而设计。通过这款工具，您可以轻松将视频中的精彩片段提取并转换为GIF格式，便于在社交媒体、聊天应用和其他平台上分享和使用。
+          - link "markdown编辑器 markdown编辑器 Markdown编辑器是一款简单易用的文字处理和排版工具，旨在帮助用户快速创建专业、高效、优美的文档。它采用 Markdown 语法，能够有效提升文档的可读性和易用性，同时也具备良好的兼容性和扩展性。 可以使用Markdown编辑器直接输入" [ref=f42e712] [cursor=pointer]:
+            - /url: /markdown
+            - img "markdown编辑器" [ref=f42e713]
+            - generic [ref=f42e714]:
+              - generic [ref=f42e715]: markdown编辑器
+              - generic [ref=f42e716]: Markdown编辑器是一款简单易用的文字处理和排版工具，旨在帮助用户快速创建专业、高效、优美的文档。它采用 Markdown 语法，能够有效提升文档的可读性和易用性，同时也具备良好的兼容性和扩展性。 可以使用Markdown编辑器直接输入
+          - link "九宫格切图 九宫格切图 九宫格切图可以帮助您将一张图片切割成3x3的九个小图块，非常适合在社交媒体平台上进行拼图发布，创造独特的视觉效果和吸引力。" [ref=f42e717] [cursor=pointer]:
+            - /url: /img9grid
+            - img "九宫格切图" [ref=f42e718]
+            - generic [ref=f42e719]:
+              - generic [ref=f42e720]: 九宫格切图
+              - generic [ref=f42e721]: 九宫格切图可以帮助您将一张图片切割成3x3的九个小图块，非常适合在社交媒体平台上进行拼图发布，创造独特的视觉效果和吸引力。
+          - link "证件照生成 证件照生成 证件照生成工具帮助你快速生成高质量证件照。上传照片后一键纯前端抠图，支持更换背景色、按多种尺寸导出，并提供6寸排版打印。全程在浏览器本地完成，不上传任何照片。" [ref=f42e722] [cursor=pointer]:
+            - /url: /id_photo
+            - img "证件照生成" [ref=f42e723]
+            - generic [ref=f42e724]:
+              - generic [ref=f42e725]: 证件照生成
+              - generic [ref=f42e726]: 证件照生成工具帮助你快速生成高质量证件照。上传照片后一键纯前端抠图，支持更换背景色、按多种尺寸导出，并提供6寸排版打印。全程在浏览器本地完成，不上传任何照片。
+          - link "图片格式转换 图片格式转换 图片转换是一款在线图片转换工具，可以帮助用户将图片转换为jpg、png、webp、bmp格式，这款产品操作简单方便，支持多种转换方法和效果，同时也具备了良好的兼容性和可靠性，适用于各种设备。图片转换产品的操作流程很简单，只需要选择要转换的图" [ref=f42e727] [cursor=pointer]:
+            - /url: /imgconvert
+            - img "图片格式转换" [ref=f42e728]
+            - generic [ref=f42e729]:
+              - generic [ref=f42e730]: 图片格式转换
+              - generic [ref=f42e731]: 图片转换是一款在线图片转换工具，可以帮助用户将图片转换为jpg、png、webp、bmp格式，这款产品操作简单方便，支持多种转换方法和效果，同时也具备了良好的兼容性和可靠性，适用于各种设备。图片转换产品的操作流程很简单，只需要选择要转换的图
+          - link "GIF合成 GIF合成 GIF合成器是一款多媒体制作工具，可以帮助用户将图片通过简单的步骤合成为一张高质量的GIF图。GIF合成器拥有简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。" [ref=f42e732] [cursor=pointer]:
+            - /url: /gifcreate
+            - img "GIF合成" [ref=f42e733]
+            - generic [ref=f42e734]:
+              - generic [ref=f42e735]: GIF合成
+              - generic [ref=f42e736]: GIF合成器是一款多媒体制作工具，可以帮助用户将图片通过简单的步骤合成为一张高质量的GIF图。GIF合成器拥有简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。
+          - link "文字转拼音 文字转拼音 文字转拼音工具可以帮助您将中文文本转换为拼音，便于学习和理解汉字的发音。无论是用于语言学习、教学辅助，还是其他需要拼音标注的场景，这款工具都能满足您的需求，帮助您轻松将汉字转换为拼音。" [ref=f42e737] [cursor=pointer]:
+            - /url: /tta
+            - img "文字转拼音" [ref=f42e738]
+            - generic [ref=f42e739]:
+              - generic [ref=f42e740]: 文字转拼音
+              - generic [ref=f42e741]: 文字转拼音工具可以帮助您将中文文本转换为拼音，便于学习和理解汉字的发音。无论是用于语言学习、教学辅助，还是其他需要拼音标注的场景，这款工具都能满足您的需求，帮助您轻松将汉字转换为拼音。
+          - link "正则校验 正则校验 正则表达式是一款编程语言。它提供了大量的函数、规则，用于解决编程中的常见问题，该功能可以通过突出显示匹配项并将其合并为一个字符串的功能，帮助用户快速定位和修改代码" [ref=f42e742] [cursor=pointer]:
+            - /url: /regexp
+            - img "正则校验" [ref=f42e743]
+            - generic [ref=f42e744]:
+              - generic [ref=f42e745]: 正则校验
+              - generic [ref=f42e746]: 正则表达式是一款编程语言。它提供了大量的函数、规则，用于解决编程中的常见问题，该功能可以通过突出显示匹配项并将其合并为一个字符串的功能，帮助用户快速定位和修改代码
+          - link "二维码美化 二维码美化 二维码美化工具可以帮助您将普通的二维码进行美化处理，使其更加个性化和吸引人。通过这款工具，您可以添加颜色、图标和其他装饰元素，创建独特的二维码，便于在营销推广、社交媒体分享和品牌展示中使用。" [ref=f42e747] [cursor=pointer]:
+            - /url: /prettify_qrcode
+            - img "二维码美化" [ref=f42e748]
+            - generic [ref=f42e749]:
+              - generic [ref=f42e750]: 二维码美化
+              - generic [ref=f42e751]: 二维码美化工具可以帮助您将普通的二维码进行美化处理，使其更加个性化和吸引人。通过这款工具，您可以添加颜色、图标和其他装饰元素，创建独特的二维码，便于在营销推广、社交媒体分享和品牌展示中使用。
+          - link "二维码名片 二维码名片 二维码名片工具可以帮助您将个人或企业的名片信息生成二维码，便于快速分享和扫描。通过这款工具，您可以将姓名、职位、公司、联系方式等信息生成一个二维码，方便他人通过扫描二维码快速获取您的名片信息，提升交流效率和专业形象。" [ref=f42e752] [cursor=pointer]:
+            - /url: /visit_card
+            - img "二维码名片" [ref=f42e753]
+            - generic [ref=f42e754]:
+              - generic [ref=f42e755]: 二维码名片
+              - generic [ref=f42e756]: 二维码名片工具可以帮助您将个人或企业的名片信息生成二维码，便于快速分享和扫描。通过这款工具，您可以将姓名、职位、公司、联系方式等信息生成一个二维码，方便他人通过扫描二维码快速获取您的名片信息，提升交流效率和专业形象。
+          - link "快递查询 快递查询 快递查询是一款快递查询工具，为用户提供便捷的快递信息查询服务。它支持实时信息的查询，还可以按照发件人、收件人、快递公司等多种方式筛选快递信息。该功能可以查询当前最新的快递信息，包括发货时间、预计到达时间、运费等信息。用户可以在应用中设置自己" [ref=f42e757] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/kuaidi.html
+            - img "快递查询" [ref=f42e758]
+            - generic [ref=f42e759]:
+              - generic [ref=f42e760]: 快递查询
+              - generic [ref=f42e761]: 快递查询是一款快递查询工具，为用户提供便捷的快递信息查询服务。它支持实时信息的查询，还可以按照发件人、收件人、快递公司等多种方式筛选快递信息。该功能可以查询当前最新的快递信息，包括发货时间、预计到达时间、运费等信息。用户可以在应用中设置自己
+          - link "成语接龙 成语接龙 成语接龙工具可以帮助您进行成语接龙游戏，提升您的汉语词汇量和语言表达能力。通过这款工具，您可以输入一个成语，工具会自动生成下一个接龙成语，帮助您继续游戏，适用于学习、娱乐和语言训练等场景。" [ref=f42e762] [cursor=pointer]:
+            - /url: /jielong
+            - img "成语接龙" [ref=f42e763]
+            - generic [ref=f42e764]:
+              - generic [ref=f42e765]: 成语接龙
+              - generic [ref=f42e766]: 成语接龙工具可以帮助您进行成语接龙游戏，提升您的汉语词汇量和语言表达能力。通过这款工具，您可以输入一个成语，工具会自动生成下一个接龙成语，帮助您继续游戏，适用于学习、娱乐和语言训练等场景。
+          - link "医院推荐 医院推荐 医院推荐工具可以帮助您根据特定医疗需求，推荐合适的医院。通过这款工具，您可以快速找到相对应科室的优质医院，查看医院的详细信息和用户评价，便于您做出明智的医疗选择。" [ref=f42e767] [cursor=pointer]:
+            - /url: /hospitalrecommend
+            - img "医院推荐" [ref=f42e768]
+            - generic [ref=f42e769]:
+              - generic [ref=f42e770]: 医院推荐
+              - generic [ref=f42e771]: 医院推荐工具可以帮助您根据特定医疗需求，推荐合适的医院。通过这款工具，您可以快速找到相对应科室的优质医院，查看医院的详细信息和用户评价，便于您做出明智的医疗选择。
+          - link "便捷思维导图 便捷思维导图 便捷思维导图工具可以帮助您快速创建、编辑和分享思维导图，提升您的思维整理和信息管理能力。通过这款工具，您可以轻松将想法、计划和知识结构化地呈现出来，适用于学习、工作、项目管理和创意设计等多种场景。" [ref=f42e772] [cursor=pointer]:
+            - /url: /markmap
+            - img "便捷思维导图" [ref=f42e773]
+            - generic [ref=f42e774]:
+              - generic [ref=f42e775]: 便捷思维导图
+              - generic [ref=f42e776]: 便捷思维导图工具可以帮助您快速创建、编辑和分享思维导图，提升您的思维整理和信息管理能力。通过这款工具，您可以轻松将想法、计划和知识结构化地呈现出来，适用于学习、工作、项目管理和创意设计等多种场景。
+          - link "汉字标准发音 汉字标准发音 汉字标准发音工具可以帮助您学习和掌握汉字的标准发音。通过这款工具，您可以输入任意汉字或词语，工具会自动提供标准的拼音和发音，便于您进行语言学习、发音练习和教学辅助。" [ref=f42e777] [cursor=pointer]:
+            - /url: /hanzifayin
+            - img "汉字标准发音" [ref=f42e778]
+            - generic [ref=f42e779]:
+              - generic [ref=f42e780]: 汉字标准发音
+              - generic [ref=f42e781]: 汉字标准发音工具可以帮助您学习和掌握汉字的标准发音。通过这款工具，您可以输入任意汉字或词语，工具会自动提供标准的拼音和发音，便于您进行语言学习、发音练习和教学辅助。
+          - link "YAML/JSON互相转换 YAML/JSON互相转换 YAML/JSON互相转换是一款易于使用的在线工具，将YAML格式的文件转换为JSON格式，便于管理和传播，它可以轻松实现JSON与YAML数据转化，操作简单，适合对数据操作传播校验有需求的用户" [ref=f42e782] [cursor=pointer]:
+            - /url: /yaml_2_json
+            - img "YAML/JSON互相转换" [ref=f42e783]
+            - generic [ref=f42e784]:
+              - generic [ref=f42e785]: YAML/JSON互相转换
+              - generic [ref=f42e786]: YAML/JSON互相转换是一款易于使用的在线工具，将YAML格式的文件转换为JSON格式，便于管理和传播，它可以轻松实现JSON与YAML数据转化，操作简单，适合对数据操作传播校验有需求的用户
+          - link "图片黑白化 图片黑白化 通过这款工具，您可以轻松将图片中的颜色去除，生成具有经典黑白效果的图片，适用于艺术创作、照片编辑和其他图像处理需求。" [ref=f42e787] [cursor=pointer]:
+            - /url: /img_fade
+            - img "图片黑白化" [ref=f42e788]
+            - generic [ref=f42e789]:
+              - generic [ref=f42e790]: 图片黑白化
+              - generic [ref=f42e791]: 通过这款工具，您可以轻松将图片中的颜色去除，生成具有经典黑白效果的图片，适用于艺术创作、照片编辑和其他图像处理需求。
+          - link "元素周期表 元素周期表 元素周期表工具可以帮助您快速查阅和了解化学元素的详细信息，您可以轻松找到每个元素的原子序数、符号、名称、原子量、电子排布等信息，适用于学习、教学和科学研究等场景。" [ref=f42e792] [cursor=pointer]:
+            - /url: /periodic
+            - img "元素周期表" [ref=f42e793]
+            - generic [ref=f42e794]:
+              - generic [ref=f42e795]: 元素周期表
+              - generic [ref=f42e796]: 元素周期表工具可以帮助您快速查阅和了解化学元素的详细信息，您可以轻松找到每个元素的原子序数、符号、名称、原子量、电子排布等信息，适用于学习、教学和科学研究等场景。
+          - link "食物热量表 食物热量表 食物热量表工具可以帮助您快速查阅各种食物的热量和营养成分信息。通过这款工具，您可以轻松找到每种食物的热量、蛋白质、脂肪、碳水化合物等数据，帮助您更好地进行饮食管理和健康规划。" [ref=f42e797] [cursor=pointer]:
+            - /url: /calories_list
+            - img "食物热量表" [ref=f42e798]
+            - generic [ref=f42e799]:
+              - generic [ref=f42e800]: 食物热量表
+              - generic [ref=f42e801]: 食物热量表工具可以帮助您快速查阅各种食物的热量和营养成分信息。通过这款工具，您可以轻松找到每种食物的热量、蛋白质、脂肪、碳水化合物等数据，帮助您更好地进行饮食管理和健康规划。
+          - link "卡路里查询 卡路里查询 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。" [ref=f42e802] [cursor=pointer]:
+            - /url: /food_calories
+            - img "卡路里查询" [ref=f42e803]
+            - generic [ref=f42e804]:
+              - generic [ref=f42e805]: 卡路里查询
+              - generic [ref=f42e806]: 卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。
+          - link "火星文翻译器 火星文翻译器 火星文翻译器可以帮助您将普通文本转换为火星文，或将火星文转换回普通文本。火星文是一种网络流行的文字变形形式，通过这款工具，您可以轻松进行火星文的转换，增加文字的趣味性和个性化，适用于社交媒体、聊天和创意写作等场景。" [ref=f42e807] [cursor=pointer]:
+            - /url: /toMars
+            - img "火星文翻译器" [ref=f42e808]
+            - generic [ref=f42e809]:
+              - generic [ref=f42e810]: 火星文翻译器
+              - generic [ref=f42e811]: 火星文翻译器可以帮助您将普通文本转换为火星文，或将火星文转换回普通文本。火星文是一种网络流行的文字变形形式，通过这款工具，您可以轻松进行火星文的转换，增加文字的趣味性和个性化，适用于社交媒体、聊天和创意写作等场景。
+          - link "翻译 翻译 翻译工具可以帮助您将文本从一种语言翻译成另一种语言。通过这款工具，您可以轻松进行多语言翻译，满足学习、工作、旅行和日常交流等需求。翻译工具支持多种语言，提供准确和快速的翻译服务。" [ref=f42e812] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/translate.html
+            - img "翻译" [ref=f42e813]
+            - generic [ref=f42e814]:
+              - generic [ref=f42e815]: 翻译
+              - generic [ref=f42e816]: 翻译工具可以帮助您将文本从一种语言翻译成另一种语言。通过这款工具，您可以轻松进行多语言翻译，满足学习、工作、旅行和日常交流等需求。翻译工具支持多种语言，提供准确和快速的翻译服务。
+          - link "汉字偏旁 汉字偏旁 汉字偏旁工具可以帮助您查找和学习汉字的偏旁部首。通过这款工具，您可以输入汉字，快速获取该汉字的偏旁部首信息，了解其构造和意义，便于汉字学习和教学。" [ref=f42e817] [cursor=pointer]:
+            - /url: /radical
+            - img "汉字偏旁" [ref=f42e818]
+            - generic [ref=f42e819]:
+              - generic [ref=f42e820]: 汉字偏旁
+              - generic [ref=f42e821]: 汉字偏旁工具可以帮助您查找和学习汉字的偏旁部首。通过这款工具，您可以输入汉字，快速获取该汉字的偏旁部首信息，了解其构造和意义，便于汉字学习和教学。
+          - link "歇后语 歇后语 歇后语工具可以帮助您查找和学习各种歇后语。通过这款工具，您可以输入歇后语的前半部分或关键词，快速获取完整的歇后语及其解释，便于语言学习、文化了解和日常交流。" [ref=f42e822] [cursor=pointer]:
+            - /url: /allegory
+            - img "歇后语" [ref=f42e823]
+            - generic [ref=f42e824]:
+              - generic [ref=f42e825]: 歇后语
+              - generic [ref=f42e826]: 歇后语工具可以帮助您查找和学习各种歇后语。通过这款工具，您可以输入歇后语的前半部分或关键词，快速获取完整的歇后语及其解释，便于语言学习、文化了解和日常交流。
+          - link "词语注解 词语注解 词语注解工具可以帮助您查找和学习词语的详细解释和用法。通过这款工具，您可以输入任意词语，快速获取该词语的注解、拼音、词性、例句等信息，便于语言学习、写作和日常交流。" [ref=f42e827] [cursor=pointer]:
+            - /url: /explain
+            - img "词语注解" [ref=f42e828]
+            - generic [ref=f42e829]:
+              - generic [ref=f42e830]: 词语注解
+              - generic [ref=f42e831]: 词语注解工具可以帮助您查找和学习词语的详细解释和用法。通过这款工具，您可以输入任意词语，快速获取该词语的注解、拼音、词性、例句等信息，便于语言学习、写作和日常交流。
+          - link "世界时间校准 世界时间校准 世界时间校准工具可以帮助您查看和校准全球各地的当前时间。通过这款工具，您可以轻松获取不同国家和城市的准确时间，便于进行国际交流、旅行计划和跨时区工作安排。" [ref=f42e832] [cursor=pointer]:
+            - /url: /timer
+            - img "世界时间校准" [ref=f42e833]
+            - generic [ref=f42e834]:
+              - generic [ref=f42e835]: 世界时间校准
+              - generic [ref=f42e836]: 世界时间校准工具可以帮助您查看和校准全球各地的当前时间。通过这款工具，您可以轻松获取不同国家和城市的准确时间，便于进行国际交流、旅行计划和跨时区工作安排。
+          - link "成语大全 成语大全 成语大全查询是一款免费的中国传统文化知识工具，它收录了上亿个成语能够对成成语首字符快速查询， 成语大全查询是一款用心打造的成语故事查询工具，不仅满足了用户对成语的理解需求和娱乐需求，更成为了他们学习和生活中不可或缺的好帮手" [ref=f42e837] [cursor=pointer]:
+            - /url: /chengyujielong
+            - img "成语大全" [ref=f42e838]
+            - generic [ref=f42e839]:
+              - generic [ref=f42e840]: 成语大全
+              - generic [ref=f42e841]: 成语大全查询是一款免费的中国传统文化知识工具，它收录了上亿个成语能够对成成语首字符快速查询， 成语大全查询是一款用心打造的成语故事查询工具，不仅满足了用户对成语的理解需求和娱乐需求，更成为了他们学习和生活中不可或缺的好帮手
+          - link "随机网名 随机网名 随机网名生成是一款免费、在线的网名生成工具，它提供了当前最时尚、潮流的网名提供选择，简单易用、个性化程度高，可以为用户提供更多元、更有趣的网名选择，适合网络冲浪、网名更改的用户需求。" [ref=f42e842] [cursor=pointer]:
+            - /url: /nick
+            - img "随机网名" [ref=f42e843]
+            - generic [ref=f42e844]:
+              - generic [ref=f42e845]: 随机网名
+              - generic [ref=f42e846]: 随机网名生成是一款免费、在线的网名生成工具，它提供了当前最时尚、潮流的网名提供选择，简单易用、个性化程度高，可以为用户提供更多元、更有趣的网名选择，适合网络冲浪、网名更改的用户需求。
+          - link "快递信息提取 快递信息提取 快递信息提取是一款免费的快递信息提供工具，主要针对快递信息提取 例如：江西省成都市武侯区青江路15栋电话:15739223961 结果 省:江西省 市:成都市 县:武侯区 镇:武侯区 电话:15739223961" [ref=f42e847] [cursor=pointer]:
+            - /url: /number_acquisition
+            - img "快递信息提取" [ref=f42e848]
+            - generic [ref=f42e849]:
+              - generic [ref=f42e850]: 快递信息提取
+              - generic [ref=f42e851]: 快递信息提取是一款免费的快递信息提供工具，主要针对快递信息提取 例如：江西省成都市武侯区青江路15栋电话:15739223961 结果 省:江西省 市:成都市 县:武侯区 镇:武侯区 电话:15739223961
+          - link "字节数换算 字节数换算 字节数换算工具可以帮助您在不同的数据单位之间进行转换。通过这款工具，您可以轻松将字节（Byte）、千字节（KB）、兆字节（MB）、吉字节（GB）、太字节（TB）等单位进行相互换算，满足各种数据处理和存储需求。" [ref=f42e852] [cursor=pointer]:
+            - /url: /byte_cal
+            - img "字节数换算" [ref=f42e853]
+            - generic [ref=f42e854]:
+              - generic [ref=f42e855]: 字节数换算
+              - generic [ref=f42e856]: 字节数换算工具可以帮助您在不同的数据单位之间进行转换。通过这款工具，您可以轻松将字节（Byte）、千字节（KB）、兆字节（MB）、吉字节（GB）、太字节（TB）等单位进行相互换算，满足各种数据处理和存储需求。
+          - link "邮编查询 邮编查询 邮编查询工具是一款免费的邮政编码查询工具，可以帮助用户查询全国各地的邮政编码信息。当用户需要查询邮政编码信息时，只需要选择对应的省就可以获取对应的邮编编码，邮编查询工具是一款实用、高效的邮政编码查询工具，适合对快递、邮件寄送用户" [ref=f42e857] [cursor=pointer]:
+            - /url: /zipcode
+            - img "邮编查询" [ref=f42e858]
+            - generic [ref=f42e859]:
+              - generic [ref=f42e860]: 邮编查询
+              - generic [ref=f42e861]: 邮编查询工具是一款免费的邮政编码查询工具，可以帮助用户查询全国各地的邮政编码信息。当用户需要查询邮政编码信息时，只需要选择对应的省就可以获取对应的邮编编码，邮编查询工具是一款实用、高效的邮政编码查询工具，适合对快递、邮件寄送用户
+          - link "userAgent工具 userAgent工具 userAgent工具可以帮助您查看和分析浏览器的User-Agent字符串。通过这款工具，您可以轻松获取当前浏览器的User-Agent信息，了解浏览器类型、版本、操作系统等详细信息，便于进行网页开发、调试和兼容性测试。" [ref=f42e862] [cursor=pointer]:
+            - /url: /useragent
+            - img "userAgent工具" [ref=f42e863]
+            - generic [ref=f42e864]:
+              - generic [ref=f42e865]: userAgent工具
+              - generic [ref=f42e866]: userAgent工具可以帮助您查看和分析浏览器的User-Agent字符串。通过这款工具，您可以轻松获取当前浏览器的User-Agent信息，了解浏览器类型、版本、操作系统等详细信息，便于进行网页开发、调试和兼容性测试。
+          - link "保质期计算 保质期计算 保质期计算工具可以帮助您快速计算食品、药品或其他商品的保质期。通过这款工具，您可以输入生产日期和保质期天数，轻松计算出商品的到期日期，便于进行库存管理和消费计划。" [ref=f42e867] [cursor=pointer]:
+            - /url: /shelflife
+            - img "保质期计算" [ref=f42e868]
+            - generic [ref=f42e869]:
+              - generic [ref=f42e870]: 保质期计算
+              - generic [ref=f42e871]: 保质期计算工具可以帮助您快速计算食品、药品或其他商品的保质期。通过这款工具，您可以输入生产日期和保质期天数，轻松计算出商品的到期日期，便于进行库存管理和消费计划。
+          - link "取名字 取名字 取名字工具是一款免费的工具，可以用来给自己的朋友和家人取名字，用户可以选择自己想要的姓名组合，满足自己的特定需求。取名字工具是一款操作简单、功能丰富、个性化的名字选取工具，可以满足用户的不同需求" [ref=f42e872] [cursor=pointer]:
+            - /url: /naming
+            - img "取名字" [ref=f42e873]
+            - generic [ref=f42e874]:
+              - generic [ref=f42e875]: 取名字
+              - generic [ref=f42e876]: 取名字工具是一款免费的工具，可以用来给自己的朋友和家人取名字，用户可以选择自己想要的姓名组合，满足自己的特定需求。取名字工具是一款操作简单、功能丰富、个性化的名字选取工具，可以满足用户的不同需求
+          - link "文本去重 文本去重 文本去重工具可以帮助您快速去除文本中的重复内容。通过这款工具，您可以输入或粘贴文本，工具会自动识别并删除重复的行或段落，确保文本的唯一性和整洁性，适用于数据处理、文档编辑和内容管理等场景。" [ref=f42e877] [cursor=pointer]:
+            - /url: /unique
+            - img "文本去重" [ref=f42e878]
+            - generic [ref=f42e879]:
+              - generic [ref=f42e880]: 文本去重
+              - generic [ref=f42e881]: 文本去重工具可以帮助您快速去除文本中的重复内容。通过这款工具，您可以输入或粘贴文本，工具会自动识别并删除重复的行或段落，确保文本的唯一性和整洁性，适用于数据处理、文档编辑和内容管理等场景。
+          - link "图片像素化 图片像素化 图片像素化工具可以帮助您将图片进行像素化处理，生成具有独特视觉效果的像素风格图片。通过这款工具，您可以轻松创造出复古、艺术或游戏风格的效果，适用于创意设计、艺术创作和社交媒体分享等场景。" [ref=f42e882] [cursor=pointer]:
+            - /url: /img_pixel
+            - img "图片像素化" [ref=f42e883]
+            - generic [ref=f42e884]:
+              - generic [ref=f42e885]: 图片像素化
+              - generic [ref=f42e886]: 图片像素化工具可以帮助您将图片进行像素化处理，生成具有独特视觉效果的像素风格图片。通过这款工具，您可以轻松创造出复古、艺术或游戏风格的效果，适用于创意设计、艺术创作和社交媒体分享等场景。
+          - link "硬盘分区 硬盘分区 硬盘分区工具可以帮助您对硬盘进行分区管理，创建、调整、删除和格式化硬盘分区。通过这款工具，您可以优化硬盘空间的使用，便于数据存储和系统管理，适用于个人电脑和服务器的硬盘管理需求。" [ref=f42e887] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/partition.html
+            - img "硬盘分区" [ref=f42e888]
+            - generic [ref=f42e889]:
+              - generic [ref=f42e890]: 硬盘分区
+              - generic [ref=f42e891]: 硬盘分区工具可以帮助您对硬盘进行分区管理，创建、调整、删除和格式化硬盘分区。通过这款工具，您可以优化硬盘空间的使用，便于数据存储和系统管理，适用于个人电脑和服务器的硬盘管理需求。
+          - link "图片隐写 图片隐写 图片隐写工具可以帮助您将文本或文件隐藏在图片中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到图片中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。" [ref=f42e892] [cursor=pointer]:
+            - /url: /image_secret_msg
+            - img "图片隐写" [ref=f42e893]
+            - generic [ref=f42e894]:
+              - generic [ref=f42e895]: 图片隐写
+              - generic [ref=f42e896]: 图片隐写工具可以帮助您将文本或文件隐藏在图片中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到图片中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。
+          - link "开发语言输出hello world 开发语言输出hello world 开发语言输出Hello World工具可以帮助您快速生成多种编程语言的“Hello, World!”示例代码。通过这款工具，您可以轻松获取不同编程语言的基本语法，适用于编程学习、教学和参考等场景。" [ref=f42e897] [cursor=pointer]:
+            - /url: /compilation
+            - img "开发语言输出hello world" [ref=f42e898]
+            - generic [ref=f42e899]:
+              - generic [ref=f42e900]: 开发语言输出hello world
+              - generic [ref=f42e901]: 开发语言输出Hello World工具可以帮助您快速生成多种编程语言的“Hello, World!”示例代码。通过这款工具，您可以轻松获取不同编程语言的基本语法，适用于编程学习、教学和参考等场景。
+          - link "文字隐写 文字隐写 文字隐写工具可以帮助您将文本信息隐藏在其他文本中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到普通文本中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。" [ref=f42e902] [cursor=pointer]:
+            - /url: /text_secret_msg
+            - img "文字隐写" [ref=f42e903]
+            - generic [ref=f42e904]:
+              - generic [ref=f42e905]: 文字隐写
+              - generic [ref=f42e906]: 文字隐写工具可以帮助您将文本信息隐藏在其他文本中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到普通文本中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。
+          - link "uuid生成 uuid生成 UUID生成工具是一款免费的在线加密工具，这款工具采用了最先进的技术，提供了一种高效且安全的加密解决方案，可以帮助用户快速方便地生成自己独特的标识符，用于个人隐私和认证的目的。适合对有隐私要求的用户" [ref=f42e907] [cursor=pointer]:
+            - /url: /uuid
+            - img "uuid生成" [ref=f42e908]
+            - generic [ref=f42e909]:
+              - generic [ref=f42e910]: uuid生成
+              - generic [ref=f42e911]: UUID生成工具是一款免费的在线加密工具，这款工具采用了最先进的技术，提供了一种高效且安全的加密解决方案，可以帮助用户快速方便地生成自己独特的标识符，用于个人隐私和认证的目的。适合对有隐私要求的用户
+          - link "图片加水印 图片加水印 图片加水印工具可以帮助您在图片上添加自定义的水印信息，保护您的版权或标识您的作品。通过这款工具，您可以轻松添加文本或图片水印，调整水印的位置、大小和透明度，适用于图片保护、品牌推广和版权声明等场景。" [ref=f42e912] [cursor=pointer]:
+            - /url: /watermark
+            - img "图片加水印" [ref=f42e913]
+            - generic [ref=f42e914]:
+              - generic [ref=f42e915]: 图片加水印
+              - generic [ref=f42e916]: 图片加水印工具可以帮助您在图片上添加自定义的水印信息，保护您的版权或标识您的作品。通过这款工具，您可以轻松添加文本或图片水印，调整水印的位置、大小和透明度，适用于图片保护、品牌推广和版权声明等场景。
+          - link "表情包制作 表情包制作 表情包制作是一款在线的表情包制作工具，可以帮助用户制作出各种可爱、有趣的图片表情包，该软件简单好用，比如用户可以直接上传录制的图片添加上文本来增加趣味性，非常适合在平时聊天冲浪使用 new" [ref=f42e917] [cursor=pointer]:
+            - /url: /biaoqing
+            - img "表情包制作" [ref=f42e918]
+            - generic [ref=f42e919]:
+              - generic [ref=f42e920]: 表情包制作
+              - generic [ref=f42e921]: 表情包制作是一款在线的表情包制作工具，可以帮助用户制作出各种可爱、有趣的图片表情包，该软件简单好用，比如用户可以直接上传录制的图片添加上文本来增加趣味性，非常适合在平时聊天冲浪使用
+            - generic [ref=f42e922]: new
+          - link "二维码扫描 二维码扫描 扫一扫，信息即达。二维码扫描工具，快速准确读取二维码内嵌的各类数据信息。支持链接、文本、名片等多种格式，无论是支付、分享还是连接，都能提供便捷的扫描体验。 new" [ref=f42e923] [cursor=pointer]:
+            - /url: /qrcode_scan
+            - img "二维码扫描" [ref=f42e924]
+            - generic [ref=f42e925]:
+              - generic [ref=f42e926]: 二维码扫描
+              - generic [ref=f42e927]: 扫一扫，信息即达。二维码扫描工具，快速准确读取二维码内嵌的各类数据信息。支持链接、文本、名片等多种格式，无论是支付、分享还是连接，都能提供便捷的扫描体验。
+            - generic [ref=f42e928]: new
+          - link "文档扫描 文档扫描 文档扫描工具可以帮助您将纸质文档或图片转换为数字化的电子文档。通过这款工具，您可以上传图片文件，轻松扫描文档并生成高质量的Word文件，适用于文档存档、分享和管理等场景。 权益卡" [ref=f42e929] [cursor=pointer]:
+            - /url: https://tool.browser.qq.com/word_scan.html
+            - img "文档扫描" [ref=f42e930]
+            - generic [ref=f42e931]:
+              - generic [ref=f42e932]: 文档扫描
+              - generic [ref=f42e933]: 文档扫描工具可以帮助您将纸质文档或图片转换为数字化的电子文档。通过这款工具，您可以上传图片文件，轻松扫描文档并生成高质量的Word文件，适用于文档存档、分享和管理等场景。
+            - generic [ref=f42e934]: 权益卡
+      - generic [ref=f42e935]:
+        - paragraph [ref=f42e936]:
+          - generic [ref=f42e937]:
+            - link "关于我们" [ref=f42e938] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f42e939]:
+            - link "广告服务" [ref=f42e940] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f42e941]:
+            - link "联系我们" [ref=f42e942] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - generic [ref=f42e943]:
+            - link "网站提交" [ref=f42e944] [cursor=pointer]:
+              - /url: "#"
+            - text: "|"
+          - link "意见反馈" [ref=f42e946] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E6%84%8F%E8%A7%81%E5%8F%8D%E9%A6%88
+        - paragraph [ref=f42e947]:
+          - text: © 2026 网址之家 www.bestsed.com · 广告合作：
+          - link "80246338@qq.com" [ref=f42e948] [cursor=pointer]:
+            - /url: mailto:80246338@qq.com?subject=%E7%BD%91%E5%9D%80%E4%B9%8B%E5%AE%B6-%E5%B9%BF%E5%91%8A%E5%90%88%E4%BD%9C
+  - button "Open Next.js Dev Tools" [ref=f42e954] [cursor=pointer]:
+    - generic [ref=f42e957]:
+      - text: Compiling
+      - generic [ref=f42e958]:
+        - generic [ref=f42e959]: .
+        - generic [ref=f42e960]: .
+        - generic [ref=f42e961]: .

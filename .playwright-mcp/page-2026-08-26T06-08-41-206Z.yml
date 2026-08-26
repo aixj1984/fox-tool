@@ -1,0 +1,187 @@
+- main [ref=f7e2]:
+  - generic [ref=f7e3]:
+    - generic [ref=f7e4]:
+      - link "帮小忙 腾讯QQ浏览器在线工具箱" [ref=f7e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f7e6]:
+          - generic [ref=f7e7]: 帮小忙
+          - generic [ref=f7e8]: 腾讯QQ浏览器在线工具箱
+      - list [ref=f7e10]:
+        - listitem [ref=f7e11]:
+          - link "全部" [ref=f7e12] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f7e15]:
+          - link "图片工具" [ref=f7e16] [cursor=pointer]:
+            - /url: /category/img
+        - listitem [ref=f7e19]:
+          - link "PDF转换工具" [ref=f7e20] [cursor=pointer]:
+            - /url: /category/pdf
+        - listitem [ref=f7e23]:
+          - link "数据换算工具" [ref=f7e24] [cursor=pointer]:
+            - /url: /category/data
+        - listitem [ref=f7e27]:
+          - link "生活娱乐工具" [ref=f7e28] [cursor=pointer]:
+            - /url: /category/life
+        - listitem [ref=f7e31]:
+          - link "教育工具" [ref=f7e32] [cursor=pointer]:
+            - /url: /category/education
+        - listitem [ref=f7e35]:
+          - link "文本工具" [ref=f7e36] [cursor=pointer]:
+            - /url: /category/text
+        - listitem [ref=f7e39]:
+          - link "文档转换工具" [ref=f7e40] [cursor=pointer]:
+            - /url: /category/doc
+        - listitem [ref=f7e43]:
+          - link "开发工具" [ref=f7e44] [cursor=pointer]:
+            - /url: /category/develop
+        - listitem [ref=f7e47]:
+          - link "视频工具" [ref=f7e48] [cursor=pointer]:
+            - /url: /category/video
+        - listitem [ref=f7e51]:
+          - link "浏览器插件" [ref=f7e52] [cursor=pointer]:
+            - /url: /category/pc_plugin
+    - generic [ref=f7e56]:
+      - link [ref=f7e58] [cursor=pointer]:
+        - /url: "javascript:window.scrollTo({ top: 0, behavior: 'smooth' })"
+      - link [ref=f7e61] [cursor=pointer]:
+        - /url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=G8GZ1XGfQoypNSFz79BNmF06xOkhKt5h&authKey=6wQcUEbSlL9sHcNv4gtr7jS9Mmz03wjxUAEsLTh4KhOSECC4EpBaMe2nEW%2BZJoas&noverify=0&group_code=459317399
+      - link "共建" [ref=f7e64] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?dev=1&url=tool.browser.qq.com/
+      - link "反馈" [ref=f7e67] [cursor=pointer]:
+        - /url: https://feedback.browser.qq.com/qbtool?url=tool.browser.qq.com/
+    - generic [ref=f7e69]:
+      - generic [ref=f7e73]:
+        - img "搜索按钮" [ref=f7e74]
+        - textbox [ref=f7e75]
+      - generic [ref=f7e77]:
+        - link "密码安全检测 密码安全检测 保护您的数字安全！只需输入密码，我们的密码安全检测工具即刻为您进行全面检测。快速评估密码强度，提供改进建议，确保您的账户防护坚不可摧。安全隐私，从强密码开始。 腾讯管家" [ref=f7e78] [cursor=pointer]:
+          - /url: /password_check.html
+          - img "密码安全检测" [ref=f7e79]
+          - generic [ref=f7e80]:
+            - generic [ref=f7e81]: 密码安全检测
+            - generic [ref=f7e82]: 保护您的数字安全！只需输入密码，我们的密码安全检测工具即刻为您进行全面检测。快速评估密码强度，提供改进建议，确保您的账户防护坚不可摧。安全隐私，从强密码开始。
+          - generic [ref=f7e83]: 腾讯管家
+        - link "文件安全检测 文件安全检测 文件防护，一扫即净！上传任意文件，我们的文件安全检测工具立即展开深度检测。快速识别潜在威胁，确保文件无病毒、无恶意软件，保障您的数据安全。信赖我们，让安全检测变得简单高效。 腾讯管家" [ref=f7e85] [cursor=pointer]:
+          - /url: /file_scan.html
+          - img "文件安全检测" [ref=f7e86]
+          - generic [ref=f7e87]:
+            - generic [ref=f7e88]: 文件安全检测
+            - generic [ref=f7e89]: 文件防护，一扫即净！上传任意文件，我们的文件安全检测工具立即展开深度检测。快速识别潜在威胁，确保文件无病毒、无恶意软件，保障您的数据安全。信赖我们，让安全检测变得简单高效。
+          - generic [ref=f7e90]: 腾讯管家
+        - link "手机安装包检测 手机安装包检测 手机软件，安全至上！上传您的手机安装包，让我们的检测工具为您提供全面的软件风险查询。从权限审查到行为分析，确保每个应用安全可靠，无隐患。安心安装，放心使用，我们守护您的数字生活。 腾讯管家" [ref=f7e92] [cursor=pointer]:
+          - /url: /app_inspector.html
+          - img "手机安装包检测" [ref=f7e93]
+          - generic [ref=f7e94]:
+            - generic [ref=f7e95]: 手机安装包检测
+            - generic [ref=f7e96]: 手机软件，安全至上！上传您的手机安装包，让我们的检测工具为您提供全面的软件风险查询。从权限审查到行为分析，确保每个应用安全可靠，无隐患。安心安装，放心使用，我们守护您的数字生活。
+          - generic [ref=f7e97]: 腾讯管家
+        - 'link "颜色转换 颜色转换 颜色代码转换工具可以帮助用户将多种颜色代码转换为Hex、RGB或HSL格式，例如： Hex格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) RGB格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) HSL格式的颜色代码转换工具： Fonts.fire({\"color\"： \"blue\", \"style\"： \"light yellow\"})" [ref=f7e99] [cursor=pointer]':
+          - /url: /colortrans.html
+          - img "颜色转换" [ref=f7e100]
+          - generic [ref=f7e101]:
+            - generic [ref=f7e102]: 颜色转换
+            - generic [ref=f7e103]: "颜色代码转换工具可以帮助用户将多种颜色代码转换为Hex、RGB或HSL格式，例如： Hex格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) RGB格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) HSL格式的颜色代码转换工具： Fonts.fire({\"color\"： \"blue\", \"style\"： \"light yellow\"})"
+        - link "JSON diff JSON diff JSON diff工具用于比较两个JSON对象之间的差异，这个工具可以用于比较配置文件的变化、版本控制等场景。使用该工具，您可以输入两个JSON对象，它会自动比较这两个对象，并生成一个描述它们之间差异的JSON对象。使用JSON diff工具很容易，您只需要输入两个JSON对象，即可获得它们之间的差异描述。这个工具支持任意大小和结构的JSON对象，并提供易于理解的输出以进行快速处理" [ref=f7e104] [cursor=pointer]:
+          - /url: /jsondiff.html
+          - img "JSON diff" [ref=f7e105]
+          - generic [ref=f7e106]:
+            - generic [ref=f7e107]: JSON diff
+            - generic [ref=f7e108]: JSON diff工具用于比较两个JSON对象之间的差异，这个工具可以用于比较配置文件的变化、版本控制等场景。使用该工具，您可以输入两个JSON对象，它会自动比较这两个对象，并生成一个描述它们之间差异的JSON对象。使用JSON diff工具很容易，您只需要输入两个JSON对象，即可获得它们之间的差异描述。这个工具支持任意大小和结构的JSON对象，并提供易于理解的输出以进行快速处理
+        - link "JSON校验 JSON校验 JSON检验是一款免费的、高效的Json检验工具，适合所有JavaScript开发人员使用，旨在通过实时监测和分析Json文件来诊断和排除潜在的JavaScript错误" [ref=f7e109] [cursor=pointer]:
+          - /url: /jsoncheck.html
+          - img "JSON校验" [ref=f7e110]
+          - generic [ref=f7e111]:
+            - generic [ref=f7e112]: JSON校验
+            - generic [ref=f7e113]: JSON检验是一款免费的、高效的Json检验工具，适合所有JavaScript开发人员使用，旨在通过实时监测和分析Json文件来诊断和排除潜在的JavaScript错误
+        - link "md5加密 md5加密 MD5加密工具是一款安全高效的密码强度评估工具，可以方便地用于各种在线活动和应用程序中。它基于流行的 MD5 算法，是一款安全、可靠、易用的密码强度评估工具，可帮助用户有效地保护敏感信息和隐私。" [ref=f7e114] [cursor=pointer]:
+          - /url: /md5.html
+          - img "md5加密" [ref=f7e115]
+          - generic [ref=f7e116]:
+            - generic [ref=f7e117]: md5加密
+            - generic [ref=f7e118]: MD5加密工具是一款安全高效的密码强度评估工具，可以方便地用于各种在线活动和应用程序中。它基于流行的 MD5 算法，是一款安全、可靠、易用的密码强度评估工具，可帮助用户有效地保护敏感信息和隐私。
+        - link "Unicode编解码 Unicode编解码 Unicode编解码是一款实用的在线工具，专为将文本进行Unicode编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为Unicode编码形式，或将Unicode编码转换回普通文本，满足各种编程、数据处理和文本处理需求。" [ref=f7e119] [cursor=pointer]:
+          - /url: /unicode.html
+          - img "Unicode编解码" [ref=f7e120]
+          - generic [ref=f7e121]:
+            - generic [ref=f7e122]: Unicode编解码
+            - generic [ref=f7e123]: Unicode编解码是一款实用的在线工具，专为将文本进行Unicode编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为Unicode编码形式，或将Unicode编码转换回普通文本，满足各种编程、数据处理和文本处理需求。
+        - link "url编解码 url编解码 URL编解码是一款实用的在线工具，专为将URL（统一资源定位符）进行编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为URL编码形式，或将URL编码转换回普通文本，满足各种网页开发、数据传输和文本处理需求。" [ref=f7e124] [cursor=pointer]:
+          - /url: /urlencode.html
+          - img "url编解码" [ref=f7e125]
+          - generic [ref=f7e126]:
+            - generic [ref=f7e127]: url编解码
+            - generic [ref=f7e128]: URL编解码是一款实用的在线工具，专为将URL（统一资源定位符）进行编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为URL编码形式，或将URL编码转换回普通文本，满足各种网页开发、数据传输和文本处理需求。
+        - link "JSON格式化 JSON格式化 JSON格式化是一款实用的在线工具，专为将JSON数据进行格式化和美化而设计。通过这款工具，您可以轻松将杂乱无章的JSON数据转换为结构清晰、易于阅读的格式，帮助您更好地进行数据分析、调试和开发工作。" [ref=f7e129] [cursor=pointer]:
+          - /url: /jsonbeautify.html
+          - img "JSON格式化" [ref=f7e130]
+          - generic [ref=f7e131]:
+            - generic [ref=f7e132]: JSON格式化
+            - generic [ref=f7e133]: JSON格式化是一款实用的在线工具，专为将JSON数据进行格式化和美化而设计。通过这款工具，您可以轻松将杂乱无章的JSON数据转换为结构清晰、易于阅读的格式，帮助您更好地进行数据分析、调试和开发工作。
+        - link "在线加解密 在线加解密 在线加解密是一款免费的、功能丰富的信息安全工具。 在线加解密基于最新的加密和解密技术研制而成，支持目前市场上大多数主流密码算法。可以自动生成哈希值和签名，确保了用户的隐私和安全。 在线加解密操作简单易用，只需打开应用程序，点击“开始加密”按钮即可完成加密操作；点击“开始解密”按钮即可完成解密操作。在线加解密是一款非常出色的信息安全工具，适合各类人群使用" [ref=f7e134] [cursor=pointer]:
+          - /url: /crypto.html
+          - img "在线加解密" [ref=f7e135]
+          - generic [ref=f7e136]:
+            - generic [ref=f7e137]: 在线加解密
+            - generic [ref=f7e138]: 在线加解密是一款免费的、功能丰富的信息安全工具。 在线加解密基于最新的加密和解密技术研制而成，支持目前市场上大多数主流密码算法。可以自动生成哈希值和签名，确保了用户的隐私和安全。 在线加解密操作简单易用，只需打开应用程序，点击“开始加密”按钮即可完成加密操作；点击“开始解密”按钮即可完成解密操作。在线加解密是一款非常出色的信息安全工具，适合各类人群使用
+        - link "URL解析 URL解析 URL解析是一款免费的在线域名处理工具，可以帮助您快速理解如何解析常见的URL格式，获取到域名请求方法，让你更快理解站点请求方式，无论您是新手还是专家都可以提高你的工作效率" [ref=f7e139] [cursor=pointer]:
+          - /url: /urlparse.html
+          - img "URL解析" [ref=f7e140]
+          - generic [ref=f7e141]:
+            - generic [ref=f7e142]: URL解析
+            - generic [ref=f7e143]: URL解析是一款免费的在线域名处理工具，可以帮助您快速理解如何解析常见的URL格式，获取到域名请求方法，让你更快理解站点请求方式，无论您是新手还是专家都可以提高你的工作效率
+        - link "随机密码生成 随机密码生成 随机密码生成专为生成强大且安全的随机密码而设计。通过这款工具，您可以根据指定的长度和字符类型，快速生成高强度的随机密码，帮助您保护账户安全，防止密码被破解。" [ref=f7e144] [cursor=pointer]:
+          - /url: /pwdgenerator.html
+          - img "随机密码生成" [ref=f7e145]
+          - generic [ref=f7e146]:
+            - generic [ref=f7e147]: 随机密码生成
+            - generic [ref=f7e148]: 随机密码生成专为生成强大且安全的随机密码而设计。通过这款工具，您可以根据指定的长度和字符类型，快速生成高强度的随机密码，帮助您保护账户安全，防止密码被破解。
+        - link "base64编码 base64编码 Base64编码是一种常用的数据编码方式，能够将二进制数据转换为文本格式，便于在网络传输和数据存储中使用。通过这款工具，您可以轻松进行Base64编码和解码，满足各种编程、数据处理和网络传输需求。" [ref=f7e149] [cursor=pointer]:
+          - /url: /base64.html
+          - img "base64编码" [ref=f7e150]
+          - generic [ref=f7e151]:
+            - generic [ref=f7e152]: base64编码
+            - generic [ref=f7e153]: Base64编码是一种常用的数据编码方式，能够将二进制数据转换为文本格式，便于在网络传输和数据存储中使用。通过这款工具，您可以轻松进行Base64编码和解码，满足各种编程、数据处理和网络传输需求。
+        - link "markdown编辑器 markdown编辑器 Markdown编辑器是一款简单易用的文字处理和排版工具，旨在帮助用户快速创建专业、高效、优美的文档。它采用 Markdown 语法，能够有效提升文档的可读性和易用性，同时也具备良好的兼容性和扩展性。 可以使用Markdown编辑器直接输入或粘贴文本、段落、标题等，从而创建一个完整的文档。 Markdown编辑器是一款非常出色的文字处理和排版工具，对于经常编写论文、报告、博客等的用户来说，是非常值得尝试的一款软件。" [ref=f7e154] [cursor=pointer]:
+          - /url: /markdown.html
+          - img "markdown编辑器" [ref=f7e155]
+          - generic [ref=f7e156]:
+            - generic [ref=f7e157]: markdown编辑器
+            - generic [ref=f7e158]: Markdown编辑器是一款简单易用的文字处理和排版工具，旨在帮助用户快速创建专业、高效、优美的文档。它采用 Markdown 语法，能够有效提升文档的可读性和易用性，同时也具备良好的兼容性和扩展性。 可以使用Markdown编辑器直接输入或粘贴文本、段落、标题等，从而创建一个完整的文档。 Markdown编辑器是一款非常出色的文字处理和排版工具，对于经常编写论文、报告、博客等的用户来说，是非常值得尝试的一款软件。
+        - link "正则校验 正则校验 正则表达式是一款编程语言。它提供了大量的函数、规则，用于解决编程中的常见问题，该功能可以通过突出显示匹配项并将其合并为一个字符串的功能，帮助用户快速定位和修改代码" [ref=f7e159] [cursor=pointer]:
+          - /url: /regexp.html
+          - img "正则校验" [ref=f7e160]
+          - generic [ref=f7e161]:
+            - generic [ref=f7e162]: 正则校验
+            - generic [ref=f7e163]: 正则表达式是一款编程语言。它提供了大量的函数、规则，用于解决编程中的常见问题，该功能可以通过突出显示匹配项并将其合并为一个字符串的功能，帮助用户快速定位和修改代码
+        - link "YAML/JSON互相转换 YAML/JSON互相转换 YAML/JSON互相转换是一款易于使用的在线工具，将YAML格式的文件转换为JSON格式，便于管理和传播，它可以轻松实现JSON与YAML数据转化，操作简单，适合对数据操作传播校验有需求的用户" [ref=f7e164] [cursor=pointer]:
+          - /url: /yaml_2_json.html
+          - img "YAML/JSON互相转换" [ref=f7e165]
+          - generic [ref=f7e166]:
+            - generic [ref=f7e167]: YAML/JSON互相转换
+            - generic [ref=f7e168]: YAML/JSON互相转换是一款易于使用的在线工具，将YAML格式的文件转换为JSON格式，便于管理和传播，它可以轻松实现JSON与YAML数据转化，操作简单，适合对数据操作传播校验有需求的用户
+        - link "userAgent工具 userAgent工具 userAgent工具可以帮助您查看和分析浏览器的User-Agent字符串。通过这款工具，您可以轻松获取当前浏览器的User-Agent信息，了解浏览器类型、版本、操作系统等详细信息，便于进行网页开发、调试和兼容性测试。" [ref=f7e169] [cursor=pointer]:
+          - /url: /useragent.html
+          - img "userAgent工具" [ref=f7e170]
+          - generic [ref=f7e171]:
+            - generic [ref=f7e172]: userAgent工具
+            - generic [ref=f7e173]: userAgent工具可以帮助您查看和分析浏览器的User-Agent字符串。通过这款工具，您可以轻松获取当前浏览器的User-Agent信息，了解浏览器类型、版本、操作系统等详细信息，便于进行网页开发、调试和兼容性测试。
+        - link "开发语言输出hello world 开发语言输出hello world 开发语言输出Hello World工具可以帮助您快速生成多种编程语言的“Hello, World!”示例代码。通过这款工具，您可以轻松获取不同编程语言的基本语法，适用于编程学习、教学和参考等场景。" [ref=f7e174] [cursor=pointer]:
+          - /url: /compilation.html
+          - img "开发语言输出hello world" [ref=f7e175]
+          - generic [ref=f7e176]:
+            - generic [ref=f7e177]: 开发语言输出hello world
+            - generic [ref=f7e178]: 开发语言输出Hello World工具可以帮助您快速生成多种编程语言的“Hello, World!”示例代码。通过这款工具，您可以轻松获取不同编程语言的基本语法，适用于编程学习、教学和参考等场景。
+        - link "uuid生成 uuid生成 UUID生成工具是一款免费的在线加密工具，这款工具采用了最先进的技术，提供了一种高效且安全的加密解决方案，可以帮助用户快速方便地生成自己独特的标识符，用于个人隐私和认证的目的。适合对有隐私要求的用户" [ref=f7e179] [cursor=pointer]:
+          - /url: /uuid.html
+          - img "uuid生成" [ref=f7e180]
+          - generic [ref=f7e181]:
+            - generic [ref=f7e182]: uuid生成
+            - generic [ref=f7e183]: UUID生成工具是一款免费的在线加密工具，这款工具采用了最先进的技术，提供了一种高效且安全的加密解决方案，可以帮助用户快速方便地生成自己独特的标识符，用于个人隐私和认证的目的。适合对有隐私要求的用户
+      - generic [ref=f7e191]:
+        - generic [ref=f7e192]: 轻松办公，工具助你一臂之力
+        - generic [ref=f7e193]:
+          - link "隐私政策" [ref=f7e194] [cursor=pointer]:
+            - /url: https://rule.tencent.com/rule/preview/10c4538f-a3b6-4292-803d-5c8498657b75
+          - link "数据处理规则及免责声明" [ref=f7e195] [cursor=pointer]:
+            - /url: https://static.res.qq.com/nav/qbtool/qbtool-license.html
+        - generic [ref=f7e196]: Copyright © 1998 - 2026 Tencent. All Rights Reserved.
