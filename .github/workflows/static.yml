@@ -14,9 +14,12 @@ permissions:
   pages: write
   id-token: write
 
+# Cancel any in-progress run when a new push arrives — this prevents stale
+# `github-pages` artifacts from piling up and confusing the deploy step
+# (deploy-pages fails if it finds more than one artifact named "github-pages").
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -47,6 +50,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
+          retention-days: 1
 
   deploy:
     needs: build
