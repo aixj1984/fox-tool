@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Image from "next/image";
 import {
   ToolPageShell,
   ToolCard,
@@ -326,10 +327,13 @@ export default function Page() {
                   "linear-gradient(272deg, #136CE9 4.27%, #1796F1 98.43%)",
               }}
             >
-              <img
+              <Image
                 src="/sites/tool-browser-qq-com/screen_record/record.png"
                 alt=""
+                width={35}
+                height={35}
                 className="h-[35px] w-[35px]"
+                unoptimized
               />
               <span>{state === "stopped" ? "重新录制" : "开始录制"}</span>
             </button>
@@ -436,10 +440,13 @@ export default function Page() {
           <div className="text-[26px] font-semibold text-[#333333]">操作指引</div>
           <div className="mt-[16px] flex gap-[20px]">
             <div className="flex-1 rounded-[10px] bg-white p-[12px]">
-              <img
+              <Image
                 src="/sites/tool-browser-qq-com/screen_record/tutorial1.png"
                 alt="操作指引示意图"
+                width={600}
+                height={400}
                 className="w-full rounded-[6px] object-contain"
+                unoptimized
               />
             </div>
             <div className="flex flex-1 flex-col gap-[12px]">
