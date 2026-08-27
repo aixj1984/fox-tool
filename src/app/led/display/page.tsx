@@ -3,16 +3,15 @@
 import { useEffect, useState } from "react";
 import { LedMarquee } from "@/components/led-marquee";
 import { decodeLedConfig, type LedConfig } from "@/lib/led-config";
-
-function readConfig(): LedConfig {
-  return decodeLedConfig(typeof window !== "undefined" ? window.location.search : "");
-}
+import { useLocationSearch } from "@/hooks/use-location-search";
 
 export default function LedDisplayPage() {
-  // Lazy init so SSR renders nothing and the client reads the URL on first paint.
-  const [config] = useState<LedConfig | null>(() =>
-    typeof window === "undefined" ? null : readConfig(),
-  );
+  // useLocationSearch is SSR-safe (returns "" during prerender) so the
+  // server and client render the same initial value — avoids hydration
+  // mismatch (React error #418). On the client it reads the real query
+  // string and decodeLedConfig produces the config.
+  const search = useLocationSearch();
+  const config: LedConfig = decodeLedConfig(search);
   const [playing, setPlaying] = useState(true);
   const [animKey, setAnimKey] = useState(0);
   const [isFullscreen, setIsFullscreen] = useState(false);
@@ -30,8 +29,6 @@ export default function LedDisplayPage() {
     const t = setTimeout(() => setShowControls(false), 3000);
     return () => clearTimeout(t);
   }, [showControls]);
-
-  if (!config) return null;
 
   const restart = () => setAnimKey((k) => k + 1);
   const toggleFullscreen = async () => {

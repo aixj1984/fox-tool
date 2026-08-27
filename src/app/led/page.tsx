@@ -13,6 +13,7 @@ import {
 import { LedMarquee } from "@/components/led-marquee";
 import { encodeLedConfig, type LedDirection } from "@/lib/led-config";
 import { basePath } from "@/lib/img-path";
+import { useLocationOrigin } from "@/hooks/use-location-origin";
 
 const DESCRIPTION =
   "手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上。";
@@ -38,10 +39,9 @@ export default function Page() {
   const marqueeKey = `${animKey}-${speed}-${direction}-${fontSize}-${text}`;
 
   // Build a shareable display URL that mirrors the current settings.
-  // Lazy-init reads window.location.origin on the client; on SSR it's "".
-  const [origin] = useState(() =>
-    typeof window !== "undefined" ? window.location.origin : "",
-  );
+  // useLocationOrigin is SSR-safe (returns "" during prerender) so the
+  // server and client first render the same value — avoids hydration mismatch.
+  const origin = useLocationOrigin();
   const displayUrl = origin
     ? `${origin}${basePath}/led/display?${encodeLedConfig({ text, color, bg, fontSize, speed, direction })}`
     : "";
