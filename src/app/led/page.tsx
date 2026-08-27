@@ -12,6 +12,7 @@ import {
 } from "@/components/sites/tool-browser-qq-com/shared/ToolPageShell";
 import { LedMarquee } from "@/components/led-marquee";
 import { encodeLedConfig, type LedDirection } from "@/lib/led-config";
+import { basePath } from "@/lib/img-path";
 
 const DESCRIPTION =
   "手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上。";
@@ -42,7 +43,7 @@ export default function Page() {
     typeof window !== "undefined" ? window.location.origin : "",
   );
   const displayUrl = origin
-    ? `${origin}/led/display?${encodeLedConfig({ text, color, bg, fontSize, speed, direction })}`
+    ? `${origin}${basePath}/led/display?${encodeLedConfig({ text, color, bg, fontSize, speed, direction })}`
     : "";
 
   const [qrUrl, setQrUrl] = useState("");
