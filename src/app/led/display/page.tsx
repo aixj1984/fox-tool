@@ -61,26 +61,26 @@ export default function LedDisplayPage() {
       {showControls && (
         <div
           onClick={(e) => e.stopPropagation()}
-          className="fixed bottom-[24px] left-1/2 flex -translate-x-1/2 items-center gap-[8px] rounded-[999px] bg-white/85 px-[12px] py-[8px] backdrop-blur"
+          className="fixed bottom-[24px] left-1/2 flex w-[calc(100vw-32px)] max-w-[420px] -translate-x-1/2 items-center gap-[8px] rounded-[999px] bg-white/85 px-[12px] py-[8px] backdrop-blur"
         >
           <button
             type="button"
             onClick={() => setPlaying((p) => !p)}
-            className="h-[36px] cursor-pointer rounded-[999px] bg-[#136CE9] px-[16px] text-[14px] font-medium text-white"
+            className="h-[36px] flex-1 cursor-pointer rounded-[999px] bg-[#136CE9] px-[12px] text-[14px] font-medium text-white whitespace-nowrap"
           >
             {playing ? "暂停" : "播放"}
           </button>
           <button
             type="button"
             onClick={restart}
-            className="h-[36px] cursor-pointer rounded-[999px] bg-[#F6F7FA] px-[16px] text-[14px] font-medium text-[#242424]"
+            className="h-[36px] flex-1 cursor-pointer rounded-[999px] bg-[#F6F7FA] px-[12px] text-[14px] font-medium text-[#242424] whitespace-nowrap"
           >
             重新开始
           </button>
           <button
             type="button"
             onClick={toggleFullscreen}
-            className="h-[36px] cursor-pointer rounded-[999px] bg-[#F6F7FA] px-[16px] text-[14px] font-medium text-[#242424]"
+            className="h-[36px] flex-1 cursor-pointer rounded-[999px] bg-[#F6F7FA] px-[12px] text-[14px] font-medium text-[#242424] whitespace-nowrap"
           >
             {isFullscreen ? "退出全屏" : "全屏"}
           </button>
