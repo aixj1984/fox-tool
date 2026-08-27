@@ -14,32 +14,156 @@ const DESCRIPTION =
 
 type DiffMode = "lines" | "words";
 
-function renderInline(parts: Change[]): React.ReactNode[] {
-  const nodes: React.ReactNode[] = [];
-  parts.forEach((part, i) => {
-    if (part.added) {
-      nodes.push(
-        <span
-          key={`a-${i}`}
-          className="rounded-[2px] bg-[#dcfce7] px-[2px] text-[#166534]"
-        >
-          {part.value}
-        </span>,
-      );
-    } else if (part.removed) {
-      nodes.push(
-        <span
-          key={`r-${i}`}
-          className="rounded-[2px] bg-[#fee2e2] px-[2px] text-[#991b1b] line-through"
-        >
-          {part.value}
-        </span>,
-      );
-    } else {
-      nodes.push(<span key={`k-${i}`}>{part.value}</span>);
+type CellKind = "equal" | "removed" | "added" | "empty";
+type WordPart = { text: string; kind: "equal" | "removed" | "added" };
+type Cell = {
+  kind: CellKind;
+  text: string;
+  lineNo: number | null;
+  wordParts?: WordPart[];
+};
+type DiffRow = { left: Cell; right: Cell };
+
+// Build side-by-side rows by first diffing line-by-line, then pairing
+// consecutive removed/added runs. In word mode, paired rows also carry
+// word-level highlights computed via diffWords on the two line texts.
+function buildRows(left: string, right: string, mode: DiffMode): DiffRow[] {
+  const lineChanges = diffLines(left, right);
+  type FlatLine = {
+    kind: "equal" | "removed" | "added";
+    text: string;
+    lineNo: number;
+  };
+  const flat: FlatLine[] = [];
+  let leftLineNo = 1;
+  let rightLineNo = 1;
+  for (const part of lineChanges) {
+    const segs = part.value.split(/\n/);
+    if (segs.length > 0 && segs[segs.length - 1] === "") segs.pop();
+    for (const seg of segs) {
+      if (part.added) {
+        flat.push({ kind: "added", text: seg, lineNo: rightLineNo });
+        rightLineNo += 1;
+      } else if (part.removed) {
+        flat.push({ kind: "removed", text: seg, lineNo: leftLineNo });
+        leftLineNo += 1;
+      } else {
+        flat.push({ kind: "equal", text: seg, lineNo: leftLineNo });
+        leftLineNo += 1;
+        rightLineNo += 1;
+      }
     }
-  });
-  return nodes;
+  }
+
+  const rows: DiffRow[] = [];
+  let i = 0;
+  while (i < flat.length) {
+    const line = flat[i];
+    if (line.kind === "equal") {
+      rows.push({
+        left: { kind: "equal", text: line.text, lineNo: line.lineNo },
+        right: { kind: "equal", text: line.text, lineNo: line.lineNo },
+      });
+      i += 1;
+      continue;
+    }
+    const removed: FlatLine[] = [];
+    const added: FlatLine[] = [];
+    while (i < flat.length && flat[i].kind !== "equal") {
+      if (flat[i].kind === "removed") removed.push(flat[i]);
+      else added.push(flat[i]);
+      i += 1;
+    }
+    const pairCount = Math.max(removed.length, added.length);
+    for (let k = 0; k < pairCount; k += 1) {
+      const r = removed[k] ?? null;
+      const a = added[k] ?? null;
+      const leftCell: Cell = r
+        ? { kind: "removed", text: r.text, lineNo: r.lineNo }
+        : { kind: "empty", text: "", lineNo: null };
+      const rightCell: Cell = a
+        ? { kind: "added", text: a.text, lineNo: a.lineNo }
+        : { kind: "empty", text: "", lineNo: null };
+
+      if (mode === "words" && r && a) {
+        const wd = diffWords(r.text, a.text);
+        leftCell.wordParts = wd
+          .filter((p) => !p.added)
+          .map((p) => ({
+            text: p.value,
+            kind: p.removed ? ("removed" as const) : ("equal" as const),
+          }));
+        rightCell.wordParts = wd
+          .filter((p) => !p.removed)
+          .map((p) => ({
+            text: p.value,
+            kind: p.added ? ("added" as const) : ("equal" as const),
+          }));
+      }
+
+      rows.push({ left: leftCell, right: rightCell });
+    }
+  }
+  return rows;
+}
+
+function renderCell(cell: Cell, side: "left" | "right") {
+  const isRemoved = cell.kind === "removed";
+  const isAdded = cell.kind === "added";
+  const isEmpty = cell.kind === "empty";
+  const marker = side === "left" ? "-" : "+";
+  const bg = isRemoved
+    ? "bg-[#fee2e2]/60"
+    : isAdded
+      ? "bg-[#dcfce7]/60"
+      : "";
+  const baseText = isRemoved
+    ? "text-[#991b1b]"
+    : isAdded
+      ? "text-[#166534]"
+      : isEmpty
+        ? "text-[#B0B0B0]"
+        : "text-[#242424]";
+  const markerContent = isEmpty
+    ? ""
+    : isRemoved || isAdded
+      ? marker
+      : cell.lineNo;
+
+  const content = cell.wordParts
+    ? cell.wordParts.map((p, idx) => {
+        if (p.kind === "removed") {
+          return (
+            <span key={idx} className="rounded-[2px] bg-[#fecaca] px-[2px]">
+              {p.text}
+            </span>
+          );
+        }
+        if (p.kind === "added") {
+          return (
+            <span key={idx} className="rounded-[2px] bg-[#bbf7d0] px-[2px]">
+              {p.text}
+            </span>
+          );
+        }
+        return <span key={idx}>{p.text}</span>;
+      })
+    : cell.text || (isEmpty ? "" : " ");
+
+  return (
+    <div className={`flex gap-[12px] px-[12px] ${bg}`}>
+      <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#B0B0B0]">
+        {markerContent}
+      </span>
+      <span
+        className={`whitespace-pre-wrap break-words ${baseText} ${
+          isRemoved && !cell.wordParts ? "line-through" : ""
+        }`}
+      >
+        {content}
+      </span>
+    </div>
+  );
 }
 
 export default function Page() {
@@ -62,74 +186,26 @@ export default function Page() {
     return { added, removed };
   }, [changes]);
 
-  // For inline rendering: split each change into lines for line mode so that
-  // added/removed line backgrounds look nice; for word mode, inline is fine.
+  const rows = useMemo(
+    () => (left || right ? buildRows(left, right, mode) : []),
+    [left, right, mode],
+  );
+
   const rendered = useMemo(() => {
-    if (mode === "words") {
-      return (
-        <div className="whitespace-pre-wrap break-words font-mono text-[14px] leading-[22px]">
-          {renderInline(changes)}
+    if (rows.length === 0) return null;
+    return (
+      <div className="font-mono text-[14px] leading-[22px]">
+        <div className="grid grid-cols-2 gap-x-[2px] gap-y-0">
+          {rows.map((row, idx) => (
+            <div key={idx} className="contents">
+              {renderCell(row.left, "left")}
+              {renderCell(row.right, "right")}
+            </div>
+          ))}
         </div>
-      );
-    }
-    // line mode: render line by line, coloring whole lines.
-    const lines: React.ReactNode[] = [];
-    let lineNo = 1;
-    for (const part of changes) {
-      const segments = part.value.split(/\n/);
-      // When value contains internal newlines, split returns extra empty string
-      // at the end; handle by joining with explicit <br/> rendering.
-      for (let i = 0; i < segments.length; i++) {
-        const seg = segments[i];
-        const isLast = i === segments.length - 1;
-        if (part.added) {
-          lines.push(
-            <div
-              key={lines.length}
-              className="flex gap-[12px] bg-[#dcfce7]/60 px-[12px]"
-            >
-              <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#166534]/70">
-                +
-              </span>
-              <span className="whitespace-pre-wrap break-words text-[#166534]">
-                {seg}
-              </span>
-            </div>,
-          );
-        } else if (part.removed) {
-          lines.push(
-            <div
-              key={lines.length}
-              className="flex gap-[12px] bg-[#fee2e2]/60 px-[12px]"
-            >
-              <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#991b1b]/70">
-                -
-              </span>
-              <span className="whitespace-pre-wrap break-words text-[#991b1b] line-through">
-                {seg}
-              </span>
-            </div>,
-          );
-        } else {
-          lines.push(
-            <div key={lines.length} className="flex gap-[12px] px-[12px]">
-              <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#B0B0B0]">
-                {lineNo}
-              </span>
-              <span className="whitespace-pre-wrap break-words text-[#242424]">
-                {seg}
-              </span>
-            </div>,
-          );
-          lineNo += 1;
-        }
-        if (!isLast) {
-          // newline boundary: nothing to render (lines are block-level)
-        }
-      }
-    }
-    return <div className="font-mono text-[14px] leading-[22px]">{lines}</div>;
-  }, [changes, mode]);
+      </div>
+    );
+  }, [rows]);
 
   return (
     <ToolPageShell title="文本比较" description={DESCRIPTION}>
@@ -183,7 +259,7 @@ export default function Page() {
         <ToolCard>
           <ToolLabel>差异结果</ToolLabel>
           <div className="min-h-[120px] rounded-[8px] border border-[#F6F7FA] bg-[#FAFBFC] p-[12px]">
-            {changes.length === 0 ? (
+            {rows.length === 0 ? (
               <p className="text-[13px] text-[#8F8F8F]">
                 在上方输入两段文本，差异将在此实时显示。
               </p>

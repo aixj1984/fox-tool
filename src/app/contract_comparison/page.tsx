@@ -9,12 +9,10 @@ import {
   ToolTextarea,
   ToolLabel,
 } from "@/components/sites/tool-browser-qq-com/shared/ToolPageShell";
+import { loadPdfjs } from "@/app/_pdf_lib/pdfClient";
 
 const DESCRIPTION =
   "合同审核，智能高效！上传原版及新版合同，让合同对比工具自动扫描差异，精确定位每一个改动点。节省人工审核时间，防止遗漏关键条款变更，确保合同修改清晰透明。合同管理，从此简单。";
-
-const PDFJS_VERSION = "5";
-const WORKER_SRC = `https://cdn.jsdelivr.net/npm/pdfjs-dist@${PDFJS_VERSION}/build/pdf.worker.min.mjs`;
 
 type Mode = "pdf" | "text";
 type LoadState = { status: "idle" } | { status: "loading"; name: string } | { status: "done"; text: string } | { status: "error"; message: string };
@@ -22,8 +20,7 @@ type LoadState = { status: "idle" } | { status: "loading"; name: string } | { st
 // Extract text from a PDF File using pdfjs-dist. Dynamic import keeps the
 // (heavy) worker lib out of the initial bundle and only loads it in browser.
 async function extractPdfText(file: File): Promise<string> {
-  const pdfjs = await import("pdfjs-dist/legacy/build/pdf.mjs");
-  pdfjs.GlobalWorkerOptions.workerSrc = WORKER_SRC;
+  const pdfjs = await loadPdfjs();
   const data = await file.arrayBuffer();
   const doc = await pdfjs.getDocument({ data }).promise;
   const parts: string[] = [];
@@ -125,44 +122,122 @@ export default function Page() {
     return { added, removed };
   })();
 
+  type RowKind = "equal" | "removed" | "added" | "empty";
+  type DiffRow = {
+    left: { kind: RowKind; text: string; lineNo: number | null };
+    right: { kind: RowKind; text: string; lineNo: number | null };
+  };
+
   const rendered = (() => {
     if (!diff) return null;
-    const lines: React.ReactNode[] = [];
-    let lineNo = 1;
+
+    // Flatten changes into individual lines, keeping their kind and the
+    // running line number for the unchanged parts.
+    type FlatLine = { kind: "equal" | "removed" | "added"; text: string; lineNo: number | null };
+    const flat: FlatLine[] = [];
+    let leftLineNo = 1;
+    let rightLineNo = 1;
     for (const part of diff) {
       const segments = part.value.split(/\n/);
-      for (let i = 0; i < segments.length; i++) {
-        const seg = segments[i];
-        const isLast = i === segments.length - 1;
+      // diff library always appends a trailing "" after the final newline,
+      // which represents the newline boundary rather than a real line — drop it.
+      if (segments.length > 0 && segments[segments.length - 1] === "") {
+        segments.pop();
+      }
+      for (const seg of segments) {
         if (part.added) {
-          lines.push(
-            <div key={lines.length} className="flex gap-[12px] bg-[#dcfce7]/60 px-[12px]">
-              <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#166534]/70">+</span>
-              <span className="whitespace-pre-wrap break-words text-[#166534]">{seg}</span>
-            </div>,
-          );
+          flat.push({ kind: "added", text: seg, lineNo: rightLineNo });
+          rightLineNo += 1;
         } else if (part.removed) {
-          lines.push(
-            <div key={lines.length} className="flex gap-[12px] bg-[#fee2e2]/60 px-[12px]">
-              <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#991b1b]/70">-</span>
-              <span className="whitespace-pre-wrap break-words text-[#991b1b] line-through">{seg}</span>
-            </div>,
-          );
+          flat.push({ kind: "removed", text: seg, lineNo: leftLineNo });
+          leftLineNo += 1;
         } else {
-          lines.push(
-            <div key={lines.length} className="flex gap-[12px] px-[12px]">
-              <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#B0B0B0]">{lineNo}</span>
-              <span className="whitespace-pre-wrap break-words text-[#242424]">{seg}</span>
-            </div>,
-          );
-          lineNo += 1;
-        }
-        if (!isLast) {
-          // newline boundary — block layout handles it
+          flat.push({ kind: "equal", text: seg, lineNo: leftLineNo });
+          leftLineNo += 1;
+          rightLineNo += 1;
         }
       }
     }
-    return <div className="font-mono text-[14px] leading-[22px]">{lines}</div>;
+
+    // Pair up consecutive removed/added lines into side-by-side rows. When
+    // counts differ, the shorter side is padded with empty cells so the
+    // adjacent additions/removals stay visually aligned.
+    const rows: DiffRow[] = [];
+    let i = 0;
+    while (i < flat.length) {
+      const line = flat[i];
+      if (line.kind === "equal") {
+        rows.push({
+          left: { kind: "equal", text: line.text, lineNo: line.lineNo },
+          right: { kind: "equal", text: line.text, lineNo: line.lineNo },
+        });
+        i += 1;
+        continue;
+      }
+      // Collect a run of removed/added lines until we hit an equal line.
+      const removed: FlatLine[] = [];
+      const added: FlatLine[] = [];
+      while (i < flat.length && flat[i].kind !== "equal") {
+        if (flat[i].kind === "removed") removed.push(flat[i]);
+        else added.push(flat[i]);
+        i += 1;
+      }
+      const pairCount = Math.max(removed.length, added.length);
+      for (let k = 0; k < pairCount; k += 1) {
+        const r = removed[k] ?? null;
+        const a = added[k] ?? null;
+        rows.push({
+          left: r
+            ? { kind: "removed", text: r.text, lineNo: r.lineNo }
+            : { kind: "empty", text: "", lineNo: null },
+          right: a
+            ? { kind: "added", text: a.text, lineNo: a.lineNo }
+            : { kind: "empty", text: "", lineNo: null },
+        });
+      }
+    }
+
+    const renderCell = (cell: { kind: RowKind; text: string; lineNo: number | null }, side: "left" | "right") => {
+      const isRemoved = cell.kind === "removed";
+      const isAdded = cell.kind === "added";
+      const isEmpty = cell.kind === "empty";
+      const marker = side === "left" ? "-" : "+";
+      const bg = isRemoved
+        ? "bg-[#fee2e2]/60"
+        : isAdded
+          ? "bg-[#dcfce7]/60"
+          : "";
+      const text = isRemoved
+        ? "text-[#991b1b]"
+        : isAdded
+          ? "text-[#166534]"
+          : isEmpty
+            ? "text-[#B0B0B0]"
+            : "text-[#242424]";
+      return (
+        <div className={`flex gap-[12px] px-[12px] ${bg}`}>
+          <span className="w-[40px] shrink-0 select-none text-right text-[12px] text-[#B0B0B0]">
+            {isEmpty ? "" : marker}
+          </span>
+          <span className={`whitespace-pre-wrap break-words ${text} ${isRemoved ? "line-through" : ""}`}>
+            {cell.text || (isEmpty ? "" : " ")}
+          </span>
+        </div>
+      );
+    };
+
+    return (
+      <div className="font-mono text-[14px] leading-[22px]">
+        <div className="grid grid-cols-2 gap-x-[2px] gap-y-0">
+          {rows.map((row, idx) => (
+            <div key={idx} className="contents">
+              {renderCell(row.left, "left")}
+              {renderCell(row.right, "right")}
+            </div>
+          ))}
+        </div>
+      </div>
+    );
   })();
 
   return (
