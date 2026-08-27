@@ -114,6 +114,7 @@ export default function Page() {
                 value={card.address}
                 onChange={update("address")}
                 placeholder="街道地址"
+                className="w-full"
               />
             </div>
           </div>

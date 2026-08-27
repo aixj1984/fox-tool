@@ -125,11 +125,9 @@ export default function Page() {
     const lineGap = 12;
     const cols = Math.max(1, perLine);
     const rowCount = Math.max(1, rows);
-    // 实际需要的行数（按字数可能更少）
-    const needRows = Math.min(rowCount, Math.ceil(chars.length / cols));
 
     const w = padX * 2 + cols * cell;
-    const h = padY * 2 + needRows * cell + (needRows - 1) * lineGap;
+    const h = padY * 2 + rowCount * cell + (rowCount - 1) * lineGap;
     canvas.width = w;
     canvas.height = h;
     const ctx = canvas.getContext("2d");
@@ -143,16 +141,16 @@ export default function Page() {
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
 
-    for (let i = 0; i < chars.length; i++) {
+    const total = rowCount * cols;
+    for (let i = 0; i < total; i++) {
       const r = Math.floor(i / cols);
-      if (r >= needRows) break;
       const c = i % cols;
       const x = padX + c * cell;
       const y = padY + r * (cell + lineGap);
 
       drawGrid(ctx, x, y, cell, grid);
 
-      if (mode === "tracing") {
+      if (mode === "tracing" && i < chars.length) {
         // 描红：浅灰色字符供临摹
         ctx.save();
         ctx.fillStyle = "#CCCCCC";

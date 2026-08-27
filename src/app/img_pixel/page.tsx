@@ -84,12 +84,19 @@ export default function Page() {
   const generate = useCallback(() => {
     const out = outCanvasRef.current;
     if (!out) return;
-    if (outUrl) URL.revokeObjectURL(outUrl);
     out.toBlob((blob) => {
       if (!blob) return;
-      setOutUrl(URL.createObjectURL(blob));
+      const url = URL.createObjectURL(blob);
+      setOutUrl((prev) => {
+        if (prev) URL.revokeObjectURL(prev);
+        return url;
+      });
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `${fileName}_pixel.png`;
+      a.click();
     }, "image/png");
-  }, [outUrl]);
+  }, [fileName]);
 
   useEffect(() => {
     return () => {

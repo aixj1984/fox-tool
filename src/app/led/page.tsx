@@ -1,18 +1,20 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import QRCode from "qrcode";
 import {
   ToolPageShell,
   ToolCard,
   ToolButton,
   ToolInput,
   ToolLabel,
+  CopyButton,
 } from "@/components/sites/tool-browser-qq-com/shared/ToolPageShell";
+import { LedMarquee } from "@/components/led-marquee";
+import { encodeLedConfig, type LedDirection } from "@/lib/led-config";
 
 const DESCRIPTION =
   "手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上。";
-
-type Direction = "left" | "right";
 
 export default function Page() {
   const [text, setText] = useState("FoxHelper");
@@ -20,31 +22,49 @@ export default function Page() {
   const [bg, setBg] = useState("#000000");
   const [fontSize, setFontSize] = useState(120);
   const [speed, setSpeed] = useState(8); // seconds per loop
-  const [direction, setDirection] = useState<Direction>("left");
+  const [direction, setDirection] = useState<LedDirection>("left");
   const [playing, setPlaying] = useState(true);
 
   const display = text.trim() ? text : "请输入文字";
 
-  // Key forces the animation to restart when settings change so the
-  // new duration/direction takes effect immediately.
   const [animKey, setAnimKey] = useState(0);
   const restart = () => setAnimKey((k) => k + 1);
 
-  // Restart animation whenever a setting that affects the keyframes changes.
-  useEffect(() => {
-    restart();
-  }, [speed, direction, text, fontSize]);
+  // Compose a key from the settings that affect the animation so React
+  // remounts the marquee (restarting the keyframes) whenever they change —
+  // no manual effect needed. `animKey` is appended so the 重新开始 button
+  // can force a restart on demand.
+  const marqueeKey = `${animKey}-${speed}-${direction}-${fontSize}-${text}`;
 
-  const marqueeStyle: React.CSSProperties = {
-    color,
-    backgroundColor: bg,
-    fontSize: `${fontSize}px`,
-    lineHeight: 1.2,
-    fontWeight: 700,
-    fontFamily: '"Microsoft YaHei", "PingFang SC", sans-serif',
-    letterSpacing: "0.05em",
-    textShadow: `0 0 12px ${color}`,
-  };
+  // Build a shareable display URL that mirrors the current settings.
+  // Lazy-init reads window.location.origin on the client; on SSR it's "".
+  const [origin] = useState(() =>
+    typeof window !== "undefined" ? window.location.origin : "",
+  );
+  const displayUrl = origin
+    ? `${origin}/led/display?${encodeLedConfig({ text, color, bg, fontSize, speed, direction })}`
+    : "";
+
+  const [qrUrl, setQrUrl] = useState("");
+  useEffect(() => {
+    if (!displayUrl) return;
+    let cancelled = false;
+    QRCode.toDataURL(displayUrl, {
+      width: 240,
+      margin: 1,
+      errorCorrectionLevel: "M",
+      color: { dark: "#000000", light: "#FFFFFF" },
+    })
+      .then((url) => {
+        if (!cancelled) setQrUrl(url);
+      })
+      .catch(() => {
+        if (!cancelled) setQrUrl("");
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [displayUrl]);
 
   return (
     <ToolPageShell title="手持弹幕LED" description={DESCRIPTION}>
@@ -106,18 +126,18 @@ export default function Page() {
           </div>
 
           <div className="mt-[16px] flex flex-wrap items-center gap-[12px]">
-            <div>
-              <ToolLabel>滚动方向</ToolLabel>
+            <div className="flex items-center gap-[8px]">
+              <span className="text-[14px] font-medium text-[#242424]">滚动方向</span>
               <select
                 value={direction}
-                onChange={(e) => setDirection(e.target.value as Direction)}
+                onChange={(e) => setDirection(e.target.value as LedDirection)}
                 className="h-[40px] rounded-[8px] border border-[#E5E7EB] bg-white px-[10px] text-[14px] text-[#242424] outline-none focus:border-[#136CE9]"
               >
                 <option value="left">向左滚动</option>
                 <option value="right">向右滚动</option>
               </select>
             </div>
-            <div className="flex items-end gap-[8px]">
+            <div className="flex items-center gap-[8px]">
               <ToolButton onClick={() => setPlaying((p) => !p)}>
                 {playing ? "暂停" : "播放"}
               </ToolButton>
@@ -134,68 +154,54 @@ export default function Page() {
             className="relative flex w-full items-center overflow-hidden"
             style={{ height: `${fontSize * 2}px`, backgroundColor: bg }}
           >
-            <Marquee
-              key={animKey}
+            <LedMarquee
+              key={marqueeKey}
               text={display}
-              style={marqueeStyle}
+              color={color}
+              bg={bg}
+              fontSize={fontSize}
               duration={speed}
               direction={direction}
               playing={playing}
-              fontSize={fontSize}
             />
           </div>
         </div>
+
+        <ToolCard>
+          <div className="grid gap-[20px] sm:grid-cols-[auto_1fr] sm:items-center">
+            <div className="justify-self-center">
+              {qrUrl ? (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={qrUrl}
+                  alt="LED 展示页二维码"
+                  width={200}
+                  height={200}
+                  className="rounded-[8px] border border-[#E5E7EB]"
+                />
+              ) : (
+                <div className="h-[200px] w-[200px] rounded-[8px] border border-[#E5E7EB] bg-[#FAFAFA]" />
+              )}
+            </div>
+            <div>
+              <div className="mb-[6px] flex items-center justify-between gap-[12px]">
+                <ToolLabel>扫码在手机上展示</ToolLabel>
+                {displayUrl && <CopyButton text={displayUrl} label="复制链接" />}
+              </div>
+              <p className="break-all text-[13px] leading-[20px] text-[#8F8F8F]">
+                {displayUrl || "正在生成链接……"}
+              </p>
+              <p className="mt-[10px] text-[12px] text-[#8F8F8F]">
+                扫码或打开链接进入独立展示页，文字和样式与当前一致；在手机上点一下屏幕可呼出极简工具栏，建议横屏全屏使用。
+              </p>
+            </div>
+          </div>
+        </ToolCard>
 
         <p className="text-[13px] text-[#8F8F8F]">
           提示：将手机横屏全屏展示，即可当作手持 LED 弹幕使用。
         </p>
       </div>
     </ToolPageShell>
-  );
-}
-
-function Marquee({
-  text,
-  style,
-  duration,
-  direction,
-  playing,
-  fontSize,
-}: {
-  text: string;
-  style: React.CSSProperties;
-  duration: number;
-  direction: Direction;
-  playing: boolean;
-  fontSize: number;
-}) {
-  // The track holds two copies of the text so the loop is seamless.
-  // Animation translates from 0 to -50% (left) or -50% to 0 (right).
-  const fromX = direction === "left" ? "0%" : "-50%";
-  const toX = direction === "left" ? "-50%" : "0%";
-
-  const keyframes = `@keyframes ledmarquee_${direction} {
-    from { transform: translateX(${fromX}); }
-    to { transform: translateX(${toX}); }
-  }`;
-
-  const trackStyle: React.CSSProperties = {
-    display: "inline-flex",
-    whiteSpace: "nowrap",
-    animationName: `ledmarquee_${direction}`,
-    animationDuration: `${duration}s`,
-    animationTimingFunction: "linear",
-    animationIterationCount: "infinite",
-    animationPlayState: playing ? "running" : "paused",
-  };
-
-  return (
-    <>
-      <style>{keyframes}</style>
-      <div style={trackStyle}>
-        <span style={{ ...style, paddingRight: `${fontSize}px` }}>{text}</span>
-        <span style={{ ...style, paddingRight: `${fontSize}px` }}>{text}</span>
-      </div>
-    </>
   );
 }
